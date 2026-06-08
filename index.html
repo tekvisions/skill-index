@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="light">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>The Skill Index — every Claude Code & AI-agent skill, ranked by momentum</title>
+<meta name="description" content="A living, daily-updated directory of Claude Code and AI-agent skills — skills, subagents, slash-commands, hooks and curated collections — ranked by momentum from live GitHub signals.">
+<link rel="canonical" href="https://skill-index-three.vercel.app/">
+<meta name="robots" content="index,follow">
+<meta name="author" content="The Skill Index">
+<meta name="keywords" content="claude code skills, claude skills, agent skills, claude code subagents, slash commands, claude plugins, AI agent skills directory, awesome claude skills">
+
+<!-- Open Graph -->
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://skill-index-three.vercel.app/">
+<meta property="og:title" content="The Skill Index — every Claude Code & AI-agent skill, ranked by momentum">
+<meta property="og:description" content="A living directory of Claude Code & AI-agent skills, ranked daily by momentum from live GitHub signals.">
+<meta property="og:image" content="https://skill-index-three.vercel.app/og.png">
+<meta property="og:site_name" content="The Skill Index">
+<!-- Twitter -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="The Skill Index — every Claude Code & AI-agent skill">
+<meta name="twitter:description" content="A living directory of Claude Code & AI-agent skills, ranked daily by momentum.">
+<meta name="twitter:image" content="https://skill-index-three.vercel.app/og.png">
+
+<link rel="icon" href="/favicon.svg" type="image/svg+xml">
+<link rel="alternate" type="application/rss+xml" title="The Skill Index" href="/rss.xml">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400..700;1,9..144,400..600&family=JetBrains+Mono:wght@400;500;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/style.css">
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "The Skill Index",
+  "url": "https://skill-index-three.vercel.app/",
+  "description": "A living, daily-updated directory of Claude Code and AI-agent skills, ranked by momentum from live GitHub signals.",
+  "publisher": { "@type": "Organization", "name": "The Skill Index" }
+}
+</script>
+</head>
+<body>
+<header>
+  <div class="wrap head-row">
+    <div class="wordmark">
+      <span class="mark">The&nbsp;Skill&nbsp;Index</span>
+      <span class="edition" id="edition">— edition —</span>
+    </div>
+    <div class="head-actions">
+      <a href="/rss.xml">RSS</a>
+      <a href="/llms.txt">llms.txt</a>
+      <a href="https://github.com/tekvisions" target="_blank" rel="noopener">GitHub</a>
+      <button class="theme-btn" id="theme" aria-label="Toggle theme">◐</button>
+    </div>
+  </div>
+</header>
+
+<main>
+  <section class="hero">
+    <div class="wrap">
+      <div class="kicker">A living index, recomputed daily</div>
+      <h1>Every <em>skill</em> worth knowing, ranked by momentum.</h1>
+      <p class="lede">Claude Code skills, subagents, slash-commands, hooks, and the curated collections that hold them — gathered from live GitHub signals and sorted by what's actually moving.</p>
+      <div class="stats">
+        <div class="stat"><div class="num" id="s-count" data-count="0">0</div><div class="lbl">skills indexed</div></div>
+        <div class="stat"><div class="num" id="s-cats" data-count="0">0</div><div class="lbl">categories</div></div>
+        <div class="stat"><div class="num" id="s-top">—</div><div class="lbl">top momentum</div></div>
+      </div>
+    </div>
+  </section>
+
+  <section class="toolbar">
+    <div class="wrap">
+      <div class="search-row">
+        <label class="search">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="7"/><path d="m21 21-4.3-4.3"/></svg>
+          <input id="q" type="search" placeholder="search skills, owners, topics…" autocomplete="off" spellcheck="false">
+        </label>
+        <div class="sort" id="sort">
+          <button data-sort="momentum" class="active">Momentum</button>
+          <button data-sort="stars">Stars</button>
+          <button data-sort="new">Newest</button>
+        </div>
+      </div>
+      <div class="chips" id="chips"></div>
+    </div>
+  </section>
+
+  <div class="wrap">
+    <div class="meta-line" id="metaline">loading the index…</div>
+    <div class="grid" id="grid"></div>
+  </div>
+</main>
+
+<footer>
+  <div class="wrap foot-row">
+    <div>
+      <div class="blurb">The Skill Index is a self-updating reference. Every day a GitHub Action recomputes each skill's momentum — stars, push-recency, and how fast it's rising — and republishes the index. No editors, no opinions, just the signal.</div>
+      <div class="updated" id="foot-updated"></div>
+    </div>
+    <div class="links">
+      <a href="/sitemap.xml">Sitemap</a>
+      <a href="/rss.xml">RSS feed</a>
+      <a href="/llms.txt">llms.txt</a>
+      <a href="https://github.com/tekvisions" target="_blank" rel="noopener">Built by tekvisions →</a>
+    </div>
+  </div>
+</footer>
+
+<script src="/app.js"></script>
+</body>
+</html>
