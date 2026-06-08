@@ -28,7 +28,7 @@ from datetime import datetime, timezone
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 API = "https://api.github.com"
-SITE_URL = "https://skill-index-three.vercel.app"
+SITE_URL = "https://skill.kymatalabs.com"
 SITE_NAME = "The Skill Index"
 
 
