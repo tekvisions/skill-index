@@ -46,6 +46,8 @@ QUERIES = [
     "topic:claude-skills stars:>2",
     "topic:agent-skills stars:>2",
     "topic:claude-code-skills stars:>1",
+    "topic:openclaw-plugin stars:>2",
+    "topic:openclaw-skill stars:>1",
     "claude code skill in:name,description stars:>8",
     "agent skills in:name,description stars:>15",
     "awesome claude skills in:name,description stars:>5",
@@ -58,10 +60,12 @@ QUERIES = [
 # skill signal in topics, OR a skill phrase in name/description. Tuned to keep curated lists
 # and skill packs while dropping generic mega-repos that merely mention "skills".
 _SKILL_TOPICS = {"claude-code", "claude-skills", "agent-skills", "claude-code-skills",
-                 "claude-plugins", "claude-skill", "agent-skill", "subagents", "slash-commands"}
+                 "claude-plugins", "claude-skill", "agent-skill", "subagents", "slash-commands",
+                 "openclaw-plugin", "openclaw-skill", "clawhub"}
 _SKILL_PHRASES = re.compile(
     r"\b(claude[- ]code|claude skill|agent skill|skill(s)? (pack|library|collection|directory)"
-    r"|subagent|slash[- ]command|\.claude|claude plugin|skill marketplace)\b", re.I)
+    r"|subagent|slash[- ]command|\.claude|claude plugin|openclaw (skill|plugin)"
+    r"|clawhub|skill marketplace)\b", re.I)
 # Hard denylist: repos that match a phrase/topic but are NOT skills.
 _DENY = {"snailclimb/javaguide", "danny-avila/librechat", "lobehub/lobehub",
          "kubesphere/kubesphere", "alibaba/zvec", "chatboxai/chatbox", "xixu-me/xget",

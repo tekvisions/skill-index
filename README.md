@@ -22,7 +22,7 @@
 
 ## What it is
 
-**The Skill Index** is a living, self-updating directory of Claude Code skills, subagents, slash-commands, hooks, and the curated collections that hold them.
+**The Skill Index** is a living, self-updating directory of Claude Code and OpenClaw skills, subagents, slash-commands, hooks, plugins, and the curated collections that hold them.
 
 Every repository is ranked by **momentum** — not by total stars, and not by who paid for placement.
 The whole index is **recomputed every day** from live GitHub signals and republished automatically.
@@ -75,6 +75,12 @@ python3 -m http.server 8080                    # open http://localhost:8080
 ```
 
 No build step, no framework — static HTML/CSS/JS by design, so it loads instantly and hosts anywhere.
+
+Run the discovery classifier regression tests without making network requests:
+
+```bash
+python3 -m unittest test_build_data.py
+```
 
 ## Tech
 
