@@ -1,15 +1,15 @@
 #!/usr/bin/env python3
-"""The Skill Index — recompute the living index of Claude Code / AI-agent skills from live
+"""The Skill Index - recompute the living index of Claude Code / AI-agent skills from live
 GitHub signals and write data.json + the SEO surfaces (sitemap, rss, robots, llms.txt).
 
 A "skill" here = a repo that packages reusable agent capability: Claude Code skills,
 slash-commands, hooks, subagents, plugins, and the curated "awesome" collections of them.
 We gather across several GitHub searches, dedupe, FILTER to real skills (precision over
-recall — a directory people trust beats a noisy dump), categorize, and score by momentum
+recall - a directory people trust beats a noisy dump), categorize, and score by momentum
 (stars, push-recency, rising-newness). Run daily by the GitHub Action; commit + deploy.
 
 Only the GitHub *search* payload is used (stars/pushed_at/created_at/topics/owner/license),
-so one run is a handful of API calls — no per-repo fan-out that would trip the rate limit.
+so one run is a handful of API calls - no per-repo fan-out that would trip the rate limit.
 
 Env: GITHUB_TOKEN (required for a usable rate limit).
 """
@@ -48,6 +48,7 @@ QUERIES = [
     "topic:claude-code-skills stars:>1",
     "topic:openclaw-plugin stars:>2",
     "topic:openclaw-skill stars:>1",
+    "topic:clawhub stars:>1",
     "claude code skill in:name,description stars:>8",
     "agent skills in:name,description stars:>15",
     "awesome claude skills in:name,description stars:>5",
@@ -73,7 +74,7 @@ _DENY = {"snailclimb/javaguide", "danny-avila/librechat", "lobehub/lobehub",
          "htmlstreamofficial/preline"}
 # Anti-patterns: a description that marks the repo as a platform/app/library, NOT a skill.
 # Applied even to topic-matched repos (a mis-tagged claude-code topic shouldn't smuggle in a
-# Kubernetes platform). Keeps precision high — a directory people trust beats a noisy dump.
+# Kubernetes platform). Keeps precision high - a directory people trust beats a noisy dump.
 _ANTI = re.compile(
     r"\b(container platform|vector database|ui (kit|component|components|library)|prebuilt ui"
     r"|ai client|chat client|chatgpt clone|desktop (app|client)|browser extension"
@@ -91,7 +92,7 @@ def gh(path_or_url: str, *, retries: int = 4):
                 return json.loads(r.read())
         except urllib.error.HTTPError as e:
             last = e
-            if e.code in (403, 429):          # rate limit — back off and retry
+            if e.code in (403, 429):          # rate limit - back off and retry
                 reset = e.headers.get("X-RateLimit-Reset")
                 wait = 5 * (attempt + 1)
                 if reset:
@@ -99,7 +100,7 @@ def gh(path_or_url: str, *, retries: int = 4):
                         wait = max(wait, min(60, int(reset) - int(time.time()) + 2))
                     except ValueError:
                         pass
-                print(f"  rate-limited on {url} — sleeping {wait}s", file=sys.stderr)
+                print(f"  rate-limited on {url} - sleeping {wait}s", file=sys.stderr)
                 time.sleep(wait)
                 continue
             if 500 <= e.code < 600:
@@ -129,7 +130,7 @@ def is_skill(r: dict) -> bool:
     if full in _DENY:
         return False
     desc = r.get("description") or ""
-    if _ANTI.search(desc):                     # platform/app/library — not a skill
+    if _ANTI.search(desc):                     # platform/app/library - not a skill
         return False
     topics = {t.lower() for t in (r.get("topics") or [])}
     if topics & _SKILL_TOPICS:
@@ -253,7 +254,7 @@ def write_seo(data: dict) -> None:
     items = data["items"]
     now = datetime.now(timezone.utc).strftime("%Y-%m-%d")
 
-    # sitemap.xml — home + every detail page
+    # sitemap.xml - home + every detail page
     urls = [f"  <url><loc>{SITE_URL}/</loc><lastmod>{now}</lastmod><changefreq>daily</changefreq><priority>1.0</priority></url>"]
     for it in items:
         urls.append(f"  <url><loc>{SITE_URL}/p/{it['slug']}/</loc><lastmod>{now}</lastmod>"
@@ -267,13 +268,13 @@ def write_seo(data: dict) -> None:
     open(os.path.join(HERE, "robots.txt"), "w", encoding="utf-8").write(
         f"User-agent: *\nAllow: /\nSitemap: {SITE_URL}/sitemap.xml\n")
 
-    # rss.xml — top 30 by momentum
+    # rss.xml - top 30 by momentum
     def esc(s):
         return (s or "").replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
     rss_items = []
     for it in items[:30]:
         rss_items.append(
-            f"    <item><title>{esc(it['full_name'])} — momentum {it['momentum']}</title>"
+            f"    <item><title>{esc(it['full_name'])} - momentum {it['momentum']}</title>"
             f"<link>{SITE_URL}/p/{it['slug']}/</link>"
             f"<guid isPermaLink=\"false\">{esc(it['full_name'])}</guid>"
             f"<description>{esc(it['description'][:300])}</description></item>")
@@ -283,24 +284,24 @@ def write_seo(data: dict) -> None:
            + "\n".join(rss_items) + "\n  </channel>\n</rss>\n")
     open(os.path.join(HERE, "rss.xml"), "w", encoding="utf-8").write(rss)
 
-    # llms.txt — a machine-readable summary for AI crawlers
+    # llms.txt - a machine-readable summary for AI crawlers
     lines = [f"# {SITE_NAME}", "",
              "> The living index of Claude Code and AI-agent skills, ranked daily by momentum",
              "> (stars, push-recency, rising-newness) from live GitHub signals.", "",
              f"Updated: {data['generated_at']}", f"Skills indexed: {data['count']}", "",
              "## Top skills by momentum", ""]
     for it in items[:40]:
-        lines.append(f"- [{it['full_name']}]({it['url']}) — momentum {it['momentum']}, "
-                     f"⭐{it['stars']} — {it['category']} — {it['description'][:100]}")
+        lines.append(f"- [{it['full_name']}]({it['url']}) - momentum {it['momentum']}, "
+                     f"⭐{it['stars']} - {it['category']} - {it['description'][:100]}")
     open(os.path.join(HERE, "llms.txt"), "w", encoding="utf-8").write("\n".join(lines) + "\n")
 
 
 def main() -> int:
     if not token():
-        print("WARNING: no GITHUB_TOKEN — low rate limit, results may be partial", file=sys.stderr)
+        print("WARNING: no GITHUB_TOKEN - low rate limit, results may be partial", file=sys.stderr)
     items = build_items()
     if not items:
-        print("ERROR: no skills found — refusing to write empty data.json", file=sys.stderr)
+        print("ERROR: no skills found - refusing to write empty data.json", file=sys.stderr)
         return 1
     data = write_json(items)
     write_seo(data)

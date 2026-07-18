@@ -24,7 +24,7 @@
 
 **The Skill Index** is a living, self-updating directory of Claude Code and OpenClaw skills, subagents, slash-commands, hooks, plugins, and the curated collections that hold them.
 
-Every repository is ranked by **momentum** — not by total stars, and not by who paid for placement.
+Every repository is ranked by **momentum** - not by total stars, and not by who paid for placement.
 The whole index is **recomputed every day** from live GitHub signals and republished automatically.
 No editors, no vendor decks, just the signal.
 
@@ -32,11 +32,11 @@ No editors, no vendor decks, just the signal.
 
 ## Features
 
-- 📊 **Momentum ranking** — a 0–100 score blending stars, push-recency, and how fast a repo is rising
-- 🔄 **Self-updating** — a daily GitHub Action recomputes and redeploys; the index is never stale
-- 🗂 **9 categories** — `Collections` · `Commands & Hooks` · `Subagents` · `MCP & Tools` · `General Skills` · `Design & UI` · `Memory & Context` · `Quality & Review` · `Writing & Content`
-- 🔎 **Instant search, filter &amp; sort** — by momentum, stars, or newest, fully client-side
-- 📄 **An SEO landing page for every entry** — title, meta, canonical, Open Graph, and `SoftwareSourceCode` JSON-LD
+- 📊 **Momentum ranking** - a 0–100 score blending stars, push-recency, and how fast a repo is rising
+- 🔄 **Self-updating** - a daily GitHub Action recomputes and redeploys; the index is never stale
+- 🗂 **9 categories** - `Collections` · `Commands & Hooks` · `Subagents` · `MCP & Tools` · `General Skills` · `Design & UI` · `Memory & Context` · `Quality & Review` · `Writing & Content`
+- 🔎 **Instant search, filter &amp; sort** - by momentum, stars, or newest, fully client-side
+- 📄 **An SEO landing page for every entry** - title, meta, canonical, Open Graph, and `SoftwareSourceCode` JSON-LD
 - 🌗 **Light &amp; dark themes**, RSS feed, and an `llms.txt` for AI crawlers
 
 ## How it works
@@ -47,13 +47,13 @@ build_data.py   →   data.json   →   gen_details.py   →   deploy.py   →  
 ```
 
 1. **`build_data.py`** searches GitHub across several queries, de-duplicates, **filters to real
-   skills** (precision over recall — a directory you can trust beats a noisy dump), categorizes,
+   skills** (precision over recall - a directory you can trust beats a noisy dump), categorizes,
    and scores each by momentum → writes `data.json` + the SEO surfaces (`sitemap.xml`, `rss.xml`,
    `robots.txt`, `llms.txt`).
 2. **`gen_details.py`** renders one fully-SEO'd landing page per entry under `p/<slug>/`.
 3. **`gen_og.py`** renders the Open Graph share card.
 4. **`deploy.py`** ships the static site to Vercel via the REST API.
-5. A **daily GitHub Action** runs the whole pipeline and redeploys — so the index reflects the
+5. A **daily GitHub Action** runs the whole pipeline and redeploys - so the index reflects the
    ecosystem as it is *today*.
 
 ### How momentum is scored
@@ -64,7 +64,7 @@ momentum = 0.55 · log-scaled stars   (popularity, compressed so giants don't fl
          + 0.13 · rising-newness     (a bonus for young repos gaining stars fast)
 ```
 
-A repo that shipped a release this week outranks a bigger repo that's gone quiet — momentum, not legacy.
+A repo that shipped a release this week outranks a bigger repo that's gone quiet - momentum, not legacy.
 
 ## Run it locally
 
@@ -74,13 +74,15 @@ python3 gen_details.py && python3 gen_og.py    # render the per-entry pages + OG
 python3 -m http.server 8080                    # open http://localhost:8080
 ```
 
-No build step, no framework — static HTML/CSS/JS by design, so it loads instantly and hosts anywhere.
+No build step, no framework - static HTML/CSS/JS by design, so it loads instantly and hosts anywhere.
 
 Run the discovery classifier regression tests without making network requests:
 
 ```bash
 python3 -m unittest test_build_data.py
 ```
+
+Xquik is an independent third-party service. Not affiliated with X Corp. "Twitter" and "X" are trademarks of X Corp.
 
 ## Tech
 

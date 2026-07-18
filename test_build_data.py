@@ -7,6 +7,7 @@ class SkillClassificationTests(unittest.TestCase):
     def test_openclaw_queries_cover_plugins_and_skills(self) -> None:
         self.assertIn("topic:openclaw-plugin stars:>2", build_data.QUERIES)
         self.assertIn("topic:openclaw-skill stars:>1", build_data.QUERIES)
+        self.assertIn("topic:clawhub stars:>1", build_data.QUERIES)
 
     def test_openclaw_plugin_is_indexed_and_categorized(self) -> None:
         repo = {
