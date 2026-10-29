@@ -19,11 +19,15 @@ jobs:
     runs-on: ubuntu-latest
     env:
       VERCEL_TOKEN: ${{ secrets.VERCEL_TOKEN }}
+      VERCEL_PROJECT: skill-index
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
+      - name: Check deployment target guard
+        run: python -m unittest discover -s tests -p 'test_deploy_target.py'
+
       - name: Install Pillow (for og.png)
         run: pip install --quiet Pillow
 
