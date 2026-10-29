@@ -15,7 +15,9 @@ import hashlib, json, os, sys, urllib.request, urllib.error
 ROOT = os.path.dirname(os.path.abspath(__file__))
 TOKEN = os.environ.get("VERCEL_TOKEN", "").strip()
 TEAM = os.environ.get("VERCEL_TEAM_ID", "team_L6hpqgg8pEHznOzrnU66JuoW").strip()
-PROJECT = os.environ.get("VERCEL_PROJECT", "stacktracker").strip()
+PROJECT = os.environ.get("VERCEL_PROJECT", "skill-index").strip()
+EXPECTED_PROJECT_ID = "prj_2UIzNrHeVh5CjP71Dj0UKy4GyhMV"
+
 SKIP = {".git", ".vercel", "node_modules", "__pycache__"}
 SKIP_FILES = {".DS_Store"}
 # only ship what the site needs — never the build scripts or workflow
@@ -41,12 +43,11 @@ def _preflight_overwrite_guard():
     guard that would have prevented the 2026-06-01 kymatalabs clobber. Force with
     ALLOW_OVERWRITE=1.
     """
-    if os.environ.get("ALLOW_OVERWRITE") == "1":
-        return
     st, resp = req(f"https://api.vercel.com/v9/projects/{PROJECT}?teamId={TEAM}",
                    headers={"Authorization": f"Bearer {TOKEN}"})
     if st == 404:
-        return  # project doesn't exist yet -> first deploy, nothing to overwrite
+        print("REFUSING to deploy: the existing Skill Index project was not found.", file=sys.stderr)
+        sys.exit(2)
     if st >= 400:
         # cannot verify (401/403/5xx) -> FAIL CLOSED, don't risk a clobber
         print(f"REFUSING to deploy: could not verify project '{PROJECT}' "
@@ -60,6 +61,12 @@ def _preflight_overwrite_guard():
         print(f"REFUSING to deploy: project '{PROJECT}' response was unparseable; "
               f"failing closed. Re-run with ALLOW_OVERWRITE=1 to force.", file=sys.stderr)
         sys.exit(2)
+    if proj.get("id") != EXPECTED_PROJECT_ID:
+        print(f"REFUSING to deploy: target project {proj.get('id')!r} is not Skill Index "
+              f"({EXPECTED_PROJECT_ID}).", file=sys.stderr)
+        sys.exit(2)
+    if os.environ.get("ALLOW_OVERWRITE") == "1":
+        return  # explicit framework override never bypasses project identity
     fw = proj.get("framework")
     prod = (proj.get("targets") or {}).get("production") or {}
     ref = (prod.get("meta") or {}).get("githubCommitRef")
