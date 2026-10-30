@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-30T15:11:26.301764+00:00",
- "count": 282,
+ "generated_at": "2026-10-30T20:59:08.401332+00:00",
+ "count": 283,
  "categories": [
   {
    "name": "Collections",
@@ -8,7 +8,7 @@
   },
   {
    "name": "MCP & Tools",
-   "count": 48
+   "count": 49
   },
   {
    "name": "Commands & Hooks",
@@ -20,11 +20,11 @@
   },
   {
    "name": "Design & UI",
-   "count": 34
+   "count": 35
   },
   {
    "name": "General Skills",
-   "count": 26
+   "count": 25
   },
   {
    "name": "Writing & Content",
@@ -47,12 +47,12 @@
    "url": "https://github.com/Gathin23/cleanyourtv",
    "owner": "Gathin23",
    "owner_avatar": "https://avatars.githubusercontent.com/u/94786511?v=4",
-   "stars": 46259,
-   "forks": 5694,
-   "open_issues": 173,
+   "stars": 46589,
+   "forks": 5745,
+   "open_issues": 145,
    "language": "Python",
    "license": "NOASSERTION",
-   "pushed_at": "2026-10-30T13:12:19Z",
+   "pushed_at": "2026-10-30T18:31:57Z",
    "created_at": "2026-10-17T08:12:35Z",
    "description": "Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.",
    "topics": [
@@ -85,12 +85,12 @@
    "url": "https://github.com/morluto/rea",
    "owner": "morluto",
    "owner_avatar": "https://avatars.githubusercontent.com/u/76467478?v=4",
-   "stars": 410890,
-   "forks": 102842,
-   "open_issues": 1314,
+   "stars": 411899,
+   "forks": 103058,
+   "open_issues": 1348,
    "language": "TypeScript",
    "license": "MIT",
-   "pushed_at": "2026-10-30T14:41:59Z",
+   "pushed_at": "2026-10-30T20:29:52Z",
    "created_at": "2026-04-14T00:51:32Z",
    "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
    "topics": [
@@ -126,9 +126,9 @@
    "url": "https://github.com/affaan-m/ECC",
    "owner": "affaan-m",
    "owner_avatar": "https://avatars.githubusercontent.com/u/124439313?v=4",
-   "stars": 293131,
-   "forks": 43373,
-   "open_issues": 183,
+   "stars": 293333,
+   "forks": 43404,
+   "open_issues": 186,
    "language": "JavaScript",
    "license": "MIT",
    "pushed_at": "2026-10-30T03:06:42Z",
@@ -155,12 +155,12 @@
    "url": "https://github.com/NousResearch/hermes-agent",
    "owner": "NousResearch",
    "owner_avatar": "https://avatars.githubusercontent.com/u/134168893?v=4",
-   "stars": 258759,
-   "forks": 56857,
-   "open_issues": 52040,
+   "stars": 258857,
+   "forks": 56892,
+   "open_issues": 52062,
    "language": "Python",
    "license": "MIT",
-   "pushed_at": "2026-10-30T15:05:59Z",
+   "pushed_at": "2026-10-30T20:26:02Z",
    "created_at": "2025-07-22T22:22:28Z",
    "description": "The agent that grows with you",
    "topics": [
@@ -189,8 +189,8 @@
    "url": "https://github.com/anthropics/skills",
    "owner": "anthropics",
    "owner_avatar": "https://avatars.githubusercontent.com/u/76263028?v=4",
-   "stars": 185036,
-   "forks": 21879,
+   "stars": 185208,
+   "forks": 21886,
    "open_issues": 1450,
    "language": "Python",
    "license": "",
@@ -211,8 +211,8 @@
    "url": "https://github.com/DietrichGebert/ponytail",
    "owner": "DietrichGebert",
    "owner_avatar": "https://avatars.githubusercontent.com/u/137048761?v=4",
-   "stars": 180746,
-   "forks": 9927,
+   "stars": 180893,
+   "forks": 9937,
    "open_issues": 140,
    "language": "JavaScript",
    "license": "MIT",
@@ -242,12 +242,12 @@
    "url": "https://github.com/farion1231/cc-switch",
    "owner": "farion1231",
    "owner_avatar": "https://avatars.githubusercontent.com/u/44939412?v=4",
-   "stars": 150355,
-   "forks": 9879,
-   "open_issues": 1115,
+   "stars": 150390,
+   "forks": 9881,
+   "open_issues": 1120,
    "language": "Rust",
    "license": "MIT",
-   "pushed_at": "2026-10-30T14:19:12Z",
+   "pushed_at": "2026-10-30T16:02:33Z",
    "created_at": "2025-08-04T14:16:16Z",
    "description": "A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode,DeepSeek Harness and more. Only official website: ccswitch.io",
    "topics": [
@@ -282,12 +282,12 @@
    "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
    "owner": "nextlevelbuilder",
    "owner_avatar": "https://avatars.githubusercontent.com/u/246974152?v=4",
-   "stars": 142898,
-   "forks": 15123,
-   "open_issues": 91,
+   "stars": 142986,
+   "forks": 15137,
+   "open_issues": 90,
    "language": "Python",
    "license": "MIT",
-   "pushed_at": "2026-10-26T10:07:28Z",
+   "pushed_at": "2026-10-30T19:08:34Z",
    "created_at": "2025-11-30T11:36:31Z",
    "description": "An AI skill that provides design intelligence for building professional UI/UX across multiple platforms.",
    "topics": [
@@ -322,9 +322,9 @@
    "url": "https://github.com/Graphify-Labs/graphify",
    "owner": "Graphify-Labs",
    "owner_avatar": "https://avatars.githubusercontent.com/u/297659074?v=4",
-   "stars": 139217,
-   "forks": 13271,
-   "open_issues": 1667,
+   "stars": 139403,
+   "forks": 13298,
+   "open_issues": 1678,
    "language": "Python",
    "license": "Apache-2.0",
    "pushed_at": "2026-10-27T18:15:35Z",
@@ -363,8 +363,8 @@
    "url": "https://github.com/JuliusBrussee/caveman",
    "owner": "JuliusBrussee",
    "owner_avatar": "https://avatars.githubusercontent.com/u/104168679?v=4",
-   "stars": 116257,
-   "forks": 6725,
+   "stars": 116309,
+   "forks": 6730,
    "open_issues": 129,
    "language": "Go",
    "license": "Apache-2.0",
@@ -394,8 +394,8 @@
    "url": "https://github.com/addyosmani/agent-skills",
    "owner": "addyosmani",
    "owner_avatar": "https://avatars.githubusercontent.com/u/110953?v=4",
-   "stars": 111907,
-   "forks": 11715,
+   "stars": 111971,
+   "forks": 11720,
    "open_issues": 145,
    "language": "JavaScript",
    "license": "MIT",
@@ -421,12 +421,12 @@
    "url": "https://github.com/stablyai/orca",
    "owner": "stablyai",
    "owner_avatar": "https://avatars.githubusercontent.com/u/127256420?v=4",
-   "stars": 110810,
-   "forks": 7005,
-   "open_issues": 7891,
+   "stars": 111021,
+   "forks": 7023,
+   "open_issues": 7873,
    "language": "TypeScript",
    "license": "MIT",
-   "pushed_at": "2026-10-30T15:08:58Z",
+   "pushed_at": "2026-10-30T20:58:36Z",
    "created_at": "2026-03-17T03:28:57Z",
    "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
    "topics": [
@@ -462,12 +462,12 @@
    "url": "https://github.com/paperclipai/paperclip",
    "owner": "paperclipai",
    "owner_avatar": "https://avatars.githubusercontent.com/u/264498616?v=4",
-   "stars": 108873,
-   "forks": 18029,
-   "open_issues": 6638,
+   "stars": 108959,
+   "forks": 18038,
+   "open_issues": 6607,
    "language": "TypeScript",
    "license": "MIT",
-   "pushed_at": "2026-10-30T15:09:25Z",
+   "pushed_at": "2026-10-30T20:58:17Z",
    "created_at": "2026-03-02T15:01:51Z",
    "description": "The open-source app everyone uses to manage agents at work",
    "topics": [
@@ -503,12 +503,12 @@
    "url": "https://github.com/Leonxlnx/taste-skill",
    "owner": "Leonxlnx",
    "owner_avatar": "https://avatars.githubusercontent.com/u/219127460?v=4",
-   "stars": 106073,
-   "forks": 7173,
+   "stars": 106253,
+   "forks": 7184,
    "open_issues": 8,
    "language": "JavaScript",
    "license": "MIT",
-   "pushed_at": "2026-10-30T09:24:57Z",
+   "pushed_at": "2026-10-30T18:25:22Z",
    "created_at": "2026-02-19T21:44:05Z",
    "description": "Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages",
    "topics": [
@@ -535,12 +535,12 @@
    "url": "https://github.com/thedotmack/claude-mem",
    "owner": "thedotmack",
    "owner_avatar": "https://avatars.githubusercontent.com/u/683968?v=4",
-   "stars": 105608,
-   "forks": 9305,
-   "open_issues": 126,
+   "stars": 106041,
+   "forks": 9340,
+   "open_issues": 136,
    "language": "TypeScript",
    "license": "Apache-2.0",
-   "pushed_at": "2026-10-30T03:07:33Z",
+   "pushed_at": "2026-10-30T19:01:44Z",
    "created_at": "2025-08-31T20:50:03Z",
    "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
    "topics": [
@@ -576,12 +576,12 @@
    "url": "https://github.com/nexu-io/open-design",
    "owner": "nexu-io",
    "owner_avatar": "https://avatars.githubusercontent.com/u/263625318?v=4",
-   "stars": 104994,
-   "forks": 11976,
+   "stars": 105032,
+   "forks": 11978,
    "open_issues": 1316,
    "language": "TypeScript",
    "license": "Apache-2.0",
-   "pushed_at": "2026-10-30T15:00:11Z",
+   "pushed_at": "2026-10-30T18:16:14Z",
    "created_at": "2026-04-28T04:25:20Z",
    "description": "The 1st Collaborative AI Design Agent Workspace. Local-first and open source. Create motion, prototypes, websites, apps, dashboards, presentations, images, and videos with your team and AI agents. Share work, exchange feedback, and iterate together in one workspace.",
    "topics": [
@@ -617,12 +617,12 @@
    "url": "https://github.com/pbakaus/impeccable",
    "owner": "pbakaus",
    "owner_avatar": "https://avatars.githubusercontent.com/u/43004?v=4",
-   "stars": 96585,
-   "forks": 5688,
-   "open_issues": 50,
+   "stars": 96898,
+   "forks": 5706,
+   "open_issues": 53,
    "language": "Rust",
    "license": "Apache-2.0",
-   "pushed_at": "2026-10-30T10:16:27Z",
+   "pushed_at": "2026-10-30T17:36:40Z",
    "created_at": "2025-11-16T01:52:04Z",
    "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
    "topics": [
@@ -643,12 +643,12 @@
    "url": "https://github.com/tt-a1i/archify",
    "owner": "tt-a1i",
    "owner_avatar": "https://avatars.githubusercontent.com/u/53142663?v=4",
-   "stars": 91740,
-   "forks": 6247,
-   "open_issues": 267,
+   "stars": 91804,
+   "forks": 6256,
+   "open_issues": 268,
    "language": "JavaScript",
    "license": "Apache-2.0",
-   "pushed_at": "2026-10-30T10:43:07Z",
+   "pushed_at": "2026-10-30T17:03:33Z",
    "created_at": "2026-04-15T05:27:37Z",
    "description": "Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more.",
    "topics": [
@@ -678,45 +678,14 @@
    "rank": 18
   },
   {
-   "name": "universal-modder",
-   "full_name": "rehan-remade/universal-modder",
-   "slug": "rehan-remade-universal-modder",
-   "url": "https://github.com/rehan-remade/universal-modder",
-   "owner": "rehan-remade",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/173837546?v=4",
-   "stars": 9226,
-   "forks": 1031,
-   "open_issues": 22,
-   "language": "Python",
-   "license": "MIT",
-   "pushed_at": "2026-10-30T12:49:56Z",
-   "created_at": "2026-09-30T05:00:35Z",
-   "description": "Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos.",
-   "topics": [
-    "age-of-empires",
-    "claude-code",
-    "claude-code-plugin",
-    "fal",
-    "game-assets",
-    "game-modding",
-    "mcp",
-    "modding",
-    "reverse-engineering",
-    "tmodloader"
-   ],
-   "category": "MCP & Tools",
-   "momentum": 81,
-   "rank": 19
-  },
-  {
    "name": "Agent-Reach",
    "full_name": "Panniantong/Agent-Reach",
    "slug": "panniantong-agent-reach",
    "url": "https://github.com/Panniantong/Agent-Reach",
    "owner": "Panniantong",
    "owner_avatar": "https://avatars.githubusercontent.com/u/73925474?v=4",
-   "stars": 106662,
-   "forks": 9467,
+   "stars": 106766,
+   "forks": 9489,
    "open_issues": 271,
    "language": "Python",
    "license": "MIT",
@@ -744,7 +713,7 @@
    ],
    "category": "MCP & Tools",
    "momentum": 80,
-   "rank": 20
+   "rank": 19
   },
   {
    "name": "Understand-Anything",
@@ -753,8 +722,8 @@
    "url": "https://github.com/Egonex-AI/Understand-Anything",
    "owner": "Egonex-AI",
    "owner_avatar": "https://avatars.githubusercontent.com/u/257477979?v=4",
-   "stars": 89015,
-   "forks": 7542,
+   "stars": 89062,
+   "forks": 7547,
    "open_issues": 337,
    "language": "TypeScript",
    "license": "MIT",
@@ -782,7 +751,7 @@
    ],
    "category": "Memory & Context",
    "momentum": 80,
-   "rank": 21
+   "rank": 20
   },
   {
    "name": "rtk",
@@ -791,12 +760,12 @@
    "url": "https://github.com/rtk-ai/rtk",
    "owner": "rtk-ai",
    "owner_avatar": "https://avatars.githubusercontent.com/u/258253854?v=4",
-   "stars": 85059,
-   "forks": 5427,
+   "stars": 85077,
+   "forks": 5429,
    "open_issues": 1642,
    "language": "Rust",
    "license": "Apache-2.0",
-   "pushed_at": "2026-10-30T15:02:23Z",
+   "pushed_at": "2026-10-30T18:07:02Z",
    "created_at": "2026-01-22T16:54:16Z",
    "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
    "topics": [
@@ -816,7 +785,7 @@
    ],
    "category": "General Skills",
    "momentum": 80,
-   "rank": 22
+   "rank": 21
   },
   {
    "name": "OmniRoute",
@@ -825,12 +794,12 @@
    "url": "https://github.com/cheaper-inference/OmniRoute",
    "owner": "cheaper-inference",
    "owner_avatar": "https://avatars.githubusercontent.com/u/320819803?v=4",
-   "stars": 82763,
-   "forks": 12273,
-   "open_issues": 503,
+   "stars": 82848,
+   "forks": 12300,
+   "open_issues": 514,
    "language": "TypeScript",
    "license": "MIT",
-   "pushed_at": "2026-10-29T13:17:45Z",
+   "pushed_at": "2026-10-30T18:51:51Z",
    "created_at": "2026-02-13T12:38:31Z",
    "description": "Never stop coding. Free MIT AI gateway: one endpoint, 375 providers (150+ free), 1,400+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 900+ contributors",
    "topics": [
@@ -857,7 +826,7 @@
    ],
    "category": "MCP & Tools",
    "momentum": 80,
-   "rank": 23
+   "rank": 22
   },
   {
    "name": "career-ops",
@@ -866,12 +835,12 @@
    "url": "https://github.com/career-ops-hq/career-ops",
    "owner": "career-ops-hq",
    "owner_avatar": "https://avatars.githubusercontent.com/u/323287742?v=4",
-   "stars": 78820,
-   "forks": 14547,
-   "open_issues": 527,
+   "stars": 78870,
+   "forks": 14557,
+   "open_issues": 516,
    "language": "JavaScript",
    "license": "MIT",
-   "pushed_at": "2026-10-30T14:56:27Z",
+   "pushed_at": "2026-10-30T20:41:59Z",
    "created_at": "2026-04-04T18:21:18Z",
    "description": "Open-source AI job search agent and job finder: scan job boards, score each job 1-5 against your CV before you apply, tailor an ATS-friendly resume and cover letter, get interview prep and an application tracker. It helps you fill in each application; you press Submit. Runs locally in Codex, OpenCode and other AI CLIs, or as a Claude Code plugin.",
    "topics": [
@@ -898,7 +867,7 @@
    ],
    "category": "General Skills",
    "momentum": 80,
-   "rank": 24
+   "rank": 23
   },
   {
    "name": "headroom",
@@ -907,12 +876,12 @@
    "url": "https://github.com/headroomlabs-ai/headroom",
    "owner": "headroomlabs-ai",
    "owner_avatar": "https://avatars.githubusercontent.com/u/294291659?v=4",
-   "stars": 78347,
-   "forks": 6109,
-   "open_issues": 482,
+   "stars": 78368,
+   "forks": 6108,
+   "open_issues": 472,
    "language": "Python",
    "license": "Apache-2.0",
-   "pushed_at": "2026-10-30T14:17:31Z",
+   "pushed_at": "2026-10-30T18:20:12Z",
    "created_at": "2026-01-07T19:58:51Z",
    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
    "topics": [
@@ -939,7 +908,7 @@
    ],
    "category": "MCP & Tools",
    "momentum": 80,
-   "rank": 25
+   "rank": 24
   },
   {
    "name": "hyperframes",
@@ -948,12 +917,12 @@
    "url": "https://github.com/heygen-com/hyperframes",
    "owner": "heygen-com",
    "owner_avatar": "https://avatars.githubusercontent.com/u/65394575?v=4",
-   "stars": 75855,
-   "forks": 6915,
-   "open_issues": 221,
+   "stars": 75992,
+   "forks": 6927,
+   "open_issues": 203,
    "language": "TypeScript",
    "license": "Apache-2.0",
-   "pushed_at": "2026-10-30T15:10:35Z",
+   "pushed_at": "2026-10-30T20:37:14Z",
    "created_at": "2026-03-10T01:51:06Z",
    "description": "Write HTML. Render video. Built for agents.",
    "topics": [
@@ -975,6 +944,37 @@
    ],
    "category": "MCP & Tools",
    "momentum": 80,
+   "rank": 25
+  },
+  {
+   "name": "universal-modder",
+   "full_name": "rehan-remade/universal-modder",
+   "slug": "rehan-remade-universal-modder",
+   "url": "https://github.com/rehan-remade/universal-modder",
+   "owner": "rehan-remade",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/173837546?v=4",
+   "stars": 9238,
+   "forks": 1032,
+   "open_issues": 23,
+   "language": "Python",
+   "license": "MIT",
+   "pushed_at": "2026-10-30T12:49:56Z",
+   "created_at": "2026-09-30T05:00:35Z",
+   "description": "Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos.",
+   "topics": [
+    "age-of-empires",
+    "claude-code",
+    "claude-code-plugin",
+    "fal",
+    "game-assets",
+    "game-modding",
+    "mcp",
+    "modding",
+    "reverse-engineering",
+    "tmodloader"
+   ],
+   "category": "MCP & Tools",
+   "momentum": 80,
    "rank": 26
   },
   {
@@ -984,8 +984,8 @@
    "url": "https://github.com/shareAI-lab/learn-claude-code",
    "owner": "shareAI-lab",
    "owner_avatar": "https://avatars.githubusercontent.com/u/189210346?v=4",
-   "stars": 79573,
-   "forks": 12734,
+   "stars": 79582,
+   "forks": 12739,
    "open_issues": 51,
    "language": "Python",
    "license": "MIT",
@@ -1015,8 +1015,8 @@
    "url": "https://github.com/calesthio/OpenMontage",
    "owner": "calesthio",
    "owner_avatar": "https://avatars.githubusercontent.com/u/213189893?v=4",
-   "stars": 73227,
-   "forks": 9581,
+   "stars": 73344,
+   "forks": 9603,
    "open_issues": 417,
    "language": "Python",
    "license": "AGPL-3.0",
@@ -1055,12 +1055,12 @@
    "url": "https://github.com/code-yeongyu/oh-my-openagent",
    "owner": "code-yeongyu",
    "owner_avatar": "https://avatars.githubusercontent.com/u/11153873?v=4",
-   "stars": 70501,
-   "forks": 5821,
-   "open_issues": 2002,
+   "stars": 70505,
+   "forks": 5822,
+   "open_issues": 2014,
    "language": "TypeScript",
    "license": "NOASSERTION",
-   "pushed_at": "2026-10-30T14:58:01Z",
+   "pushed_at": "2026-10-30T20:53:45Z",
    "created_at": "2025-12-03T01:40:05Z",
    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
    "topics": [
@@ -1091,8 +1091,8 @@
    "url": "https://github.com/asgeirtj/system_prompts_leaks",
    "owner": "asgeirtj",
    "owner_avatar": "https://avatars.githubusercontent.com/u/27446620?v=4",
-   "stars": 70470,
-   "forks": 11410,
+   "stars": 70492,
+   "forks": 11411,
    "open_issues": 21,
    "language": "Python",
    "license": "CC0-1.0",
@@ -1132,7 +1132,7 @@
    "url": "https://github.com/shanraisshan/claude-code-best-practice",
    "owner": "shanraisshan",
    "owner_avatar": "https://avatars.githubusercontent.com/u/11731897?v=4",
-   "stars": 68330,
+   "stars": 68333,
    "forks": 6790,
    "open_issues": 35,
    "language": "HTML",
@@ -1173,9 +1173,9 @@
    "url": "https://github.com/ai-job-search-dev/ai-job-search",
    "owner": "ai-job-search-dev",
    "owner_avatar": "https://avatars.githubusercontent.com/u/345951025?v=4",
-   "stars": 67682,
-   "forks": 21490,
-   "open_issues": 79,
+   "stars": 67922,
+   "forks": 21563,
+   "open_issues": 81,
    "language": "Python",
    "license": "MIT",
    "pushed_at": "2026-10-27T15:16:51Z",
@@ -1206,8 +1206,8 @@
    "url": "https://github.com/mvanhorn/last30days-skill",
    "owner": "mvanhorn",
    "owner_avatar": "https://avatars.githubusercontent.com/u/455140?v=4",
-   "stars": 65975,
-   "forks": 5743,
+   "stars": 65998,
+   "forks": 5748,
    "open_issues": 16,
    "language": "Python",
    "license": "MIT",
@@ -1241,43 +1241,14 @@
    "rank": 33
   },
   {
-   "name": "diagram-design",
-   "full_name": "cathrynlavery/diagram-design",
-   "slug": "cathrynlavery-diagram-design",
-   "url": "https://github.com/cathrynlavery/diagram-design",
-   "owner": "cathrynlavery",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/50469282?v=4",
-   "stars": 63196,
-   "forks": 4137,
-   "open_issues": 46,
-   "language": "HTML",
-   "license": "MIT",
-   "pushed_at": "2026-10-27T20:01:35Z",
-   "created_at": "2026-04-16T18:01:16Z",
-   "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 45 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-   "topics": [
-    "agent-skills",
-    "claude-code",
-    "codex",
-    "data-visualization",
-    "diagrams",
-    "drawio",
-    "mermaid",
-    "svg"
-   ],
-   "category": "Design & UI",
-   "momentum": 79,
-   "rank": 34
-  },
-  {
    "name": "humanizer",
    "full_name": "blader/humanizer",
    "slug": "blader-humanizer",
    "url": "https://github.com/blader/humanizer",
    "owner": "blader",
    "owner_avatar": "https://avatars.githubusercontent.com/u/1672?v=4",
-   "stars": 62618,
-   "forks": 4964,
+   "stars": 62696,
+   "forks": 4967,
    "open_issues": 14,
    "language": "Python",
    "license": "MIT",
@@ -1301,6 +1272,47 @@
    ],
    "category": "Writing & Content",
    "momentum": 79,
+   "rank": 34
+  },
+  {
+   "name": "marketingskills",
+   "full_name": "coreyhaines31/marketingskills",
+   "slug": "coreyhaines31-marketingskills",
+   "url": "https://github.com/coreyhaines31/marketingskills",
+   "owner": "coreyhaines31",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/34802794?v=4",
+   "stars": 57500,
+   "forks": 8479,
+   "open_issues": 68,
+   "language": "JavaScript",
+   "license": "MIT",
+   "pushed_at": "2026-10-30T19:42:03Z",
+   "created_at": "2026-01-15T19:45:23Z",
+   "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
+   "topics": [
+    "agent-skills",
+    "ai-agents",
+    "ai-seo",
+    "claude",
+    "claude-code",
+    "claude-code-plugin",
+    "claude-skills",
+    "codex",
+    "content-marketing",
+    "conversion-rate-optimization",
+    "copywriting",
+    "cursor",
+    "email-marketing",
+    "generative-engine-optimization",
+    "growth-marketing",
+    "marketing",
+    "marketing-automation",
+    "saas-marketing",
+    "seo",
+    "skill-md"
+   ],
+   "category": "Writing & Content",
+   "momentum": 79,
    "rank": 35
   },
   {
@@ -1310,9 +1322,9 @@
    "url": "https://github.com/router-for-me/CLIProxyAPI",
    "owner": "router-for-me",
    "owner_avatar": "https://avatars.githubusercontent.com/u/233033915?v=4",
-   "stars": 57011,
-   "forks": 8718,
-   "open_issues": 785,
+   "stars": 57031,
+   "forks": 8727,
+   "open_issues": 792,
    "language": "Go",
    "license": "MIT",
    "pushed_at": "2026-10-30T14:37:33Z",
@@ -1339,12 +1351,12 @@
    "url": "https://github.com/hesreallyhim/awesome-claude-code",
    "owner": "hesreallyhim",
    "owner_avatar": "https://avatars.githubusercontent.com/u/172150522?v=4",
-   "stars": 56903,
-   "forks": 4891,
-   "open_issues": 1049,
+   "stars": 56924,
+   "forks": 4894,
+   "open_issues": 1056,
    "language": "Python",
    "license": "NOASSERTION",
-   "pushed_at": "2026-10-30T15:06:52Z",
+   "pushed_at": "2026-10-30T18:07:14Z",
    "created_at": "2025-04-19T20:55:59Z",
    "description": "A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed champion of coding companions, from the unstoppable team at Anthropic PBC (no affiliation). A delectable showcase of top tier skills, ambidextrous agents, scintillating status lines, top notch developer tooling, and also we have plugins",
    "topics": [
@@ -1373,43 +1385,31 @@
    "rank": 37
   },
   {
-   "name": "marketingskills",
-   "full_name": "coreyhaines31/marketingskills",
-   "slug": "coreyhaines31-marketingskills",
-   "url": "https://github.com/coreyhaines31/marketingskills",
-   "owner": "coreyhaines31",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/34802794?v=4",
-   "stars": 57458,
-   "forks": 8473,
-   "open_issues": 66,
-   "language": "JavaScript",
+   "name": "diagram-design",
+   "full_name": "cathrynlavery/diagram-design",
+   "slug": "cathrynlavery-diagram-design",
+   "url": "https://github.com/cathrynlavery/diagram-design",
+   "owner": "cathrynlavery",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/50469282?v=4",
+   "stars": 63240,
+   "forks": 4145,
+   "open_issues": 49,
+   "language": "HTML",
    "license": "MIT",
-   "pushed_at": "2026-10-29T17:22:37Z",
-   "created_at": "2026-01-15T19:45:23Z",
-   "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
+   "pushed_at": "2026-10-27T20:01:35Z",
+   "created_at": "2026-04-16T18:01:16Z",
+   "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 45 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
    "topics": [
     "agent-skills",
-    "ai-agents",
-    "ai-seo",
-    "claude",
     "claude-code",
-    "claude-code-plugin",
-    "claude-skills",
     "codex",
-    "content-marketing",
-    "conversion-rate-optimization",
-    "copywriting",
-    "cursor",
-    "email-marketing",
-    "generative-engine-optimization",
-    "growth-marketing",
-    "marketing",
-    "marketing-automation",
-    "saas-marketing",
-    "seo",
-    "skill-md"
+    "data-visualization",
+    "diagrams",
+    "drawio",
+    "mermaid",
+    "svg"
    ],
-   "category": "Writing & Content",
+   "category": "Design & UI",
    "momentum": 78,
    "rank": 38
   },
@@ -1420,7 +1420,7 @@
    "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
    "owner": "K-Dense-AI",
    "owner_avatar": "https://avatars.githubusercontent.com/u/238572432?v=4",
-   "stars": 55371,
+   "stars": 55396,
    "forks": 4876,
    "open_issues": 74,
    "language": "Python",
@@ -1458,9 +1458,9 @@
    "url": "https://github.com/Imbad0202/academic-research-skills",
    "owner": "Imbad0202",
    "owner_avatar": "https://avatars.githubusercontent.com/u/132531341?v=4",
-   "stars": 54651,
-   "forks": 4171,
-   "open_issues": 40,
+   "stars": 54672,
+   "forks": 4174,
+   "open_issues": 41,
    "language": "Python",
    "license": "NOASSERTION",
    "pushed_at": "2026-10-28T02:56:11Z",
@@ -1487,7 +1487,7 @@
    "url": "https://github.com/VoltAgent/awesome-openclaw-skills",
    "owner": "VoltAgent",
    "owner_avatar": "https://avatars.githubusercontent.com/u/201282378?v=4",
-   "stars": 53440,
+   "stars": 53450,
    "forks": 5064,
    "open_issues": 3,
    "language": "",
@@ -1520,9 +1520,9 @@
    "url": "https://github.com/alibaba/open-code-review",
    "owner": "alibaba",
    "owner_avatar": "https://avatars.githubusercontent.com/u/1961952?v=4",
-   "stars": 49087,
-   "forks": 3596,
-   "open_issues": 360,
+   "stars": 49122,
+   "forks": 3597,
+   "open_issues": 362,
    "language": "Go",
    "license": "Apache-2.0",
    "pushed_at": "2026-10-30T06:18:12Z",
@@ -1547,12 +1547,12 @@
    "url": "https://github.com/sickn33/agentic-awesome-skills",
    "owner": "sickn33",
    "owner_avatar": "https://avatars.githubusercontent.com/u/184072420?v=4",
-   "stars": 48814,
-   "forks": 7086,
-   "open_issues": 9,
+   "stars": 48834,
+   "forks": 7088,
+   "open_issues": 10,
    "language": "Python",
    "license": "MIT",
-   "pushed_at": "2026-10-29T13:29:28Z",
+   "pushed_at": "2026-10-30T20:03:57Z",
    "created_at": "2026-01-14T17:48:09Z",
    "description": "2,877+ reusable AI agent skills for Claude Code, Codex, Cursor and Gemini CLI. AAS Core adds local catalog discovery, agent-owned selection and plan preview. CLI, MCP and plugins.",
    "topics": [
@@ -1588,9 +1588,9 @@
    "url": "https://github.com/DeusData/codebase-memory-mcp",
    "owner": "DeusData",
    "owner_avatar": "https://avatars.githubusercontent.com/u/81762164?v=4",
-   "stars": 47840,
-   "forks": 3935,
-   "open_issues": 592,
+   "stars": 47854,
+   "forks": 3936,
+   "open_issues": 593,
    "language": "C",
    "license": "MIT",
    "pushed_at": "2026-10-29T06:53:11Z",
@@ -1629,9 +1629,9 @@
    "url": "https://github.com/zhayujie/CowAgent",
    "owner": "zhayujie",
    "owner_avatar": "https://avatars.githubusercontent.com/u/26161723?v=4",
-   "stars": 47694,
-   "forks": 10412,
-   "open_issues": 39,
+   "stars": 47695,
+   "forks": 10413,
+   "open_issues": 42,
    "language": "Python",
    "license": "MIT",
    "pushed_at": "2026-10-30T03:07:24Z",
@@ -1667,9 +1667,9 @@
    "url": "https://github.com/herdrdev/herdr",
    "owner": "herdrdev",
    "owner_avatar": "https://avatars.githubusercontent.com/u/309108654?v=4",
-   "stars": 46840,
-   "forks": 3736,
-   "open_issues": 405,
+   "stars": 46914,
+   "forks": 3744,
+   "open_issues": 410,
    "language": "Rust",
    "license": "Apache-2.0",
    "pushed_at": "2026-10-29T12:57:41Z",
@@ -1706,12 +1706,12 @@
    "url": "https://github.com/reactive-resume/reactive-resume",
    "owner": "reactive-resume",
    "owner_avatar": "https://avatars.githubusercontent.com/u/245328954?v=4",
-   "stars": 45099,
-   "forks": 4897,
+   "stars": 45105,
+   "forks": 4900,
    "open_issues": 15,
    "language": "TypeScript",
    "license": "MIT",
-   "pushed_at": "2026-10-30T10:56:43Z",
+   "pushed_at": "2026-10-30T20:31:26Z",
    "created_at": "2020-03-25T14:08:22Z",
    "description": "A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!",
    "topics": [
@@ -1737,8 +1737,8 @@
    "url": "https://github.com/ayghri/i-have-adhd",
    "owner": "ayghri",
    "owner_avatar": "https://avatars.githubusercontent.com/u/32200675?v=4",
-   "stars": 59474,
-   "forks": 3454,
+   "stars": 59488,
+   "forks": 3456,
    "open_issues": 82,
    "language": "Python",
    "license": "MIT",
@@ -1764,7 +1764,7 @@
    "url": "https://github.com/jeecgboot/JeecgBoot",
    "owner": "jeecgboot",
    "owner_avatar": "https://avatars.githubusercontent.com/u/86360035?v=4",
-   "stars": 48344,
+   "stars": 48346,
    "forks": 16221,
    "open_issues": 10,
    "language": "Java",
@@ -1805,8 +1805,8 @@
    "url": "https://github.com/Nutlope/hallmark",
    "owner": "Nutlope",
    "owner_avatar": "https://avatars.githubusercontent.com/u/63742054?v=4",
-   "stars": 42504,
-   "forks": 2205,
+   "stars": 42874,
+   "forks": 2235,
    "open_issues": 66,
    "language": "CSS",
    "license": "MIT",
@@ -1825,9 +1825,9 @@
    "url": "https://github.com/github/awesome-copilot",
    "owner": "github",
    "owner_avatar": "https://avatars.githubusercontent.com/u/9919?v=4",
-   "stars": 40596,
-   "forks": 5241,
-   "open_issues": 78,
+   "stars": 40605,
+   "forks": 5245,
+   "open_issues": 86,
    "language": "JavaScript",
    "license": "MIT",
    "pushed_at": "2026-10-30T01:16:42Z",
@@ -1854,9 +1854,9 @@
    "url": "https://github.com/VoltAgent/awesome-agent-skills",
    "owner": "VoltAgent",
    "owner_avatar": "https://avatars.githubusercontent.com/u/201282378?v=4",
-   "stars": 36615,
-   "forks": 4013,
-   "open_issues": 10,
+   "stars": 36629,
+   "forks": 4024,
+   "open_issues": 16,
    "language": "",
    "license": "MIT",
    "pushed_at": "2026-10-30T13:28:09Z",
@@ -1889,9 +1889,9 @@
    "url": "https://github.com/google/elephant-goldfish-model",
    "owner": "google",
    "owner_avatar": "https://avatars.githubusercontent.com/u/1342004?v=4",
-   "stars": 6472,
-   "forks": 393,
-   "open_issues": 50,
+   "stars": 6554,
+   "forks": 399,
+   "open_issues": 60,
    "language": "Python",
    "license": "Apache-2.0",
    "pushed_at": "2026-10-30T09:33:24Z",
@@ -1926,7 +1926,7 @@
    "url": "https://github.com/wshobson/agents",
    "owner": "wshobson",
    "owner_avatar": "https://avatars.githubusercontent.com/u/553618?v=4",
-   "stars": 42003,
+   "stars": 42018,
    "forks": 4449,
    "open_issues": 18,
    "language": "Python",
@@ -1967,8 +1967,8 @@
    "url": "https://github.com/virgiliojr94/book-to-skill",
    "owner": "virgiliojr94",
    "owner_avatar": "https://avatars.githubusercontent.com/u/23645449?v=4",
-   "stars": 36560,
-   "forks": 3877,
+   "stars": 36584,
+   "forks": 3876,
    "open_issues": 23,
    "language": "Python",
    "license": "MIT",
@@ -2001,12 +2001,12 @@
    "url": "https://github.com/topoteretes/cognee",
    "owner": "topoteretes",
    "owner_avatar": "https://avatars.githubusercontent.com/u/125468716?v=4",
-   "stars": 32925,
+   "stars": 32934,
    "forks": 3439,
-   "open_issues": 1059,
+   "open_issues": 1063,
    "language": "Python",
    "license": "Apache-2.0",
-   "pushed_at": "2026-10-30T14:58:56Z",
+   "pushed_at": "2026-10-30T20:04:38Z",
    "created_at": "2023-08-16T16:16:33Z",
    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small models for free",
    "topics": [
@@ -2041,12 +2041,12 @@
    "url": "https://github.com/googleworkspace/cli",
    "owner": "googleworkspace",
    "owner_avatar": "https://avatars.githubusercontent.com/u/3708359?v=4",
-   "stars": 32004,
+   "stars": 32007,
    "forks": 1967,
-   "open_issues": 138,
+   "open_issues": 139,
    "language": "Rust",
    "license": "Apache-2.0",
-   "pushed_at": "2026-10-30T00:27:22Z",
+   "pushed_at": "2026-10-30T16:06:54Z",
    "created_at": "2026-03-02T19:46:06Z",
    "description": "Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.",
    "topics": [
@@ -2078,12 +2078,12 @@
    "url": "https://github.com/nanocoai/nanoclaw",
    "owner": "nanocoai",
    "owner_avatar": "https://avatars.githubusercontent.com/u/255066954?v=4",
-   "stars": 31057,
-   "forks": 12697,
-   "open_issues": 1032,
+   "stars": 31061,
+   "forks": 12695,
+   "open_issues": 1033,
    "language": "TypeScript",
    "license": "MIT",
-   "pushed_at": "2026-10-30T06:34:07Z",
+   "pushed_at": "2026-10-30T18:23:22Z",
    "created_at": "2026-01-31T15:47:22Z",
    "description": "A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Discord, Gmail and other messaging apps,, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK",
    "topics": [
@@ -2104,12 +2104,12 @@
    "url": "https://github.com/alirezarezvani/claude-skills",
    "owner": "alirezarezvani",
    "owner_avatar": "https://avatars.githubusercontent.com/u/5697919?v=4",
-   "stars": 29019,
-   "forks": 4024,
-   "open_issues": 0,
+   "stars": 29027,
+   "forks": 4028,
+   "open_issues": 2,
    "language": "Python",
    "license": "MIT",
-   "pushed_at": "2026-10-30T15:10:20Z",
+   "pushed_at": "2026-10-30T17:30:57Z",
    "created_at": "2025-10-19T04:04:05Z",
    "description": "380 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 380+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills.",
    "topics": [
@@ -2145,7 +2145,7 @@
    "url": "https://github.com/op7418/guizang-ppt-skill",
    "owner": "op7418",
    "owner_avatar": "https://avatars.githubusercontent.com/u/13505770?v=4",
-   "stars": 28973,
+   "stars": 28974,
    "forks": 1990,
    "open_issues": 53,
    "language": "HTML",
@@ -2171,13 +2171,85 @@
    "rank": 60
   },
   {
+   "name": "huashu-design",
+   "full_name": "alchaincyf/huashu-design",
+   "slug": "alchaincyf-huashu-design",
+   "url": "https://github.com/alchaincyf/huashu-design",
+   "owner": "alchaincyf",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/127714341?v=4",
+   "stars": 28225,
+   "forks": 3053,
+   "open_issues": 0,
+   "language": "HTML",
+   "license": "MIT",
+   "pushed_at": "2026-10-30T17:51:13Z",
+   "created_at": "2026-04-19T14:42:06Z",
+   "description": "Huashu Design 3.0 · 在 agent 里打一句话，拿回能交付的设计：网页 / App 原型 / 可编辑 PPTX / 动画 / 信息图 · 六个候选挑三个方向 · 84 种带样张的风格库 · 越用越懂你的外观账本与设计体检 · HTML-native design skill for Claude Code, Codex, Cursor & any agent",
+   "topics": [
+    "agent-skills",
+    "ai-design",
+    "claude-code",
+    "claude-skills",
+    "codex",
+    "cursor",
+    "design",
+    "html",
+    "pptx",
+    "prototype"
+   ],
+   "category": "Design & UI",
+   "momentum": 76,
+   "rank": 61
+  },
+  {
+   "name": "planning-with-files",
+   "full_name": "OthmanAdi/planning-with-files",
+   "slug": "othmanadi-planning-with-files",
+   "url": "https://github.com/OthmanAdi/planning-with-files",
+   "owner": "OthmanAdi",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/78882424?v=4",
+   "stars": 27775,
+   "forks": 2306,
+   "open_issues": 7,
+   "language": "Shell",
+   "license": "MIT",
+   "pushed_at": "2026-10-30T20:57:42Z",
+   "created_at": "2026-01-03T07:37:28Z",
+   "description": "Persistent file-based planning for AI coding agents and long-running tasks. Crash-proof markdown plans, session recovery after /clear and compaction, per-turn re-injection against context rot, deterministic completion gate. Manus-style. Install from npm, the Claude Code plugin marketplace, or npx skills. Codex, Cursor, OpenCode, 60+ agents.",
+   "topics": [
+    "agent-skills",
+    "autonomous-agents",
+    "claude",
+    "claude-code",
+    "claude-code-skills",
+    "claude-skills",
+    "codex",
+    "coding-agent",
+    "context-engineering",
+    "context-rot",
+    "cursor",
+    "github-copilot",
+    "hermes-plugin",
+    "hermes-skill",
+    "llm-agents",
+    "long-running-agents",
+    "manus",
+    "multi-agent-systems",
+    "planning",
+    "session-recovery"
+   ],
+   "category": "Subagents",
+   "momentum": 76,
+   "rank": 62
+  },
+  {
    "name": "open-seo-mcp-skills",
    "full_name": "Ryze-AI-Adgent/open-seo-mcp-skills",
    "slug": "ryze-ai-adgent-open-seo-mcp-skills",
    "url": "https://github.com/Ryze-AI-Adgent/open-seo-mcp-skills",
    "owner": "Ryze-AI-Adgent",
    "owner_avatar": "https://avatars.githubusercontent.com/u/239315082?v=4",
-   "stars": 8077,
+   "stars": 8150,
    "forks": 387,
    "open_issues": 4,
    "language": "Shell",
@@ -2209,7 +2281,36 @@
    ],
    "category": "MCP & Tools",
    "momentum": 76,
-   "rank": 61
+   "rank": 63
+  },
+  {
+   "name": "logo-design-skill",
+   "full_name": "kaankiziltug/logo-design-skill",
+   "slug": "kaankiziltug-logo-design-skill",
+   "url": "https://github.com/kaankiziltug/logo-design-skill",
+   "owner": "kaankiziltug",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/119437067?v=4",
+   "stars": 5387,
+   "forks": 425,
+   "open_issues": 4,
+   "language": "HTML",
+   "license": "MIT",
+   "pushed_at": "2026-10-20T09:14:19Z",
+   "created_at": "2026-09-26T08:23:34Z",
+   "description": "A comprehensive logo-design skill for Claude, Gemini CLI, Codex and other AI agents: principles, process, SVG craft, testing tools and a 1,400+ logo reference library.",
+   "topics": [
+    "agent-skills",
+    "branding",
+    "claude",
+    "claude-skills",
+    "codex",
+    "gemini-cli",
+    "logo-design",
+    "svg"
+   ],
+   "category": "Design & UI",
+   "momentum": 76,
+   "rank": 64
   },
   {
    "name": "invisible_dots",
@@ -2218,8 +2319,8 @@
    "url": "https://github.com/feder-cr/invisible_dots",
    "owner": "feder-cr",
    "owner_avatar": "https://avatars.githubusercontent.com/u/85809106?v=4",
-   "stars": 32310,
-   "forks": 4735,
+   "stars": 32312,
+   "forks": 4734,
    "open_issues": 5,
    "language": "TypeScript",
    "license": "MIT",
@@ -2250,48 +2351,7 @@
    ],
    "category": "MCP & Tools",
    "momentum": 75,
-   "rank": 62
-  },
-  {
-   "name": "planning-with-files",
-   "full_name": "OthmanAdi/planning-with-files",
-   "slug": "othmanadi-planning-with-files",
-   "url": "https://github.com/OthmanAdi/planning-with-files",
-   "owner": "OthmanAdi",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/78882424?v=4",
-   "stars": 27771,
-   "forks": 2305,
-   "open_issues": 5,
-   "language": "Python",
-   "license": "MIT",
-   "pushed_at": "2026-10-28T17:42:45Z",
-   "created_at": "2026-01-03T07:37:28Z",
-   "description": "Persistent file-based planning for AI coding agents and long-running tasks. Crash-proof markdown plans, session recovery after /clear and compaction, per-turn re-injection against context rot, deterministic completion gate. Manus-style. Install from npm, the Claude Code plugin marketplace, or npx skills. Codex, Cursor, OpenCode, 60+ agents.",
-   "topics": [
-    "agent-skills",
-    "autonomous-agents",
-    "claude",
-    "claude-code",
-    "claude-code-skills",
-    "claude-skills",
-    "codex",
-    "coding-agent",
-    "context-engineering",
-    "context-rot",
-    "cursor",
-    "github-copilot",
-    "hermes-plugin",
-    "hermes-skill",
-    "llm-agents",
-    "long-running-agents",
-    "manus",
-    "multi-agent-systems",
-    "planning",
-    "session-recovery"
-   ],
-   "category": "Subagents",
-   "momentum": 75,
-   "rank": 63
+   "rank": 65
   },
   {
    "name": "pm-skills",
@@ -2300,7 +2360,7 @@
    "url": "https://github.com/phuryn/pm-skills",
    "owner": "phuryn",
    "owner_avatar": "https://avatars.githubusercontent.com/u/7837354?v=4",
-   "stars": 27546,
+   "stars": 27547,
    "forks": 2852,
    "open_issues": 48,
    "language": "",
@@ -2319,7 +2379,7 @@
    ],
    "category": "General Skills",
    "momentum": 75,
-   "rank": 64
+   "rank": 66
   },
   {
    "name": "awesome-claude-code-subagents",
@@ -2328,8 +2388,8 @@
    "url": "https://github.com/VoltAgent/awesome-claude-code-subagents",
    "owner": "VoltAgent",
    "owner_avatar": "https://avatars.githubusercontent.com/u/201282378?v=4",
-   "stars": 26202,
-   "forks": 3008,
+   "stars": 26210,
+   "forks": 3009,
    "open_issues": 1,
    "language": "Shell",
    "license": "MIT",
@@ -2350,7 +2410,7 @@
    ],
    "category": "Collections",
    "momentum": 75,
-   "rank": 65
+   "rank": 67
   },
   {
    "name": "editor",
@@ -2359,8 +2419,8 @@
    "url": "https://github.com/pascalorg/editor",
    "owner": "pascalorg",
    "owner_avatar": "https://avatars.githubusercontent.com/u/214160140?v=4",
-   "stars": 25232,
-   "forks": 3139,
+   "stars": 25234,
+   "forks": 3140,
    "open_issues": 59,
    "language": "TypeScript",
    "license": "MIT",
@@ -2389,7 +2449,7 @@
    ],
    "category": "MCP & Tools",
    "momentum": 75,
-   "rank": 66
+   "rank": 68
   },
   {
    "name": "SkillSpector",
@@ -2398,12 +2458,12 @@
    "url": "https://github.com/NVIDIA/SkillSpector",
    "owner": "NVIDIA",
    "owner_avatar": "https://avatars.githubusercontent.com/u/1728152?v=4",
-   "stars": 23481,
-   "forks": 2031,
+   "stars": 23518,
+   "forks": 2034,
    "open_issues": 144,
    "language": "Python",
    "license": "Apache-2.0",
-   "pushed_at": "2026-10-30T13:35:04Z",
+   "pushed_at": "2026-10-30T20:27:17Z",
    "created_at": "2026-03-21T00:28:43Z",
    "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them.",
    "topics": [
@@ -2421,7 +2481,7 @@
    ],
    "category": "MCP & Tools",
    "momentum": 75,
-   "rank": 67
+   "rank": 69
   },
   {
    "name": "video-shotcraft",
@@ -2430,8 +2490,8 @@
    "url": "https://github.com/Vincentwei1021/video-shotcraft",
    "owner": "Vincentwei1021",
    "owner_avatar": "https://avatars.githubusercontent.com/u/18239147?v=4",
-   "stars": 15054,
-   "forks": 1442,
+   "stars": 15123,
+   "forks": 1447,
    "open_issues": 2,
    "language": "TypeScript",
    "license": "Apache-2.0",
@@ -2456,7 +2516,7 @@
    ],
    "category": "Design & UI",
    "momentum": 75,
-   "rank": 68
+   "rank": 70
   },
   {
    "name": "genoffice",
@@ -2465,9 +2525,9 @@
    "url": "https://github.com/genspark-ai/genoffice",
    "owner": "genspark-ai",
    "owner_avatar": "https://avatars.githubusercontent.com/u/242390443?v=4",
-   "stars": 11369,
-   "forks": 1573,
-   "open_issues": 72,
+   "stars": 11384,
+   "forks": 1575,
+   "open_issues": 77,
    "language": "TypeScript",
    "license": "Apache-2.0",
    "pushed_at": "2026-10-30T14:41:05Z",
@@ -2497,7 +2557,7 @@
    ],
    "category": "Design & UI",
    "momentum": 75,
-   "rank": 69
+   "rank": 71
   },
   {
    "name": "replica-skill",
@@ -2506,9 +2566,9 @@
    "url": "https://github.com/Jakeschincariol/replica-skill",
    "owner": "Jakeschincariol",
    "owner_avatar": "https://avatars.githubusercontent.com/u/196724947?v=4",
-   "stars": 6589,
-   "forks": 1167,
-   "open_issues": 15,
+   "stars": 6648,
+   "forks": 1178,
+   "open_issues": 16,
    "language": "Python",
    "license": "MIT",
    "pushed_at": "2026-10-03T12:07:53Z",
@@ -2527,7 +2587,7 @@
    ],
    "category": "Design & UI",
    "momentum": 75,
-   "rank": 70
+   "rank": 72
   },
   {
    "name": "Claude-Code-Game-Studios",
@@ -2536,8 +2596,8 @@
    "url": "https://github.com/Donchitos/Claude-Code-Game-Studios",
    "owner": "Donchitos",
    "owner_avatar": "https://avatars.githubusercontent.com/u/150119193?v=4",
-   "stars": 30192,
-   "forks": 4142,
+   "stars": 30364,
+   "forks": 4159,
    "open_issues": 71,
    "language": "Shell",
    "license": "MIT",
@@ -2560,38 +2620,7 @@
    ],
    "category": "Commands & Hooks",
    "momentum": 74,
-   "rank": 71
-  },
-  {
-   "name": "huashu-design",
-   "full_name": "alchaincyf/huashu-design",
-   "slug": "alchaincyf-huashu-design",
-   "url": "https://github.com/alchaincyf/huashu-design",
-   "owner": "alchaincyf",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/127714341?v=4",
-   "stars": 28207,
-   "forks": 3049,
-   "open_issues": 6,
-   "language": "HTML",
-   "license": "MIT",
-   "pushed_at": "2026-10-23T15:32:08Z",
-   "created_at": "2026-04-19T14:42:06Z",
-   "description": "Huashu Design 3.0 · 在 agent 里打一句话，拿回能交付的设计：网页 / App 原型 / 可编辑 PPTX / 动画 / 信息图 · 六个候选挑三个方向 · 84 种带样张的风格库 · 越用越懂你的外观账本与设计体检 · HTML-native design skill for Claude Code, Codex, Cursor & any agent",
-   "topics": [
-    "agent-skills",
-    "ai-design",
-    "claude-code",
-    "claude-skills",
-    "codex",
-    "cursor",
-    "design",
-    "html",
-    "pptx",
-    "prototype"
-   ],
-   "category": "Design & UI",
-   "momentum": 74,
-   "rank": 72
+   "rank": 73
   },
   {
    "name": "claude-seo",
@@ -2600,8 +2629,8 @@
    "url": "https://github.com/AgriciDaniel/claude-seo",
    "owner": "AgriciDaniel",
    "owner_avatar": "https://avatars.githubusercontent.com/u/223140489?v=4",
-   "stars": 24299,
-   "forks": 3252,
+   "stars": 24440,
+   "forks": 3259,
    "open_issues": 75,
    "language": "Python",
    "license": "MIT",
@@ -2619,7 +2648,7 @@
    ],
    "category": "Writing & Content",
    "momentum": 74,
-   "rank": 73
+   "rank": 74
   },
   {
    "name": "ego-lite",
@@ -2628,9 +2657,9 @@
    "url": "https://github.com/citrolabs/ego-lite",
    "owner": "citrolabs",
    "owner_avatar": "https://avatars.githubusercontent.com/u/234319236?v=4",
-   "stars": 20827,
-   "forks": 1167,
-   "open_issues": 238,
+   "stars": 20855,
+   "forks": 1166,
+   "open_issues": 239,
    "language": "JavaScript",
    "license": "MIT",
    "pushed_at": "2026-10-30T09:17:40Z",
@@ -2650,7 +2679,7 @@
    ],
    "category": "Design & UI",
    "momentum": 74,
-   "rank": 74
+   "rank": 75
   },
   {
    "name": "notebooklm-py",
@@ -2659,12 +2688,12 @@
    "url": "https://github.com/teng-lin/notebooklm-py",
    "owner": "teng-lin",
    "owner_avatar": "https://avatars.githubusercontent.com/u/737447?v=4",
-   "stars": 19993,
-   "forks": 2664,
-   "open_issues": 21,
+   "stars": 20000,
+   "forks": 2667,
+   "open_issues": 19,
    "language": "Python",
    "license": "MIT",
-   "pushed_at": "2026-10-30T14:44:46Z",
+   "pushed_at": "2026-10-30T18:41:20Z",
    "created_at": "2026-01-07T15:27:19Z",
    "description": "Unofficial Python API and agentic skill for Google Gemini Notebook. Full programmatic access to Gemini Notebook's features—including capabilities the web UI doesn't expose—via Python, CLI, and AI agents like Claude Code, Codex, and OpenClaw.",
    "topics": [
@@ -2685,7 +2714,7 @@
    ],
    "category": "Design & UI",
    "momentum": 74,
-   "rank": 75
+   "rank": 76
   },
   {
    "name": "SkillOpt",
@@ -2694,9 +2723,9 @@
    "url": "https://github.com/microsoft/SkillOpt",
    "owner": "microsoft",
    "owner_avatar": "https://avatars.githubusercontent.com/u/6154722?v=4",
-   "stars": 18778,
-   "forks": 1779,
-   "open_issues": 61,
+   "stars": 18784,
+   "forks": 1780,
+   "open_issues": 62,
    "language": "Python",
    "license": "MIT",
    "pushed_at": "2026-10-29T14:45:12Z",
@@ -2708,7 +2737,7 @@
    ],
    "category": "General Skills",
    "momentum": 74,
-   "rank": 76
+   "rank": 77
   },
   {
    "name": "Auto-claude-code-research-in-sleep",
@@ -2717,7 +2746,7 @@
    "url": "https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep",
    "owner": "wanshuiyin",
    "owner_avatar": "https://avatars.githubusercontent.com/u/76990859?v=4",
-   "stars": 18337,
+   "stars": 18342,
    "forks": 1503,
    "open_issues": 74,
    "language": "Python",
@@ -2749,7 +2778,7 @@
    ],
    "category": "MCP & Tools",
    "momentum": 74,
-   "rank": 77
+   "rank": 78
   },
   {
    "name": "awesome-short-drama-skills",
@@ -2758,8 +2787,8 @@
    "url": "https://github.com/UnderleveledBuilder/awesome-short-drama-skills",
    "owner": "UnderleveledBuilder",
    "owner_avatar": "https://avatars.githubusercontent.com/u/20830358?v=4",
-   "stars": 1424,
-   "forks": 168,
+   "stars": 1467,
+   "forks": 171,
    "open_issues": 8,
    "language": "HTML",
    "license": "CC0-1.0",
@@ -2790,7 +2819,7 @@
    ],
    "category": "Collections",
    "momentum": 74,
-   "rank": 78
+   "rank": 79
   },
   {
    "name": "ai-guide",
@@ -2799,8 +2828,8 @@
    "url": "https://github.com/liyupi/ai-guide",
    "owner": "liyupi",
    "owner_avatar": "https://avatars.githubusercontent.com/u/26037703?v=4",
-   "stars": 21750,
-   "forks": 2370,
+   "stars": 21754,
+   "forks": 2371,
    "open_issues": 2,
    "language": "JavaScript",
    "license": "NOASSERTION",
@@ -2831,7 +2860,7 @@
    ],
    "category": "MCP & Tools",
    "momentum": 73,
-   "rank": 79
+   "rank": 80
   },
   {
    "name": "brag",
@@ -2840,8 +2869,8 @@
    "url": "https://github.com/latent-spaces/brag",
    "owner": "latent-spaces",
    "owner_avatar": "https://avatars.githubusercontent.com/u/292754346?v=4",
-   "stars": 19582,
-   "forks": 1512,
+   "stars": 19618,
+   "forks": 1515,
    "open_issues": 14,
    "language": "Python",
    "license": "MIT",
@@ -2858,7 +2887,7 @@
    ],
    "category": "Design & UI",
    "momentum": 73,
-   "rank": 80
+   "rank": 81
   },
   {
    "name": "open-saas",
@@ -2867,8 +2896,8 @@
    "url": "https://github.com/wasp-lang/open-saas",
    "owner": "wasp-lang",
    "owner_avatar": "https://avatars.githubusercontent.com/u/55102317?v=4",
-   "stars": 16204,
-   "forks": 1962,
+   "stars": 16209,
+   "forks": 1963,
    "open_issues": 107,
    "language": "MDX",
    "license": "MIT",
@@ -2899,7 +2928,7 @@
    ],
    "category": "Design & UI",
    "momentum": 73,
-   "rank": 81
+   "rank": 82
   },
   {
    "name": "cc-haha",
@@ -2908,12 +2937,12 @@
    "url": "https://github.com/NanmiCoder/cc-haha",
    "owner": "NanmiCoder",
    "owner_avatar": "https://avatars.githubusercontent.com/u/47178017?v=4",
-   "stars": 15235,
+   "stars": 15237,
    "forks": 8609,
-   "open_issues": 200,
+   "open_issues": 201,
    "language": "TypeScript",
    "license": "NOASSERTION",
-   "pushed_at": "2026-10-30T14:03:31Z",
+   "pushed_at": "2026-10-30T16:52:15Z",
    "created_at": "2026-03-31T17:30:14Z",
    "description": "本地优先的跨平台 Claude Code / AI Agent 桌面工作台：多 Agent 协作、Git Worktree、代码 Diff、技能市场、多模型、Computer Use、桌面宠物；支持微信、飞书、钉钉及 H5 等远程访问。 | Local-first Claude Code / AI Agent desktop workspace: multi-agent teams, Git worktrees, diffs, skills marketplace, multi-model, Computer Use, task-aware desktop pets; remote via WeChat, Feishu, DingTalk, Telegram, WhatsApp & H5.",
    "topics": [
@@ -2934,7 +2963,7 @@
    ],
    "category": "MCP & Tools",
    "momentum": 73,
-   "rank": 82
+   "rank": 83
   },
   {
    "name": "memU",
@@ -2944,7 +2973,7 @@
    "owner": "NevaMind-AI",
    "owner_avatar": "https://avatars.githubusercontent.com/u/217726889?v=4",
    "stars": 14582,
-   "forks": 1095,
+   "forks": 1096,
    "open_issues": 138,
    "language": "Python",
    "license": "NOASSERTION",
@@ -2965,7 +2994,7 @@
    ],
    "category": "MCP & Tools",
    "momentum": 73,
-   "rank": 83
+   "rank": 84
   },
   {
    "name": "awesome-claude-skills",
@@ -2974,8 +3003,8 @@
    "url": "https://github.com/ComposioHQ/awesome-claude-skills",
    "owner": "ComposioHQ",
    "owner_avatar": "https://avatars.githubusercontent.com/u/128464815?v=4",
-   "stars": 78331,
-   "forks": 9435,
+   "stars": 78349,
+   "forks": 9438,
    "open_issues": 1878,
    "language": "Python",
    "license": "",
@@ -3003,7 +3032,7 @@
    ],
    "category": "Collections",
    "momentum": 72,
-   "rank": 84
+   "rank": 85
   },
   {
    "name": "distilly",
@@ -3012,8 +3041,8 @@
    "url": "https://github.com/titanwings/distilly",
    "owner": "titanwings",
    "owner_avatar": "https://avatars.githubusercontent.com/u/85022018?v=4",
-   "stars": 26209,
-   "forks": 2238,
+   "stars": 26216,
+   "forks": 2239,
    "open_issues": 72,
    "language": "Python",
    "license": "MIT",
@@ -3043,7 +3072,7 @@
    ],
    "category": "Memory & Context",
    "momentum": 72,
-   "rank": 85
+   "rank": 86
   },
   {
    "name": "prompt-master",
@@ -3052,8 +3081,8 @@
    "url": "https://github.com/nidhinjs/prompt-master",
    "owner": "nidhinjs",
    "owner_avatar": "https://avatars.githubusercontent.com/u/254035488?v=4",
-   "stars": 15282,
-   "forks": 1769,
+   "stars": 15291,
+   "forks": 1771,
    "open_issues": 30,
    "language": "",
    "license": "MIT",
@@ -3068,7 +3097,7 @@
    ],
    "category": "Memory & Context",
    "momentum": 72,
-   "rank": 86
+   "rank": 87
   },
   {
    "name": "claude-skills",
@@ -3079,10 +3108,10 @@
    "owner_avatar": "https://avatars.githubusercontent.com/u/23423962?v=4",
    "stars": 12142,
    "forks": 1162,
-   "open_issues": 40,
+   "open_issues": 37,
    "language": "JavaScript",
    "license": "MIT",
-   "pushed_at": "2026-10-30T15:02:56Z",
+   "pushed_at": "2026-10-30T18:00:19Z",
    "created_at": "2025-10-20T20:27:22Z",
    "description": "67 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.",
    "topics": [
@@ -3094,7 +3123,7 @@
    ],
    "category": "General Skills",
    "momentum": 72,
-   "rank": 87
+   "rank": 88
   },
   {
    "name": "geo-seo-claude",
@@ -3103,8 +3132,8 @@
    "url": "https://github.com/zubair-trabzada/geo-seo-claude",
    "owner": "zubair-trabzada",
    "owner_avatar": "https://avatars.githubusercontent.com/u/13802400?v=4",
-   "stars": 11371,
-   "forks": 1719,
+   "stars": 11375,
+   "forks": 1718,
    "open_issues": 24,
    "language": "Python",
    "license": "MIT",
@@ -3114,7 +3143,7 @@
    "topics": [],
    "category": "Writing & Content",
    "momentum": 72,
-   "rank": 88
+   "rank": 89
   },
   {
    "name": "awesome-claude-video-skills",
@@ -3123,12 +3152,12 @@
    "url": "https://github.com/zhuyansen/awesome-claude-video-skills",
    "owner": "zhuyansen",
    "owner_avatar": "https://avatars.githubusercontent.com/u/24306647?v=4",
-   "stars": 1283,
-   "forks": 127,
+   "stars": 1296,
+   "forks": 128,
    "open_issues": 6,
    "language": "",
    "license": "NOASSERTION",
-   "pushed_at": "2026-10-29T16:21:28Z",
+   "pushed_at": "2026-10-30T16:08:10Z",
    "created_at": "2026-09-27T04:06:05Z",
    "description": "Open-source skills and toolkits that let Claude Code, Codex and other coding agents make video. 180 repos by type, each security-graded. English / 中文.",
    "topics": [
@@ -3145,7 +3174,7 @@
    ],
    "category": "Collections",
    "momentum": 72,
-   "rank": 89
+   "rank": 90
   },
   {
    "name": "reverse-skill",
@@ -3154,8 +3183,8 @@
    "url": "https://github.com/zhaoxuya520/reverse-skill",
    "owner": "zhaoxuya520",
    "owner_avatar": "https://avatars.githubusercontent.com/u/147215175?v=4",
-   "stars": 43793,
-   "forks": 6474,
+   "stars": 43807,
+   "forks": 6479,
    "open_issues": 38,
    "language": "PowerShell",
    "license": "MIT",
@@ -3164,32 +3193,6 @@
    "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base  Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端",
    "topics": [],
    "category": "Quality & Review",
-   "momentum": 71,
-   "rank": 90
-  },
-  {
-   "name": "autoharness",
-   "full_name": "tigerless-labs/autoharness",
-   "slug": "tigerless-labs-autoharness",
-   "url": "https://github.com/tigerless-labs/autoharness",
-   "owner": "tigerless-labs",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/285825190?v=4",
-   "stars": 10609,
-   "forks": 645,
-   "open_issues": 33,
-   "language": "Python",
-   "license": "MIT",
-   "pushed_at": "2026-10-29T16:50:53Z",
-   "created_at": "2026-06-09T21:05:42Z",
-   "description": "Autoharness — a self-learning skill layer for Claude Code — distills skills from your real sessions, updates them as you work, and prunes the ones that stop getting used. No daemon, no benchmark.",
-   "topics": [
-    "agent-skills",
-    "claude-code",
-    "claude-code-plugin",
-    "llm-agents",
-    "python"
-   ],
-   "category": "General Skills",
    "momentum": 71,
    "rank": 91
   },
@@ -3200,8 +3203,8 @@
    "url": "https://github.com/anbeime/skill",
    "owner": "anbeime",
    "owner_avatar": "https://avatars.githubusercontent.com/u/52991404?v=4",
-   "stars": 8935,
-   "forks": 790,
+   "stars": 8945,
+   "forks": 792,
    "open_issues": 32,
    "language": "Python",
    "license": "",
@@ -3231,55 +3234,14 @@
    "rank": 92
   },
   {
-   "name": "sno-station-skills",
-   "full_name": "sno-ai/sno-station-skills",
-   "slug": "sno-ai-sno-station-skills",
-   "url": "https://github.com/sno-ai/sno-station-skills",
-   "owner": "sno-ai",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/12761190?v=4",
-   "stars": 857,
-   "forks": 609,
-   "open_issues": 1,
-   "language": "Shell",
-   "license": "Apache-2.0",
-   "pushed_at": "2026-10-30T14:34:28Z",
-   "created_at": "2026-10-01T04:18:51Z",
-   "description": "Sno Station Skills: 31 tested skills that turn Claude Code and Codex into one working team. Cross-vendor peer review, automatic handoff when an agent hits its quota, a one-page morning brief, work orders with proof, and a nightly loop that learns from your own sessions. Open source, installed with one sno setup.",
-   "topics": [
-    "agent-skills",
-    "agentic-coding",
-    "ai-code-review",
-    "ai-coding-agent",
-    "ai-coding-assistant",
-    "claude-code",
-    "claude-code-plugin",
-    "claude-code-skills",
-    "code-review",
-    "codex",
-    "codex-cli",
-    "codex-plugin",
-    "codex-skills",
-    "coding-assistant",
-    "llm-agents",
-    "multi-agent-system",
-    "openai-codex",
-    "rate-limit",
-    "self-learning",
-    "skill-md"
-   ],
-   "category": "Subagents",
-   "momentum": 71,
-   "rank": 93
-  },
-  {
    "name": "security-audit-skill",
    "full_name": "cloudflare/security-audit-skill",
    "slug": "cloudflare-security-audit-skill",
    "url": "https://github.com/cloudflare/security-audit-skill",
    "owner": "cloudflare",
    "owner_avatar": "https://avatars.githubusercontent.com/u/314135?v=4",
-   "stars": 53527,
-   "forks": 3445,
+   "stars": 53954,
+   "forks": 3477,
    "open_issues": 103,
    "language": "JavaScript",
    "license": "MIT",
@@ -3289,7 +3251,7 @@
    "topics": [],
    "category": "Quality & Review",
    "momentum": 70,
-   "rank": 94
+   "rank": 93
   },
   {
    "name": "awesome-agentic-ai-zh",
@@ -3298,7 +3260,7 @@
    "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh",
    "owner": "WenyuChiou",
    "owner_avatar": "https://avatars.githubusercontent.com/u/162016108?v=4",
-   "stars": 8290,
+   "stars": 8304,
    "forks": 1049,
    "open_issues": 4,
    "language": "Python",
@@ -3329,7 +3291,7 @@
    ],
    "category": "Collections",
    "momentum": 70,
-   "rank": 95
+   "rank": 94
   },
   {
    "name": "oh-story-claudecode",
@@ -3338,12 +3300,12 @@
    "url": "https://github.com/zenstory-ai/oh-story-claudecode",
    "owner": "zenstory-ai",
    "owner_avatar": "https://avatars.githubusercontent.com/u/311489559?v=4",
-   "stars": 8154,
+   "stars": 8156,
    "forks": 1159,
-   "open_issues": 8,
+   "open_issues": 7,
    "language": "Python",
    "license": "MIT",
-   "pushed_at": "2026-10-30T14:14:20Z",
+   "pushed_at": "2026-10-30T16:43:16Z",
    "created_at": "2026-04-22T16:35:39Z",
    "description": "Claude Code / Codex / OpenCode agent skills for writing Chinese web novels (网文): 扫榜、拆文、写作、去AI味、封面全流程，长篇短篇都支持 | 13 skills for novel writing and long-form fiction with file-based continuity tracking. MIT.",
    "topics": [
@@ -3370,7 +3332,7 @@
    ],
    "category": "Design & UI",
    "momentum": 70,
-   "rank": 96
+   "rank": 95
   },
   {
    "name": "sno-station",
@@ -3379,8 +3341,8 @@
    "url": "https://github.com/sno-ai/sno-station",
    "owner": "sno-ai",
    "owner_avatar": "https://avatars.githubusercontent.com/u/12761190?v=4",
-   "stars": 1085,
-   "forks": 358,
+   "stars": 1086,
+   "forks": 359,
    "open_issues": 6,
    "language": "TypeScript",
    "license": "Apache-2.0",
@@ -3411,6 +3373,47 @@
    ],
    "category": "Subagents",
    "momentum": 70,
+   "rank": 96
+  },
+  {
+   "name": "sno-station-skills",
+   "full_name": "sno-ai/sno-station-skills",
+   "slug": "sno-ai-sno-station-skills",
+   "url": "https://github.com/sno-ai/sno-station-skills",
+   "owner": "sno-ai",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/12761190?v=4",
+   "stars": 858,
+   "forks": 610,
+   "open_issues": 1,
+   "language": "Shell",
+   "license": "Apache-2.0",
+   "pushed_at": "2026-10-30T14:34:28Z",
+   "created_at": "2026-10-01T04:18:51Z",
+   "description": "Sno Station Skills: 31 tested skills that turn Claude Code and Codex into one working team. Cross-vendor peer review, automatic handoff when an agent hits its quota, a one-page morning brief, work orders with proof, and a nightly loop that learns from your own sessions. Open source, installed with one sno setup.",
+   "topics": [
+    "agent-skills",
+    "agentic-coding",
+    "ai-code-review",
+    "ai-coding-agent",
+    "ai-coding-assistant",
+    "claude-code",
+    "claude-code-plugin",
+    "claude-code-skills",
+    "code-review",
+    "codex",
+    "codex-cli",
+    "codex-plugin",
+    "codex-skills",
+    "coding-assistant",
+    "llm-agents",
+    "multi-agent-system",
+    "openai-codex",
+    "rate-limit",
+    "self-learning",
+    "skill-md"
+   ],
+   "category": "Subagents",
+   "momentum": 70,
    "rank": 97
   },
   {
@@ -3420,7 +3423,7 @@
    "url": "https://github.com/KKKKhazix/khazix-skills",
    "owner": "KKKKhazix",
    "owner_avatar": "https://avatars.githubusercontent.com/u/239590580?v=4",
-   "stars": 21764,
+   "stars": 21763,
    "forks": 2292,
    "open_issues": 51,
    "language": "Python",
@@ -3450,7 +3453,7 @@
    "url": "https://github.com/Orchestra-Research/AI-Research-SKILLs",
    "owner": "Orchestra-Research",
    "owner_avatar": "https://avatars.githubusercontent.com/u/255636098?v=4",
-   "stars": 14121,
+   "stars": 14126,
    "forks": 986,
    "open_issues": 25,
    "language": "TeX",
@@ -3485,8 +3488,8 @@
    "url": "https://github.com/AgriciDaniel/claude-ads",
    "owner": "AgriciDaniel",
    "owner_avatar": "https://avatars.githubusercontent.com/u/223140489?v=4",
-   "stars": 10599,
-   "forks": 1540,
+   "stars": 10609,
+   "forks": 1541,
    "open_issues": 5,
    "language": "Python",
    "license": "MIT",
@@ -3511,6 +3514,45 @@
    "rank": 100
   },
   {
+   "name": "marketing-skills",
+   "full_name": "irinabuht12-oss/marketing-skills",
+   "slug": "irinabuht12-oss-marketing-skills",
+   "url": "https://github.com/irinabuht12-oss/marketing-skills",
+   "owner": "irinabuht12-oss",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/231318361?v=4",
+   "stars": 6304,
+   "forks": 568,
+   "open_issues": 3,
+   "language": "",
+   "license": "",
+   "pushed_at": "2026-10-27T08:57:53Z",
+   "created_at": "2026-01-21T10:15:35Z",
+   "description": "Claude skills for marketing: 49 free marketing skills for Claude Code and claude.ai (Google Ads, Meta Ads, SEO, AI visibility) + the Ryze Google Ads MCP / Meta Ads MCP: claude mcp add ryze --transport http https://connector.get-ryze.ai/mcp",
+   "topics": [
+    "ai-visibility",
+    "claude-code",
+    "claude-desktop",
+    "claude-marketing-skills",
+    "claude-plugin",
+    "claude-skills",
+    "claude-skills-for-marketing",
+    "cursor",
+    "geo",
+    "google-ads",
+    "google-ads-mcp",
+    "marketing",
+    "marketing-skills",
+    "mcp",
+    "mcp-server",
+    "meta-ads",
+    "meta-ads-mcp",
+    "seo"
+   ],
+   "category": "MCP & Tools",
+   "momentum": 69,
+   "rank": 101
+  },
+  {
    "name": "claude-code-ultimate-guide",
    "full_name": "FlorianBruniaux/claude-code-ultimate-guide",
    "slug": "florianbruniaux-claude-code-ultimate-guide",
@@ -3518,7 +3560,7 @@
    "owner": "FlorianBruniaux",
    "owner_avatar": "https://avatars.githubusercontent.com/u/3902606?v=4",
    "stars": 6296,
-   "forks": 820,
+   "forks": 821,
    "open_issues": 12,
    "language": "Python",
    "license": "CC-BY-SA-4.0",
@@ -3549,46 +3591,48 @@
    ],
    "category": "MCP & Tools",
    "momentum": 69,
-   "rank": 101
+   "rank": 102
   },
   {
-   "name": "marketing-skills",
-   "full_name": "irinabuht12-oss/marketing-skills",
-   "slug": "irinabuht12-oss-marketing-skills",
-   "url": "https://github.com/irinabuht12-oss/marketing-skills",
-   "owner": "irinabuht12-oss",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/231318361?v=4",
-   "stars": 6252,
-   "forks": 568,
-   "open_issues": 2,
-   "language": "",
-   "license": "",
-   "pushed_at": "2026-10-27T08:57:53Z",
-   "created_at": "2026-01-21T10:15:35Z",
-   "description": "Claude skills for marketing: 49 free marketing skills for Claude Code and claude.ai (Google Ads, Meta Ads, SEO, AI visibility) + the Ryze Google Ads MCP / Meta Ads MCP: claude mcp add ryze --transport http https://connector.get-ryze.ai/mcp",
+   "name": "awesome-gamedev-agent-skills",
+   "full_name": "gamedev-skills/awesome-gamedev-agent-skills",
+   "slug": "gamedev-skills-awesome-gamedev-agent-skills",
+   "url": "https://github.com/gamedev-skills/awesome-gamedev-agent-skills",
+   "owner": "gamedev-skills",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/297345382?v=4",
+   "stars": 6017,
+   "forks": 570,
+   "open_issues": 4,
+   "language": "Python",
+   "license": "Apache-2.0",
+   "pushed_at": "2026-10-28T03:10:14Z",
+   "created_at": "2026-06-24T07:18:39Z",
+   "description": "77 game-dev skills for AI coding agents — Godot, Unity, Unreal, Phaser, PixiJS, three.js, Bevy, pygame, LÖVE, Roblox. Portable SKILL.md Agent Skills (the format Anthropic launched as Claude Skills), with a router that loads the right skill for your engine and task. Runs in Claude Code, Cursor, Kiro, Codex, Copilot, Gemini CLI and more.",
    "topics": [
-    "ai-visibility",
+    "agent-skills",
+    "ai-agents",
+    "antigravity",
+    "awesome-list",
     "claude-code",
-    "claude-desktop",
-    "claude-marketing-skills",
-    "claude-plugin",
-    "claude-skills",
-    "claude-skills-for-marketing",
+    "cline",
+    "codex",
     "cursor",
-    "geo",
-    "google-ads",
-    "google-ads-mcp",
-    "marketing",
-    "marketing-skills",
-    "mcp",
-    "mcp-server",
-    "meta-ads",
-    "meta-ads-mcp",
-    "seo"
+    "game-dev",
+    "game-development",
+    "gamedev",
+    "gemini-cli",
+    "github-copilot",
+    "godot",
+    "kiro",
+    "oh-my-pi",
+    "skills",
+    "unity",
+    "unreal",
+    "windsurf"
    ],
-   "category": "MCP & Tools",
+   "category": "Collections",
    "momentum": 69,
-   "rank": 102
+   "rank": 103
   },
   {
    "name": "vibe-coding-toolkit",
@@ -3597,7 +3641,7 @@
    "url": "https://github.com/soumatheusgomes/vibe-coding-toolkit",
    "owner": "soumatheusgomes",
    "owner_avatar": "https://avatars.githubusercontent.com/u/11700039?v=4",
-   "stars": 2143,
+   "stars": 2150,
    "forks": 363,
    "open_issues": 3,
    "language": "JavaScript",
@@ -3615,7 +3659,7 @@
    ],
    "category": "Collections",
    "momentum": 69,
-   "rank": 103
+   "rank": 104
   },
   {
    "name": "Humanizer-zh",
@@ -3624,7 +3668,7 @@
    "url": "https://github.com/op7418/Humanizer-zh",
    "owner": "op7418",
    "owner_avatar": "https://avatars.githubusercontent.com/u/13505770?v=4",
-   "stars": 21543,
+   "stars": 21555,
    "forks": 1359,
    "open_issues": 33,
    "language": "Python",
@@ -3635,7 +3679,7 @@
    "topics": [],
    "category": "General Skills",
    "momentum": 68,
-   "rank": 104
+   "rank": 105
   },
   {
    "name": "Skill_Seekers",
@@ -3674,7 +3718,7 @@
    ],
    "category": "MCP & Tools",
    "momentum": 68,
-   "rank": 105
+   "rank": 106
   },
   {
    "name": "Claude-Red",
@@ -3683,9 +3727,9 @@
    "url": "https://github.com/SnailSploit/Claude-Red",
    "owner": "SnailSploit",
    "owner_avatar": "https://avatars.githubusercontent.com/u/95986478?v=4",
-   "stars": 9891,
-   "forks": 1330,
-   "open_issues": 37,
+   "stars": 9924,
+   "forks": 1333,
+   "open_issues": 38,
    "language": "Python",
    "license": "MIT",
    "pushed_at": "2026-10-12T15:02:40Z",
@@ -3701,7 +3745,7 @@
    ],
    "category": "Collections",
    "momentum": 68,
-   "rank": 106
+   "rank": 107
   },
   {
    "name": "html-anything",
@@ -3710,7 +3754,7 @@
    "url": "https://github.com/nexu-io/html-anything",
    "owner": "nexu-io",
    "owner_avatar": "https://avatars.githubusercontent.com/u/263625318?v=4",
-   "stars": 9324,
+   "stars": 9329,
    "forks": 892,
    "open_issues": 59,
    "language": "HTML",
@@ -3742,7 +3786,7 @@
    ],
    "category": "Design & UI",
    "momentum": 68,
-   "rank": 107
+   "rank": 108
   },
   {
    "name": "web-access",
@@ -3751,9 +3795,9 @@
    "url": "https://github.com/eze-is/web-access",
    "owner": "eze-is",
    "owner_avatar": "https://avatars.githubusercontent.com/u/53331888?v=4",
-   "stars": 9304,
-   "forks": 661,
-   "open_issues": 58,
+   "stars": 9306,
+   "forks": 662,
+   "open_issues": 59,
    "language": "JavaScript",
    "license": "",
    "pushed_at": "2026-10-14T11:30:02Z",
@@ -3762,74 +3806,7 @@
    "topics": [],
    "category": "General Skills",
    "momentum": 68,
-   "rank": 108
-  },
-  {
-   "name": "Product-Manager-Skills",
-   "full_name": "deanpeters/Product-Manager-Skills",
-   "slug": "deanpeters-product-manager-skills",
-   "url": "https://github.com/deanpeters/Product-Manager-Skills",
-   "owner": "deanpeters",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/211423?v=4",
-   "stars": 7786,
-   "forks": 939,
-   "open_issues": 4,
-   "language": "Shell",
-   "license": "NOASSERTION",
-   "pushed_at": "2026-10-16T01:51:12Z",
-   "created_at": "2026-02-05T02:16:46Z",
-   "description": "Product Management skills framework built on battle-tested methods for Claude Code, Cowork, Codex, and AI agents.",
-   "topics": [
-    "ai-agents",
-    "ai-product-management",
-    "claude-skills",
-    "pm-frameworks",
-    "product-management"
-   ],
-   "category": "Design & UI",
-   "momentum": 68,
    "rank": 109
-  },
-  {
-   "name": "awesome-gamedev-agent-skills",
-   "full_name": "gamedev-skills/awesome-gamedev-agent-skills",
-   "slug": "gamedev-skills-awesome-gamedev-agent-skills",
-   "url": "https://github.com/gamedev-skills/awesome-gamedev-agent-skills",
-   "owner": "gamedev-skills",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/297345382?v=4",
-   "stars": 5846,
-   "forks": 551,
-   "open_issues": 4,
-   "language": "Python",
-   "license": "Apache-2.0",
-   "pushed_at": "2026-10-28T03:10:14Z",
-   "created_at": "2026-06-24T07:18:39Z",
-   "description": "77 game-dev skills for AI coding agents — Godot, Unity, Unreal, Phaser, PixiJS, three.js, Bevy, pygame, LÖVE, Roblox. Portable SKILL.md Agent Skills (the format Anthropic launched as Claude Skills), with a router that loads the right skill for your engine and task. Runs in Claude Code, Cursor, Kiro, Codex, Copilot, Gemini CLI and more.",
-   "topics": [
-    "agent-skills",
-    "ai-agents",
-    "antigravity",
-    "awesome-list",
-    "claude-code",
-    "cline",
-    "codex",
-    "cursor",
-    "game-dev",
-    "game-development",
-    "gamedev",
-    "gemini-cli",
-    "github-copilot",
-    "godot",
-    "kiro",
-    "oh-my-pi",
-    "skills",
-    "unity",
-    "unreal",
-    "windsurf"
-   ],
-   "category": "Collections",
-   "momentum": 68,
-   "rank": 110
   },
   {
    "name": "linkedin-skills",
@@ -3838,9 +3815,9 @@
    "url": "https://github.com/sergebulaev/linkedin-skills",
    "owner": "sergebulaev",
    "owner_avatar": "https://avatars.githubusercontent.com/u/241980?v=4",
-   "stars": 5382,
-   "forks": 877,
-   "open_issues": 0,
+   "stars": 5389,
+   "forks": 879,
+   "open_issues": 2,
    "language": "Python",
    "license": "MIT",
    "pushed_at": "2026-10-27T11:22:16Z",
@@ -3870,7 +3847,7 @@
    ],
    "category": "Collections",
    "momentum": 68,
-   "rank": 111
+   "rank": 110
   },
   {
    "name": "Claude-BugHunter",
@@ -3879,8 +3856,8 @@
    "url": "https://github.com/elementalsouls/Claude-BugHunter",
    "owner": "elementalsouls",
    "owner_avatar": "https://avatars.githubusercontent.com/u/49252733?v=4",
-   "stars": 5352,
-   "forks": 817,
+   "stars": 5353,
+   "forks": 816,
    "open_issues": 2,
    "language": "Python",
    "license": "MIT",
@@ -3907,7 +3884,7 @@
    ],
    "category": "Collections",
    "momentum": 68,
-   "rank": 112
+   "rank": 111
   },
   {
    "name": "claude-code-guide",
@@ -3916,7 +3893,7 @@
    "url": "https://github.com/zebbern/claude-code-guide",
    "owner": "zebbern",
    "owner_avatar": "https://avatars.githubusercontent.com/u/185730623?v=4",
-   "stars": 4681,
+   "stars": 4684,
    "forks": 470,
    "open_issues": 5,
    "language": "Python",
@@ -3948,7 +3925,7 @@
    ],
    "category": "MCP & Tools",
    "momentum": 68,
-   "rank": 113
+   "rank": 112
   },
   {
    "name": "drama-skills",
@@ -3957,12 +3934,12 @@
    "url": "https://github.com/zenstory-ai/drama-skills",
    "owner": "zenstory-ai",
    "owner_avatar": "https://avatars.githubusercontent.com/u/311489559?v=4",
-   "stars": 3556,
+   "stars": 3562,
    "forks": 662,
    "open_issues": 1,
    "language": "Python",
    "license": "MIT",
-   "pushed_at": "2026-10-30T12:35:34Z",
+   "pushed_at": "2026-10-30T16:55:59Z",
    "created_at": "2026-07-16T16:11:19Z",
    "description": "开源 AI 短剧/漫剧创作 skill 合集：剧本、角色资产、分镜 storyboard、图片/视频提示词、审查，适配 Claude Code 与 Codex | Open-source AI short drama / micro-drama skills for Claude Code & Codex: script, assets, storyboard, image & video prompts, review. MIT.",
    "topics": [
@@ -3987,30 +3964,61 @@
    ],
    "category": "Quality & Review",
    "momentum": 68,
+   "rank": 113
+  },
+  {
+   "name": "claude-code-mods",
+   "full_name": "hamzafer/claude-code-mods",
+   "slug": "hamzafer-claude-code-mods",
+   "url": "https://github.com/hamzafer/claude-code-mods",
+   "owner": "hamzafer",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/45764331?v=4",
+   "stars": 419,
+   "forks": 49,
+   "open_issues": 2,
+   "language": "TypeScript",
+   "license": "MIT",
+   "pushed_at": "2026-10-30T15:18:35Z",
+   "created_at": "2026-10-02T13:15:06Z",
+   "description": "Claude Code mods: plugins built on hooks that add live lines above the prompt, guards, panes and games. Context bar, usage meter, Codex review watch, Markdown preview, Spotify now playing and more.",
+   "topics": [
+    "ai-agents",
+    "anthropic",
+    "claude",
+    "claude-code",
+    "claude-code-mod",
+    "claude-code-mods",
+    "claude-code-plugins",
+    "developer-tools",
+    "terminal"
+   ],
+   "category": "Commands & Hooks",
+   "momentum": 68,
    "rank": 114
   },
   {
-   "name": "baoyu-skills",
-   "full_name": "JimLiu/baoyu-skills",
-   "slug": "jimliu-baoyu-skills",
-   "url": "https://github.com/JimLiu/baoyu-skills",
-   "owner": "JimLiu",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/648674?v=4",
-   "stars": 27085,
-   "forks": 2956,
-   "open_issues": 27,
-   "language": "TypeScript",
-   "license": "MIT",
-   "pushed_at": "2026-09-10T15:13:43Z",
-   "created_at": "2026-01-13T03:04:56Z",
-   "description": "",
+   "name": "Product-Manager-Skills",
+   "full_name": "deanpeters/Product-Manager-Skills",
+   "slug": "deanpeters-product-manager-skills",
+   "url": "https://github.com/deanpeters/Product-Manager-Skills",
+   "owner": "deanpeters",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/211423?v=4",
+   "stars": 7790,
+   "forks": 940,
+   "open_issues": 4,
+   "language": "Shell",
+   "license": "NOASSERTION",
+   "pushed_at": "2026-10-16T01:51:12Z",
+   "created_at": "2026-02-05T02:16:46Z",
+   "description": "Product Management skills framework built on battle-tested methods for Claude Code, Cowork, Codex, and AI agents.",
    "topics": [
-    "agent-skills",
+    "ai-agents",
+    "ai-product-management",
     "claude-skills",
-    "codex-skills",
-    "openclaw-skills"
+    "pm-frameworks",
+    "product-management"
    ],
-   "category": "General Skills",
+   "category": "Design & UI",
    "momentum": 67,
    "rank": 115
   },
@@ -4021,8 +4029,8 @@
    "url": "https://github.com/jangviktor-web/nihaixia",
    "owner": "jangviktor-web",
    "owner_avatar": "https://avatars.githubusercontent.com/u/256431776?v=4",
-   "stars": 3899,
-   "forks": 720,
+   "stars": 3904,
+   "forks": 721,
    "open_issues": 4,
    "language": "HTML",
    "license": "",
@@ -4058,9 +4066,9 @@
    "url": "https://github.com/davepoon/buildwithclaude",
    "owner": "davepoon",
    "owner_avatar": "https://avatars.githubusercontent.com/u/138992?v=4",
-   "stars": 3698,
-   "forks": 671,
-   "open_issues": 26,
+   "stars": 3699,
+   "forks": 672,
+   "open_issues": 29,
    "language": "Python",
    "license": "MIT",
    "pushed_at": "2026-10-29T10:21:44Z",
@@ -4091,12 +4099,12 @@
    "url": "https://github.com/michael-denyer/pstack-claude",
    "owner": "michael-denyer",
    "owner_avatar": "https://avatars.githubusercontent.com/u/97485362?v=4",
-   "stars": 3656,
+   "stars": 3659,
    "forks": 337,
    "open_issues": 10,
    "language": "TypeScript",
    "license": "MIT",
-   "pushed_at": "2026-10-29T20:13:09Z",
+   "pushed_at": "2026-10-30T20:43:44Z",
    "created_at": "2026-05-26T13:26:00Z",
    "description": "Claude Code, Codex, Copilot, Pi, OpenCode, Muse, Gemini, and Prime Agent versions of Poteto's pstack. Rigorous agent workflows with Cursor primitives translated for other harnesses.",
    "topics": [
@@ -4126,57 +4134,18 @@
    "rank": 118
   },
   {
-   "name": "one-skill-to-rule-them-all",
-   "full_name": "rebelytics/one-skill-to-rule-them-all",
-   "slug": "rebelytics-one-skill-to-rule-them-all",
-   "url": "https://github.com/rebelytics/one-skill-to-rule-them-all",
-   "owner": "rebelytics",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/261660926?v=4",
-   "stars": 3647,
-   "forks": 360,
-   "open_issues": 54,
-   "language": "Markdown",
-   "license": "CC-BY-4.0",
-   "pushed_at": "2026-10-28T14:57:56Z",
-   "created_at": "2026-02-15T19:18:12Z",
-   "description": "The meta-skill that builds and improves all your skills, including itself. Watches your work sessions (autonomous or human-led), captures patterns, corrections and judgement calls, and turns them into skill improvements and new skill candidates for your review. Practical application of the Augmented Expertise methodology. Open source: CC BY 4.0.",
-   "topics": [
-    "agent-skills",
-    "ai-skills",
-    "augmented-expertise",
-    "awesome-skills",
-    "claude",
-    "claude-code",
-    "claude-code-skill",
-    "claude-code-skills",
-    "claude-cowork",
-    "claude-skills",
-    "meta-skill",
-    "rebelytics",
-    "skill-automation",
-    "skill-builder",
-    "skill-creation",
-    "skill-improvement",
-    "skill-management",
-    "skills"
-   ],
-   "category": "Collections",
-   "momentum": 67,
-   "rank": 119
-  },
-  {
    "name": "ctf-skills",
    "full_name": "ljagiello/ctf-skills",
    "slug": "ljagiello-ctf-skills",
    "url": "https://github.com/ljagiello/ctf-skills",
    "owner": "ljagiello",
    "owner_avatar": "https://avatars.githubusercontent.com/u/380707?v=4",
-   "stars": 3575,
-   "forks": 418,
+   "stars": 3578,
+   "forks": 419,
    "open_issues": 0,
    "language": "Python",
    "license": "MIT",
-   "pushed_at": "2026-10-30T00:05:04Z",
+   "pushed_at": "2026-10-30T16:48:55Z",
    "created_at": "2026-02-01T23:49:52Z",
    "description": "Agent skills for solving CTF challenges - web exploitation, binary pwn, crypto, reverse engineering, forensics, OSINT, and more",
    "topics": [
@@ -4195,7 +4164,7 @@
    ],
    "category": "Quality & Review",
    "momentum": 67,
-   "rank": 120
+   "rank": 119
   },
   {
    "name": "Claude-Code-Everything-You-Need-to-Know",
@@ -4204,8 +4173,8 @@
    "url": "https://github.com/wesammustafa/Claude-Code-Everything-You-Need-to-Know",
    "owner": "wesammustafa",
    "owner_avatar": "https://avatars.githubusercontent.com/u/33235742?v=4",
-   "stars": 3509,
-   "forks": 406,
+   "stars": 3511,
+   "forks": 407,
    "open_issues": 1,
    "language": "TypeScript",
    "license": "MIT",
@@ -4236,37 +4205,7 @@
    ],
    "category": "MCP & Tools",
    "momentum": 67,
-   "rank": 121
-  },
-  {
-   "name": "claude-code-mods",
-   "full_name": "hamzafer/claude-code-mods",
-   "slug": "hamzafer-claude-code-mods",
-   "url": "https://github.com/hamzafer/claude-code-mods",
-   "owner": "hamzafer",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/45764331?v=4",
-   "stars": 416,
-   "forks": 48,
-   "open_issues": 2,
-   "language": "TypeScript",
-   "license": "MIT",
-   "pushed_at": "2026-10-29T21:22:21Z",
-   "created_at": "2026-10-02T13:15:06Z",
-   "description": "Claude Code mods: plugins built on hooks that add live lines above the prompt, guards, panes and games. Context bar, usage meter, Codex review watch, Markdown preview, Spotify now playing and more.",
-   "topics": [
-    "ai-agents",
-    "anthropic",
-    "claude",
-    "claude-code",
-    "claude-code-mod",
-    "claude-code-mods",
-    "claude-code-plugins",
-    "developer-tools",
-    "terminal"
-   ],
-   "category": "Commands & Hooks",
-   "momentum": 67,
-   "rank": 122
+   "rank": 120
   },
   {
    "name": "Anthropic-Cybersecurity-Skills",
@@ -4275,8 +4214,8 @@
    "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
    "owner": "mukul975",
    "owner_avatar": "https://avatars.githubusercontent.com/u/42860185?v=4",
-   "stars": 35281,
-   "forks": 4301,
+   "stars": 35299,
+   "forks": 4300,
    "open_issues": 68,
    "language": "Python",
    "license": "Apache-2.0",
@@ -4306,6 +4245,70 @@
     "threat-intelligence"
    ],
    "category": "MCP & Tools",
+   "momentum": 66,
+   "rank": 121
+  },
+  {
+   "name": "baoyu-skills",
+   "full_name": "JimLiu/baoyu-skills",
+   "slug": "jimliu-baoyu-skills",
+   "url": "https://github.com/JimLiu/baoyu-skills",
+   "owner": "JimLiu",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/648674?v=4",
+   "stars": 27089,
+   "forks": 2957,
+   "open_issues": 27,
+   "language": "TypeScript",
+   "license": "MIT",
+   "pushed_at": "2026-09-10T15:13:43Z",
+   "created_at": "2026-01-13T03:04:56Z",
+   "description": "",
+   "topics": [
+    "agent-skills",
+    "claude-skills",
+    "codex-skills",
+    "openclaw-skills"
+   ],
+   "category": "General Skills",
+   "momentum": 66,
+   "rank": 122
+  },
+  {
+   "name": "one-skill-to-rule-them-all",
+   "full_name": "rebelytics/one-skill-to-rule-them-all",
+   "slug": "rebelytics-one-skill-to-rule-them-all",
+   "url": "https://github.com/rebelytics/one-skill-to-rule-them-all",
+   "owner": "rebelytics",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/261660926?v=4",
+   "stars": 3651,
+   "forks": 360,
+   "open_issues": 54,
+   "language": "Markdown",
+   "license": "CC-BY-4.0",
+   "pushed_at": "2026-10-28T14:57:56Z",
+   "created_at": "2026-02-15T19:18:12Z",
+   "description": "The meta-skill that builds and improves all your skills, including itself. Watches your work sessions (autonomous or human-led), captures patterns, corrections and judgement calls, and turns them into skill improvements and new skill candidates for your review. Practical application of the Augmented Expertise methodology. Open source: CC BY 4.0.",
+   "topics": [
+    "agent-skills",
+    "ai-skills",
+    "augmented-expertise",
+    "awesome-skills",
+    "claude",
+    "claude-code",
+    "claude-code-skill",
+    "claude-code-skills",
+    "claude-cowork",
+    "claude-skills",
+    "meta-skill",
+    "rebelytics",
+    "skill-automation",
+    "skill-builder",
+    "skill-creation",
+    "skill-improvement",
+    "skill-management",
+    "skills"
+   ],
+   "category": "Collections",
    "momentum": 66,
    "rank": 123
   },
@@ -4380,7 +4383,7 @@
    "url": "https://github.com/ykdojo/claude-code-tips",
    "owner": "ykdojo",
    "owner_avatar": "https://avatars.githubusercontent.com/u/1811651?v=4",
-   "stars": 10288,
+   "stars": 10290,
    "forks": 826,
    "open_issues": 4,
    "language": "HTML",
@@ -4413,7 +4416,7 @@
    "url": "https://github.com/amElnagdy/delegate-skills",
    "owner": "amElnagdy",
    "owner_avatar": "https://avatars.githubusercontent.com/u/7650147?v=4",
-   "stars": 2534,
+   "stars": 2537,
    "forks": 219,
    "open_issues": 40,
    "language": "JavaScript",
@@ -4449,7 +4452,7 @@
    "url": "https://github.com/deusyu/translate-book",
    "owner": "deusyu",
    "owner_avatar": "https://avatars.githubusercontent.com/u/42929363?v=4",
-   "stars": 2168,
+   "stars": 2169,
    "forks": 260,
    "open_issues": 1,
    "language": "Python",
@@ -4459,7 +4462,7 @@
    "description": "Agent skill for Codex, Claude Code, and OpenClaw that translates entire books (PDF/DOCX/EPUB) into any language using parallel subagents.",
    "topics": [],
    "category": "Subagents",
-   "momentum": 65,
+   "momentum": 64,
    "rank": 128
   },
   {
@@ -4469,7 +4472,7 @@
    "url": "https://github.com/mex-memory/mex",
    "owner": "mex-memory",
    "owner_avatar": "https://avatars.githubusercontent.com/u/295542747?v=4",
-   "stars": 1781,
+   "stars": 1782,
    "forks": 154,
    "open_issues": 31,
    "language": "TypeScript",
@@ -4509,9 +4512,9 @@
    "url": "https://github.com/vshulcz/deja-vu",
    "owner": "vshulcz",
    "owner_avatar": "https://avatars.githubusercontent.com/u/99616188?v=4",
-   "stars": 1341,
+   "stars": 1343,
    "forks": 157,
-   "open_issues": 24,
+   "open_issues": 26,
    "language": "Go",
    "license": "MIT",
    "pushed_at": "2026-10-30T10:06:11Z",
@@ -4550,7 +4553,7 @@
    "url": "https://github.com/kharmanskyi/open-steps",
    "owner": "kharmanskyi",
    "owner_avatar": "https://avatars.githubusercontent.com/u/145896518?v=4",
-   "stars": 1274,
+   "stars": 1290,
    "forks": 112,
    "open_issues": 5,
    "language": "Shell",
@@ -4587,7 +4590,7 @@
    "url": "https://github.com/scasella/claude-flightdeck",
    "owner": "scasella",
    "owner_avatar": "https://avatars.githubusercontent.com/u/11952600?v=4",
-   "stars": 207,
+   "stars": 208,
    "forks": 36,
    "open_issues": 1,
    "language": "TypeScript",
@@ -4628,7 +4631,7 @@
    "url": "https://github.com/xianyu110/awesome-openclaw-tutorial",
    "owner": "xianyu110",
    "owner_avatar": "https://avatars.githubusercontent.com/u/53889513?v=4",
-   "stars": 4572,
+   "stars": 4574,
    "forks": 678,
    "open_issues": 32,
    "language": "Shell",
@@ -4671,10 +4674,10 @@
    "owner_avatar": "https://avatars.githubusercontent.com/u/273330576?v=4",
    "stars": 1473,
    "forks": 217,
-   "open_issues": 88,
+   "open_issues": 87,
    "language": "TypeScript",
    "license": "Apache-2.0",
-   "pushed_at": "2026-10-30T15:05:44Z",
+   "pushed_at": "2026-10-30T17:34:01Z",
    "created_at": "2026-04-03T15:53:08Z",
    "description": "Multi-Agent Collaboration for Team and Friends",
    "topics": [
@@ -4710,11 +4713,11 @@
    "owner": "tintinweb",
    "owner_avatar": "https://avatars.githubusercontent.com/u/2865694?v=4",
    "stars": 1386,
-   "forks": 335,
-   "open_issues": 120,
+   "forks": 338,
+   "open_issues": 113,
    "language": "TypeScript",
    "license": "MIT",
-   "pushed_at": "2026-10-30T15:01:40Z",
+   "pushed_at": "2026-10-30T19:23:42Z",
    "created_at": "2026-03-05T10:08:27Z",
    "description": "Claude Code like Sub-Agents & Workflow Orchestration for Pi — parallel execution, live widget, fleet view, custom agent types, mid-run steering, claude compatible dynamic workflows and more ...",
    "topics": [
@@ -4734,12 +4737,12 @@
    "url": "https://github.com/specstoryai/getspecstory",
    "owner": "specstoryai",
    "owner_avatar": "https://avatars.githubusercontent.com/u/166310736?v=4",
-   "stars": 1363,
+   "stars": 1364,
    "forks": 91,
    "open_issues": 58,
    "language": "Go",
    "license": "Apache-2.0",
-   "pushed_at": "2026-10-30T13:47:17Z",
+   "pushed_at": "2026-10-30T15:43:25Z",
    "created_at": "2024-12-13T18:05:13Z",
    "description": "Install our local first extensions for your favorite AI IDE or Terminal Agent. Process your histories into reusable skills with Lore. Sync your conversations to the cloud. File issues and requests.",
    "topics": [
@@ -4809,8 +4812,8 @@
    "url": "https://github.com/zenstory-ai/novel-to-game",
    "owner": "zenstory-ai",
    "owner_avatar": "https://avatars.githubusercontent.com/u/311489559?v=4",
-   "stars": 943,
-   "forks": 128,
+   "stars": 944,
+   "forks": 129,
    "open_issues": 2,
    "language": "Markdown",
    "license": "MIT",
@@ -4855,7 +4858,7 @@
    "open_issues": 7,
    "language": "Python",
    "license": "Apache-2.0",
-   "pushed_at": "2026-10-30T10:59:28Z",
+   "pushed_at": "2026-10-30T20:33:51Z",
    "created_at": "2025-07-09T07:46:08Z",
    "description": "Battle-tested Claude Code, OpenAI Codex, Cursor configs, plugins, hooks and agents with Kimi, MiniMax and GLM API support.",
    "topics": [
@@ -4932,12 +4935,12 @@
    "url": "https://github.com/microsoft/power-platform-skills",
    "owner": "microsoft",
    "owner_avatar": "https://avatars.githubusercontent.com/u/6154722?v=4",
-   "stars": 1087,
-   "forks": 218,
-   "open_issues": 165,
+   "stars": 1090,
+   "forks": 219,
+   "open_issues": 164,
    "language": "JavaScript",
    "license": "MIT",
-   "pushed_at": "2026-10-29T23:04:59Z",
+   "pushed_at": "2026-10-30T18:24:10Z",
    "created_at": "2026-01-21T18:25:14Z",
    "description": "A plugin marketplace for GitHub Copilot and other AI agents that provides Power Platform development plugins, including reusable skills, agents, and commands for building and deploying solutions.",
    "topics": [
@@ -4960,7 +4963,7 @@
    "url": "https://github.com/data-goblin/power-bi-agentic-development",
    "owner": "data-goblin",
    "owner_avatar": "https://avatars.githubusercontent.com/u/97248341?v=4",
-   "stars": 1074,
+   "stars": 1076,
    "forks": 155,
    "open_issues": 0,
    "language": "C#",
@@ -5000,8 +5003,8 @@
    "url": "https://github.com/agentskills/agentskills",
    "owner": "agentskills",
    "owner_avatar": "https://avatars.githubusercontent.com/u/249824077?v=4",
-   "stars": 26793,
-   "forks": 1977,
+   "stars": 26801,
+   "forks": 1978,
    "open_issues": 107,
    "language": "Python",
    "license": "Apache-2.0",
@@ -5023,7 +5026,7 @@
    "owner": "matt1398",
    "owner_avatar": "https://avatars.githubusercontent.com/u/113107082?v=4",
    "stars": 4001,
-   "forks": 305,
+   "forks": 306,
    "open_issues": 56,
    "language": "TypeScript",
    "license": "MIT",
@@ -5063,7 +5066,7 @@
    "url": "https://github.com/0xSteph/pentest-ai-agents",
    "owner": "0xSteph",
    "owner_avatar": "https://avatars.githubusercontent.com/u/245668117?v=4",
-   "stars": 2384,
+   "stars": 2387,
    "forks": 451,
    "open_issues": 2,
    "language": "Shell",
@@ -5162,12 +5165,12 @@
    "url": "https://github.com/23blocks-OS/ai-maestro",
    "owner": "23blocks-OS",
    "owner_avatar": "https://avatars.githubusercontent.com/u/65089489?v=4",
-   "stars": 839,
+   "stars": 840,
    "forks": 114,
    "open_issues": 35,
    "language": "TypeScript",
    "license": "MIT",
-   "pushed_at": "2026-10-30T07:08:45Z",
+   "pushed_at": "2026-10-30T20:06:20Z",
    "created_at": "2025-10-10T00:17:03Z",
    "description": "AI Agent Orchestrator with Skills System - Give AI Agents superpowers: memory search, code graph queries, agent-to-agent messaging. Manage Claude Code, Codex, Grok Build or any AI Agent from one dashboard. Move Agents between computers and locations",
    "topics": [
@@ -5278,7 +5281,7 @@
    "url": "https://github.com/rohitg00/pro-workflow",
    "owner": "rohitg00",
    "owner_avatar": "https://avatars.githubusercontent.com/u/48523873?v=4",
-   "stars": 2936,
+   "stars": 2938,
    "forks": 300,
    "open_issues": 33,
    "language": "JavaScript",
@@ -5459,7 +5462,7 @@
    "url": "https://github.com/decebals/claude-code-java",
    "owner": "decebals",
    "owner_avatar": "https://avatars.githubusercontent.com/u/1248311?v=4",
-   "stars": 761,
+   "stars": 762,
    "forks": 153,
    "open_issues": 6,
    "language": "Shell",
@@ -5533,7 +5536,7 @@
    "url": "https://github.com/CloudAI-X/claude-workflow-v2",
    "owner": "CloudAI-X",
    "owner_avatar": "https://avatars.githubusercontent.com/u/252792870?v=4",
-   "stars": 1420,
+   "stars": 1421,
    "forks": 191,
    "open_issues": 5,
    "language": "Python",
@@ -5562,8 +5565,8 @@
    "url": "https://github.com/sergebulaev/instagram-skills",
    "owner": "sergebulaev",
    "owner_avatar": "https://avatars.githubusercontent.com/u/241980?v=4",
-   "stars": 669,
-   "forks": 150,
+   "stars": 674,
+   "forks": 152,
    "open_issues": 2,
    "language": "Python",
    "license": "MIT",
@@ -5600,9 +5603,9 @@
    "url": "https://github.com/karanb192/awesome-claude-skills",
    "owner": "karanb192",
    "owner_avatar": "https://avatars.githubusercontent.com/u/3264937?v=4",
-   "stars": 576,
-   "forks": 490,
-   "open_issues": 244,
+   "stars": 577,
+   "forks": 494,
+   "open_issues": 248,
    "language": "",
    "license": "MIT",
    "pushed_at": "2026-10-29T07:12:07Z",
@@ -5640,7 +5643,7 @@
    "url": "https://github.com/pedrohcgs/claude-code-my-workflow",
    "owner": "pedrohcgs",
    "owner_avatar": "https://avatars.githubusercontent.com/u/4849139?v=4",
-   "stars": 1674,
+   "stars": 1675,
    "forks": 3137,
    "open_issues": 6,
    "language": "HTML",
@@ -5671,8 +5674,8 @@
    "url": "https://github.com/karanb192/claude-code-hooks",
    "owner": "karanb192",
    "owner_avatar": "https://avatars.githubusercontent.com/u/3264937?v=4",
-   "stars": 566,
-   "forks": 48,
+   "stars": 567,
+   "forks": 49,
    "open_issues": 6,
    "language": "JavaScript",
    "license": "MIT",
@@ -5806,14 +5809,34 @@
    "rank": 166
   },
   {
+   "name": "stitch-skills",
+   "full_name": "google-labs-code/stitch-skills",
+   "slug": "google-labs-code-stitch-skills",
+   "url": "https://github.com/google-labs-code/stitch-skills",
+   "owner": "google-labs-code",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/161364575?v=4",
+   "stars": 8641,
+   "forks": 1049,
+   "open_issues": 17,
+   "language": "TypeScript",
+   "license": "Apache-2.0",
+   "pushed_at": "2026-08-17T20:20:23Z",
+   "created_at": "2026-01-16T17:17:17Z",
+   "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+   "topics": [],
+   "category": "MCP & Tools",
+   "momentum": 57,
+   "rank": 167
+  },
+  {
    "name": "skills",
    "full_name": "browser-act/skills",
    "slug": "browser-act-skills",
    "url": "https://github.com/browser-act/skills",
    "owner": "browser-act",
    "owner_avatar": "https://avatars.githubusercontent.com/u/255086931?v=4",
-   "stars": 6298,
-   "forks": 335,
+   "stars": 6299,
+   "forks": 336,
    "open_issues": 10,
    "language": "Python",
    "license": "MIT",
@@ -5844,7 +5867,7 @@
    ],
    "category": "Design & UI",
    "momentum": 57,
-   "rank": 167
+   "rank": 168
   },
   {
    "name": "agent-rules-books",
@@ -5853,7 +5876,7 @@
    "url": "https://github.com/ciembor/agent-rules-books",
    "owner": "ciembor",
    "owner_avatar": "https://avatars.githubusercontent.com/u/702108?v=4",
-   "stars": 3151,
+   "stars": 3152,
    "forks": 550,
    "open_issues": 7,
    "language": "",
@@ -5884,43 +5907,6 @@
    ],
    "category": "Design & UI",
    "momentum": 57,
-   "rank": 168
-  },
-  {
-   "name": "skills",
-   "full_name": "wondelai/skills",
-   "slug": "wondelai-skills",
-   "url": "https://github.com/wondelai/skills",
-   "owner": "wondelai",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/138923546?v=4",
-   "stars": 2540,
-   "forks": 254,
-   "open_issues": 12,
-   "language": "Shell",
-   "license": "MIT",
-   "pushed_at": "2026-09-10T21:48:01Z",
-   "created_at": "2026-01-29T13:54:15Z",
-   "description": "Wondel.ai Agent Skills — Business, Marketing, UX & Coding Frameworks from Bestselling Books. 50 skills + 12 guided journeys for Claude Code, Codex, Cursor & other agentskills.io agents.",
-   "topics": [
-    "agent-skills",
-    "ai-skills",
-    "business",
-    "claude-code",
-    "claude-code-marketplace",
-    "claude-code-plugin",
-    "claude-code-skills",
-    "claude-plugins",
-    "claude-skills",
-    "code-quality",
-    "frameworks",
-    "marketing",
-    "product-strategy",
-    "skill-md",
-    "skillsmp",
-    "ux"
-   ],
-   "category": "Design & UI",
-   "momentum": 57,
    "rank": 169
   },
   {
@@ -5930,7 +5916,7 @@
    "url": "https://github.com/JuneYaooo/nihaisha-nishi-tcm",
    "owner": "JuneYaooo",
    "owner_avatar": "https://avatars.githubusercontent.com/u/60815510?v=4",
-   "stars": 2213,
+   "stars": 2214,
    "forks": 481,
    "open_issues": 2,
    "language": "Python",
@@ -5998,35 +5984,6 @@
    "rank": 171
   },
   {
-   "name": "writing-agent",
-   "full_name": "dongbeixiaohuo/writing-agent",
-   "slug": "dongbeixiaohuo-writing-agent",
-   "url": "https://github.com/dongbeixiaohuo/writing-agent",
-   "owner": "dongbeixiaohuo",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/73542526?v=4",
-   "stars": 443,
-   "forks": 69,
-   "open_issues": 2,
-   "language": "TypeScript",
-   "license": "MIT",
-   "pushed_at": "2026-10-22T17:44:06Z",
-   "created_at": "2025-12-21T09:44:29Z",
-   "description": "🚀 Writing Agent：开源多智能体对话写作助手。独立 Windows 客户端，无需 Claude Code，配置模型 API 即可使用。写作导演协同主笔、读者审校及“去 AI 味”等专家，从选题到成稿逐步共创，通过自然对话确认与修改。工程化 Harness 管理阶段确认、版本保存与中断恢复。内置 99 项模型连接预设，支持 DeepSeek、智谱 GLM、MiniMax 等及自定义接口；可选 Parallel 免费搜索与 Tavily 辅助事实核查，支持本地项目、版本追溯和排版导出。目前为公开 RC 测试版，原版 Claude Code Skills + Subagents 仍保留，部分能力尚在迁移，欢迎体验反馈。",
-   "topics": [
-    "ai-writing",
-    "claude-code",
-    "content-generation",
-    "deepseek",
-    "style-modeling",
-    "writing-agent",
-    "writing-assistant",
-    "writing-workflow"
-   ],
-   "category": "Subagents",
-   "momentum": 57,
-   "rank": 172
-  },
-  {
    "name": "AI-company",
    "full_name": "CronusL-1141/AI-company",
    "slug": "cronusl-1141-ai-company",
@@ -6065,7 +6022,7 @@
    ],
    "category": "MCP & Tools",
    "momentum": 57,
-   "rank": 173
+   "rank": 172
   },
   {
    "name": "claude-night-market",
@@ -6079,7 +6036,7 @@
    "open_issues": 21,
    "language": "Python",
    "license": "MIT",
-   "pushed_at": "2026-10-29T20:31:40Z",
+   "pushed_at": "2026-10-30T19:33:53Z",
    "created_at": "2025-11-23T06:45:40Z",
    "description": "23 Claude Code plugins: TDD enforcement hooks, git/PR workflows, spec-driven development, code review, project lifecycle, fix-from-error, maintenance automation, context optimization, research, and multi-LLM delegation. 186 skills, 128 commands, 54 agents.",
    "topics": [
@@ -6106,6 +6063,43 @@
    ],
    "category": "Collections",
    "momentum": 57,
+   "rank": 173
+  },
+  {
+   "name": "skills",
+   "full_name": "wondelai/skills",
+   "slug": "wondelai-skills",
+   "url": "https://github.com/wondelai/skills",
+   "owner": "wondelai",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/138923546?v=4",
+   "stars": 2541,
+   "forks": 255,
+   "open_issues": 13,
+   "language": "Shell",
+   "license": "MIT",
+   "pushed_at": "2026-09-10T21:48:01Z",
+   "created_at": "2026-01-29T13:54:15Z",
+   "description": "Wondel.ai Agent Skills — Business, Marketing, UX & Coding Frameworks from Bestselling Books. 50 skills + 12 guided journeys for Claude Code, Codex, Cursor & other agentskills.io agents.",
+   "topics": [
+    "agent-skills",
+    "ai-skills",
+    "business",
+    "claude-code",
+    "claude-code-marketplace",
+    "claude-code-plugin",
+    "claude-code-skills",
+    "claude-plugins",
+    "claude-skills",
+    "code-quality",
+    "frameworks",
+    "marketing",
+    "product-strategy",
+    "skill-md",
+    "skillsmp",
+    "ux"
+   ],
+   "category": "Design & UI",
+   "momentum": 56,
    "rank": 174
   },
   {
@@ -6115,7 +6109,7 @@
    "url": "https://github.com/a5c-ai/babysitter",
    "owner": "a5c-ai",
    "owner_avatar": "https://avatars.githubusercontent.com/u/197881114?v=4",
-   "stars": 1883,
+   "stars": 1885,
    "forks": 123,
    "open_issues": 461,
    "language": "JavaScript",
@@ -6149,6 +6143,35 @@
    "rank": 175
   },
   {
+   "name": "writing-agent",
+   "full_name": "dongbeixiaohuo/writing-agent",
+   "slug": "dongbeixiaohuo-writing-agent",
+   "url": "https://github.com/dongbeixiaohuo/writing-agent",
+   "owner": "dongbeixiaohuo",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/73542526?v=4",
+   "stars": 444,
+   "forks": 69,
+   "open_issues": 2,
+   "language": "TypeScript",
+   "license": "MIT",
+   "pushed_at": "2026-10-22T17:44:06Z",
+   "created_at": "2025-12-21T09:44:29Z",
+   "description": "🚀 Writing Agent：开源多智能体对话写作助手。独立 Windows 客户端，无需 Claude Code，配置模型 API 即可使用。写作导演协同主笔、读者审校及“去 AI 味”等专家，从选题到成稿逐步共创，通过自然对话确认与修改。工程化 Harness 管理阶段确认、版本保存与中断恢复。内置 99 项模型连接预设，支持 DeepSeek、智谱 GLM、MiniMax 等及自定义接口；可选 Parallel 免费搜索与 Tavily 辅助事实核查，支持本地项目、版本追溯和排版导出。目前为公开 RC 测试版，原版 Claude Code Skills + Subagents 仍保留，部分能力尚在迁移，欢迎体验反馈。",
+   "topics": [
+    "ai-writing",
+    "claude-code",
+    "content-generation",
+    "deepseek",
+    "style-modeling",
+    "writing-agent",
+    "writing-assistant",
+    "writing-workflow"
+   ],
+   "category": "Subagents",
+   "momentum": 56,
+   "rank": 176
+  },
+  {
    "name": "awesome-qa-skills",
    "full_name": "naodeng/awesome-qa-skills",
    "slug": "naodeng-awesome-qa-skills",
@@ -6179,7 +6202,7 @@
    ],
    "category": "Collections",
    "momentum": 56,
-   "rank": 176
+   "rank": 177
   },
   {
    "name": "code-review-skill",
@@ -6188,7 +6211,7 @@
    "url": "https://github.com/awesome-skills/code-review-skill",
    "owner": "awesome-skills",
    "owner_avatar": "https://avatars.githubusercontent.com/u/250667578?v=4",
-   "stars": 2169,
+   "stars": 2171,
    "forks": 220,
    "open_issues": 1,
    "language": "HTML",
@@ -6199,7 +6222,7 @@
    "topics": [],
    "category": "Quality & Review",
    "momentum": 55,
-   "rank": 177
+   "rank": 178
   },
   {
    "name": "cyber-neo",
@@ -6235,7 +6258,7 @@
    ],
    "category": "Subagents",
    "momentum": 55,
-   "rank": 178
+   "rank": 179
   },
   {
    "name": "ccexp",
@@ -6258,7 +6281,7 @@
    ],
    "category": "Commands & Hooks",
    "momentum": 55,
-   "rank": 179
+   "rank": 180
   },
   {
    "name": "dsh-crew",
@@ -6268,7 +6291,7 @@
    "owner": "ZSeven-W",
    "owner_avatar": "https://avatars.githubusercontent.com/u/218180147?v=4",
    "stars": 191,
-   "forks": 16,
+   "forks": 17,
    "open_issues": 0,
    "language": "JavaScript",
    "license": "MIT",
@@ -6292,7 +6315,7 @@
    ],
    "category": "MCP & Tools",
    "momentum": 55,
-   "rank": 180
+   "rank": 181
   },
   {
    "name": "awesome-pm-skills",
@@ -6301,7 +6324,7 @@
    "url": "https://github.com/menkesu/awesome-pm-skills",
    "owner": "menkesu",
    "owner_avatar": "https://avatars.githubusercontent.com/u/55628366?v=4",
-   "stars": 453,
+   "stars": 454,
    "forks": 124,
    "open_issues": 2,
    "language": "Python",
@@ -6320,7 +6343,7 @@
    ],
    "category": "Collections",
    "momentum": 54,
-   "rank": 181
+   "rank": 182
   },
   {
    "name": "lanshu-awesome-ai-video-kit",
@@ -6361,7 +6384,7 @@
    ],
    "category": "Collections",
    "momentum": 54,
-   "rank": 182
+   "rank": 183
   },
   {
    "name": "awesome-academic-research-skills",
@@ -6401,7 +6424,7 @@
    ],
    "category": "Collections",
    "momentum": 54,
-   "rank": 183
+   "rank": 184
   },
   {
    "name": "Agent-Quest",
@@ -6438,7 +6461,7 @@
    ],
    "category": "Subagents",
    "momentum": 54,
-   "rank": 184
+   "rank": 185
   },
   {
    "name": "frontend-slides",
@@ -6447,8 +6470,8 @@
    "url": "https://github.com/zarazhangrui/frontend-slides",
    "owner": "zarazhangrui",
    "owner_avatar": "https://avatars.githubusercontent.com/u/153693696?v=4",
-   "stars": 31598,
-   "forks": 2424,
+   "stars": 31609,
+   "forks": 2426,
    "open_issues": 71,
    "language": "JavaScript",
    "license": "MIT",
@@ -6469,7 +6492,7 @@
    ],
    "category": "Design & UI",
    "momentum": 53,
-   "rank": 185
+   "rank": 186
   },
   {
    "name": "Deep-Research-skills",
@@ -6478,8 +6501,8 @@
    "url": "https://github.com/Weizhena/Deep-Research-skills",
    "owner": "Weizhena",
    "owner_avatar": "https://avatars.githubusercontent.com/u/162280666?v=4",
-   "stars": 2447,
-   "forks": 200,
+   "stars": 2449,
+   "forks": 199,
    "open_issues": 2,
    "language": "Python",
    "license": "MIT",
@@ -6498,7 +6521,7 @@
    ],
    "category": "General Skills",
    "momentum": 53,
-   "rank": 186
+   "rank": 187
   },
   {
    "name": "Skills-Manager",
@@ -6507,7 +6530,7 @@
    "url": "https://github.com/jiweiyeah/Skills-Manager",
    "owner": "jiweiyeah",
    "owner_avatar": "https://avatars.githubusercontent.com/u/156828820?v=4",
-   "stars": 1048,
+   "stars": 1049,
    "forks": 64,
    "open_issues": 36,
    "language": "TypeScript",
@@ -6532,7 +6555,7 @@
    ],
    "category": "Design & UI",
    "momentum": 53,
-   "rank": 187
+   "rank": 188
   },
   {
    "name": "ai-agent-camp",
@@ -6559,7 +6582,7 @@
    ],
    "category": "Commands & Hooks",
    "momentum": 53,
-   "rank": 188
+   "rank": 189
   },
   {
    "name": "cc-fleet",
@@ -6589,7 +6612,7 @@
    ],
    "category": "Subagents",
    "momentum": 53,
-   "rank": 189
+   "rank": 190
   },
   {
    "name": "andrej-karpathy-skills",
@@ -6598,8 +6621,8 @@
    "url": "https://github.com/multica-ai/andrej-karpathy-skills",
    "owner": "multica-ai",
    "owner_avatar": "https://avatars.githubusercontent.com/u/254743058?v=4",
-   "stars": 226677,
-   "forks": 22636,
+   "stars": 226787,
+   "forks": 22646,
    "open_issues": 138,
    "language": "",
    "license": "",
@@ -6609,7 +6632,7 @@
    "topics": [],
    "category": "General Skills",
    "momentum": 52,
-   "rank": 190
+   "rank": 191
   },
   {
    "name": "get-shit-done",
@@ -6618,8 +6641,8 @@
    "url": "https://github.com/gsd-build/get-shit-done",
    "owner": "gsd-build",
    "owner_avatar": "https://avatars.githubusercontent.com/u/260490621?v=4",
-   "stars": 64182,
-   "forks": 5433,
+   "stars": 64187,
+   "forks": 5436,
    "open_issues": 0,
    "language": "JavaScript",
    "license": "MIT",
@@ -6634,7 +6657,7 @@
    ],
    "category": "Memory & Context",
    "momentum": 52,
-   "rank": 191
+   "rank": 192
   },
   {
    "name": "claude-code-infrastructure-showcase",
@@ -6643,7 +6666,7 @@
    "url": "https://github.com/diet103/claude-code-infrastructure-showcase",
    "owner": "diet103",
    "owner_avatar": "https://avatars.githubusercontent.com/u/215228613?v=4",
-   "stars": 10046,
+   "stars": 10044,
    "forks": 1209,
    "open_issues": 18,
    "language": "TypeScript",
@@ -6654,7 +6677,7 @@
    "topics": [],
    "category": "Commands & Hooks",
    "momentum": 52,
-   "rank": 192
+   "rank": 193
   },
   {
    "name": "awesome-skills-cn",
@@ -6663,7 +6686,7 @@
    "url": "https://github.com/lingxling/awesome-skills-cn",
    "owner": "lingxling",
    "owner_avatar": "https://avatars.githubusercontent.com/u/58384445?v=4",
-   "stars": 326,
+   "stars": 327,
    "forks": 55,
    "open_issues": 9,
    "language": "Python",
@@ -6688,7 +6711,7 @@
    ],
    "category": "Collections",
    "momentum": 52,
-   "rank": 193
+   "rank": 194
   },
   {
    "name": "awesome-agent-config",
@@ -6708,7 +6731,7 @@
    "topics": [],
    "category": "Collections",
    "momentum": 52,
-   "rank": 194
+   "rank": 195
   },
   {
    "name": "claude-esp",
@@ -6733,7 +6756,7 @@
    ],
    "category": "Subagents",
    "momentum": 52,
-   "rank": 195
+   "rank": 196
   },
   {
    "name": "gpt-image2-ppt-skills",
@@ -6742,7 +6765,7 @@
    "url": "https://github.com/JuneYaooo/gpt-image2-ppt-skills",
    "owner": "JuneYaooo",
    "owner_avatar": "https://avatars.githubusercontent.com/u/60815510?v=4",
-   "stars": 1404,
+   "stars": 1406,
    "forks": 79,
    "open_issues": 2,
    "language": "Python",
@@ -6764,7 +6787,7 @@
    ],
    "category": "Writing & Content",
    "momentum": 51,
-   "rank": 196
+   "rank": 197
   },
   {
    "name": "eCommerce-Skills",
@@ -6773,9 +6796,9 @@
    "url": "https://github.com/nexscope-ai/eCommerce-Skills",
    "owner": "nexscope-ai",
    "owner_avatar": "https://avatars.githubusercontent.com/u/265748764?v=4",
-   "stars": 1299,
-   "forks": 171,
-   "open_issues": 5,
+   "stars": 1301,
+   "forks": 172,
+   "open_issues": 6,
    "language": "Python",
    "license": "MIT",
    "pushed_at": "2026-08-26T08:10:10Z",
@@ -6796,7 +6819,7 @@
    ],
    "category": "Writing & Content",
    "momentum": 51,
-   "rank": 197
+   "rank": 198
   },
   {
    "name": "claude-forge",
@@ -6837,7 +6860,7 @@
    ],
    "category": "Commands & Hooks",
    "momentum": 51,
-   "rank": 198
+   "rank": 199
   },
   {
    "name": "superpowers-symfony",
@@ -6878,7 +6901,7 @@
    ],
    "category": "Subagents",
    "momentum": 51,
-   "rank": 199
+   "rank": 200
   },
   {
    "name": "awesome-claude-code-and-skills",
@@ -6889,7 +6912,7 @@
    "owner_avatar": "https://avatars.githubusercontent.com/u/234059020?v=4",
    "stars": 206,
    "forks": 283,
-   "open_issues": 164,
+   "open_issues": 165,
    "language": "",
    "license": "Apache-2.0",
    "pushed_at": "2026-10-07T19:39:29Z",
@@ -6904,7 +6927,7 @@
    ],
    "category": "Collections",
    "momentum": 51,
-   "rank": 200
+   "rank": 201
   },
   {
    "name": "learn-claude-code-rs",
@@ -6913,7 +6936,7 @@
    "url": "https://github.com/wulawulu/learn-claude-code-rs",
    "owner": "wulawulu",
    "owner_avatar": "https://avatars.githubusercontent.com/u/126633241?v=4",
-   "stars": 153,
+   "stars": 154,
    "forks": 36,
    "open_issues": 2,
    "language": "Rust",
@@ -6939,7 +6962,7 @@
    ],
    "category": "MCP & Tools",
    "momentum": 51,
-   "rank": 201
+   "rank": 202
   },
   {
    "name": "claude-grc-plugin",
@@ -6959,7 +6982,7 @@
    "topics": [],
    "category": "Commands & Hooks",
    "momentum": 50,
-   "rank": 202
+   "rank": 203
   },
   {
    "name": "Claude-AD",
@@ -6996,7 +7019,7 @@
    ],
    "category": "Collections",
    "momentum": 49,
-   "rank": 203
+   "rank": 204
   },
   {
    "name": "SecondBrain",
@@ -7016,7 +7039,7 @@
    "topics": [],
    "category": "Commands & Hooks",
    "momentum": 49,
-   "rank": 204
+   "rank": 205
   },
   {
    "name": "intellegix-code-agent-toolkit",
@@ -7051,7 +7074,7 @@
    ],
    "category": "MCP & Tools",
    "momentum": 49,
-   "rank": 205
+   "rank": 206
   },
   {
    "name": "claude-code-kit",
@@ -7071,7 +7094,7 @@
    "topics": [],
    "category": "Subagents",
    "momentum": 48,
-   "rank": 206
+   "rank": 207
   },
   {
    "name": "awesome-claude-plugins",
@@ -7081,8 +7104,8 @@
    "owner": "composio-community",
    "owner_avatar": "https://avatars.githubusercontent.com/u/267807433?v=4",
    "stars": 1973,
-   "forks": 727,
-   "open_issues": 505,
+   "forks": 729,
+   "open_issues": 507,
    "language": "JavaScript",
    "license": "",
    "pushed_at": "2026-07-26T09:02:02Z",
@@ -7104,7 +7127,7 @@
    ],
    "category": "Collections",
    "momentum": 47,
-   "rank": 207
+   "rank": 208
   },
   {
    "name": "auteur",
@@ -7113,7 +7136,7 @@
    "url": "https://github.com/agiwhitelist/auteur",
    "owner": "agiwhitelist",
    "owner_avatar": "https://avatars.githubusercontent.com/u/283798423?v=4",
-   "stars": 1045,
+   "stars": 1046,
    "forks": 18,
    "open_issues": 1,
    "language": "JavaScript",
@@ -7136,7 +7159,7 @@
    ],
    "category": "Design & UI",
    "momentum": 47,
-   "rank": 208
+   "rank": 209
   },
   {
    "name": "medusa",
@@ -7174,7 +7197,7 @@
    ],
    "category": "MCP & Tools",
    "momentum": 47,
-   "rank": 209
+   "rank": 210
   },
   {
    "name": "awesome-claude-code-plugins",
@@ -7205,7 +7228,7 @@
    ],
    "category": "Collections",
    "momentum": 47,
-   "rank": 210
+   "rank": 211
   },
   {
    "name": "SourceAtlas",
@@ -7225,7 +7248,7 @@
    "topics": [],
    "category": "Commands & Hooks",
    "momentum": 47,
-   "rank": 211
+   "rank": 212
   },
   {
    "name": "eodhd-claude-skills",
@@ -7257,45 +7280,6 @@
    ],
    "category": "MCP & Tools",
    "momentum": 47,
-   "rank": 212
-  },
-  {
-   "name": "awesome-design-skills",
-   "full_name": "bergside/awesome-design-skills",
-   "slug": "bergside-awesome-design-skills",
-   "url": "https://github.com/bergside/awesome-design-skills",
-   "owner": "bergside",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/109292896?v=4",
-   "stars": 3416,
-   "forks": 326,
-   "open_issues": 17,
-   "language": "",
-   "license": "MIT",
-   "pushed_at": "2026-06-28T10:05:22Z",
-   "created_at": "2026-03-09T08:55:36Z",
-   "description": "List of 67 awesome DESIGN.md and SKILL.md design skill files for agentic tools like Claude Design, Google Stitch, Codex, Cursor, and other AI tools",
-   "topics": [
-    "agent-skills",
-    "agentic-ai",
-    "agentic-workflow",
-    "agents",
-    "ai",
-    "ai-agents",
-    "ai-tools",
-    "awesome",
-    "awesome-list",
-    "awesome-readme",
-    "claude-design",
-    "codex",
-    "cursor",
-    "design",
-    "design-md",
-    "design-system",
-    "google-stitch",
-    "skills"
-   ],
-   "category": "Collections",
-   "momentum": 45,
    "rank": 213
   },
   {
@@ -7305,7 +7289,7 @@
    "url": "https://github.com/Prat011/awesome-llm-skills",
    "owner": "Prat011",
    "owner_avatar": "https://avatars.githubusercontent.com/u/67639393?v=4",
-   "stars": 1834,
+   "stars": 1836,
    "forks": 354,
    "open_issues": 205,
    "language": "Python",
@@ -7366,6 +7350,45 @@
    "rank": 215
   },
   {
+   "name": "awesome-design-skills",
+   "full_name": "bergside/awesome-design-skills",
+   "slug": "bergside-awesome-design-skills",
+   "url": "https://github.com/bergside/awesome-design-skills",
+   "owner": "bergside",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/109292896?v=4",
+   "stars": 3419,
+   "forks": 326,
+   "open_issues": 17,
+   "language": "",
+   "license": "MIT",
+   "pushed_at": "2026-06-28T10:05:22Z",
+   "created_at": "2026-03-09T08:55:36Z",
+   "description": "List of 67 awesome DESIGN.md and SKILL.md design skill files for agentic tools like Claude Design, Google Stitch, Codex, Cursor, and other AI tools",
+   "topics": [
+    "agent-skills",
+    "agentic-ai",
+    "agentic-workflow",
+    "agents",
+    "ai",
+    "ai-agents",
+    "ai-tools",
+    "awesome",
+    "awesome-list",
+    "awesome-readme",
+    "claude-design",
+    "codex",
+    "cursor",
+    "design",
+    "design-md",
+    "design-system",
+    "google-stitch",
+    "skills"
+   ],
+   "category": "Collections",
+   "momentum": 44,
+   "rank": 216
+  },
+  {
    "name": "vibecosystem",
    "full_name": "vibeeval/vibecosystem",
    "slug": "vibeeval-vibecosystem",
@@ -7399,7 +7422,7 @@
    ],
    "category": "Subagents",
    "momentum": 44,
-   "rank": 216
+   "rank": 217
   },
   {
    "name": "xhs-claude-skills",
@@ -7419,7 +7442,7 @@
    "topics": [],
    "category": "Commands & Hooks",
    "momentum": 44,
-   "rank": 217
+   "rank": 218
   },
   {
    "name": "Divi5-ToolKit",
@@ -7458,7 +7481,7 @@
    ],
    "category": "Commands & Hooks",
    "momentum": 44,
-   "rank": 218
+   "rank": 219
   },
   {
    "name": "communitytools",
@@ -7483,47 +7506,6 @@
     "security",
     "security-research",
     "security-tools"
-   ],
-   "category": "Commands & Hooks",
-   "momentum": 43,
-   "rank": 219
-  },
-  {
-   "name": "ccproxy",
-   "full_name": "starbaser/ccproxy",
-   "slug": "starbaser-ccproxy",
-   "url": "https://github.com/starbaser/ccproxy",
-   "owner": "starbaser",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/207763516?v=4",
-   "stars": 356,
-   "forks": 34,
-   "open_issues": 10,
-   "language": "Python",
-   "license": "NOASSERTION",
-   "pushed_at": "2026-08-10T00:29:44Z",
-   "created_at": "2025-07-29T21:13:45Z",
-   "description": "Build mods for Claude Code: Hook any request, modify any response, /model \"with-your-custom-model\", intelligent model routing using your logic or ours",
-   "topics": [
-    "ai",
-    "ai-gateway",
-    "ai-proxy",
-    "ai-tools",
-    "anthropic",
-    "claude",
-    "claude-ai",
-    "claude-api",
-    "claude-code",
-    "claude-max",
-    "claudecode",
-    "gemini",
-    "gemini-cli",
-    "litellm",
-    "llm",
-    "llm-gateway",
-    "llm-proxy",
-    "llmops",
-    "openai",
-    "openrouter"
    ],
    "category": "Commands & Hooks",
    "momentum": 43,
@@ -7571,14 +7553,55 @@
    "rank": 221
   },
   {
+   "name": "ccproxy",
+   "full_name": "starbaser/ccproxy",
+   "slug": "starbaser-ccproxy",
+   "url": "https://github.com/starbaser/ccproxy",
+   "owner": "starbaser",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/207763516?v=4",
+   "stars": 356,
+   "forks": 34,
+   "open_issues": 10,
+   "language": "Python",
+   "license": "NOASSERTION",
+   "pushed_at": "2026-08-10T00:29:44Z",
+   "created_at": "2025-07-29T21:13:45Z",
+   "description": "Build mods for Claude Code: Hook any request, modify any response, /model \"with-your-custom-model\", intelligent model routing using your logic or ours",
+   "topics": [
+    "ai",
+    "ai-gateway",
+    "ai-proxy",
+    "ai-tools",
+    "anthropic",
+    "claude",
+    "claude-ai",
+    "claude-api",
+    "claude-code",
+    "claude-max",
+    "claudecode",
+    "gemini",
+    "gemini-cli",
+    "litellm",
+    "llm",
+    "llm-gateway",
+    "llm-proxy",
+    "llmops",
+    "openai",
+    "openrouter"
+   ],
+   "category": "Commands & Hooks",
+   "momentum": 42,
+   "rank": 222
+  },
+  {
    "name": "awesome-claude-skills",
    "full_name": "travisvn/awesome-claude-skills",
    "slug": "travisvn-awesome-claude-skills",
    "url": "https://github.com/travisvn/awesome-claude-skills",
    "owner": "travisvn",
    "owner_avatar": "https://avatars.githubusercontent.com/u/2686415?v=4",
-   "stars": 15638,
-   "forks": 2093,
+   "stars": 15640,
+   "forks": 2096,
    "open_issues": 906,
    "language": "",
    "license": "",
@@ -7600,7 +7623,7 @@
    ],
    "category": "Collections",
    "momentum": 41,
-   "rank": 222
+   "rank": 223
   },
   {
    "name": "awesome-ai-agent-skills",
@@ -7609,7 +7632,7 @@
    "url": "https://github.com/seb1n/awesome-ai-agent-skills",
    "owner": "seb1n",
    "owner_avatar": "https://avatars.githubusercontent.com/u/20718511?v=4",
-   "stars": 233,
+   "stars": 234,
    "forks": 48,
    "open_issues": 15,
    "language": "Python",
@@ -7641,7 +7664,7 @@
    ],
    "category": "Collections",
    "momentum": 41,
-   "rank": 223
+   "rank": 224
   },
   {
    "name": "SuitAgent",
@@ -7661,7 +7684,7 @@
    "topics": [],
    "category": "Subagents",
    "momentum": 41,
-   "rank": 224
+   "rank": 225
   },
   {
    "name": "claude-code-essentials-vs-code",
@@ -7687,7 +7710,7 @@
    ],
    "category": "Commands & Hooks",
    "momentum": 41,
-   "rank": 225
+   "rank": 226
   },
   {
    "name": "claude-code-tresor",
@@ -7696,7 +7719,7 @@
    "url": "https://github.com/alirezarezvani/claude-code-tresor",
    "owner": "alirezarezvani",
    "owner_avatar": "https://avatars.githubusercontent.com/u/5697919?v=4",
-   "stars": 783,
+   "stars": 782,
    "forks": 168,
    "open_issues": 3,
    "language": "Shell",
@@ -7715,7 +7738,7 @@
    ],
    "category": "Collections",
    "momentum": 39,
-   "rank": 226
+   "rank": 227
   },
   {
    "name": "Awesome-AI-Pedia",
@@ -7724,8 +7747,8 @@
    "url": "https://github.com/qdleader/Awesome-AI-Pedia",
    "owner": "qdleader",
    "owner_avatar": "https://avatars.githubusercontent.com/u/62106726?v=4",
-   "stars": 564,
-   "forks": 87,
+   "stars": 565,
+   "forks": 89,
    "open_issues": 3,
    "language": "TypeScript",
    "license": "MIT",
@@ -7738,7 +7761,7 @@
    ],
    "category": "Collections",
    "momentum": 38,
-   "rank": 227
+   "rank": 228
   },
   {
    "name": "claude-code-showcase",
@@ -7758,7 +7781,7 @@
    "topics": [],
    "category": "Commands & Hooks",
    "momentum": 37,
-   "rank": 228
+   "rank": 229
   },
   {
    "name": "everything-claude-code",
@@ -7767,8 +7790,8 @@
    "url": "https://github.com/WorldFlowAI/everything-claude-code",
    "owner": "WorldFlowAI",
    "owner_avatar": "https://avatars.githubusercontent.com/u/253326648?v=4",
-   "stars": 5618,
-   "forks": 842,
+   "stars": 5643,
+   "forks": 845,
    "open_issues": 16,
    "language": "JavaScript",
    "license": "",
@@ -7778,7 +7801,7 @@
    "topics": [],
    "category": "Commands & Hooks",
    "momentum": 37,
-   "rank": 229
+   "rank": 230
   },
   {
    "name": "claude-code-hooks-mastery",
@@ -7788,7 +7811,7 @@
    "owner": "disler",
    "owner_avatar": "https://avatars.githubusercontent.com/u/7570811?v=4",
    "stars": 3968,
-   "forks": 638,
+   "forks": 639,
    "open_issues": 36,
    "language": "Python",
    "license": "",
@@ -7798,7 +7821,7 @@
    "topics": [],
    "category": "Commands & Hooks",
    "momentum": 35,
-   "rank": 230
+   "rank": 231
   },
   {
    "name": "Continuous-Claude-v3",
@@ -7807,7 +7830,7 @@
    "url": "https://github.com/parcadei/Continuous-Claude-v3",
    "owner": "parcadei",
    "owner_avatar": "https://avatars.githubusercontent.com/u/227596144?v=4",
-   "stars": 3946,
+   "stars": 3947,
    "forks": 302,
    "open_issues": 47,
    "language": "Python",
@@ -7828,7 +7851,7 @@
    ],
    "category": "MCP & Tools",
    "momentum": 35,
-   "rank": 231
+   "rank": 232
   },
   {
    "name": "awesome-claude-code-toolkit",
@@ -7837,9 +7860,9 @@
    "url": "https://github.com/rohitg00/awesome-claude-code-toolkit",
    "owner": "rohitg00",
    "owner_avatar": "https://avatars.githubusercontent.com/u/48523873?v=4",
-   "stars": 2790,
-   "forks": 1064,
-   "open_issues": 401,
+   "stars": 2794,
+   "forks": 1067,
+   "open_issues": 402,
    "language": "JavaScript",
    "license": "Apache-2.0",
    "pushed_at": "2026-05-12T07:18:34Z",
@@ -7855,7 +7878,7 @@
    ],
    "category": "Collections",
    "momentum": 35,
-   "rank": 232
+   "rank": 233
   },
   {
    "name": "claude-code-bmad-skills",
@@ -7885,7 +7908,7 @@
    ],
    "category": "Commands & Hooks",
    "momentum": 35,
-   "rank": 233
+   "rank": 234
   },
   {
    "name": "ai-marketing-claude",
@@ -7894,7 +7917,7 @@
    "url": "https://github.com/zubair-trabzada/ai-marketing-claude",
    "owner": "zubair-trabzada",
    "owner_avatar": "https://avatars.githubusercontent.com/u/13802400?v=4",
-   "stars": 2827,
+   "stars": 2830,
    "forks": 724,
    "open_issues": 7,
    "language": "Python",
@@ -7916,7 +7939,7 @@
    ],
    "category": "Subagents",
    "momentum": 34,
-   "rank": 234
+   "rank": 235
   },
   {
    "name": "claude-leverage",
@@ -7940,7 +7963,7 @@
    ],
    "category": "Subagents",
    "momentum": 34,
-   "rank": 235
+   "rank": 236
   },
   {
    "name": "claude-code-hooks",
@@ -7981,7 +8004,7 @@
    ],
    "category": "Commands & Hooks",
    "momentum": 33,
-   "rank": 236
+   "rank": 237
   },
   {
    "name": "mini-claude-code",
@@ -8001,7 +8024,7 @@
    "topics": [],
    "category": "MCP & Tools",
    "momentum": 33,
-   "rank": 237
+   "rank": 238
   },
   {
    "name": "claude-agents",
@@ -8021,7 +8044,7 @@
    "topics": [],
    "category": "Subagents",
    "momentum": 32,
-   "rank": 238
+   "rank": 239
   },
   {
    "name": "everything-claude-code-zh",
@@ -8052,7 +8075,7 @@
    ],
    "category": "MCP & Tools",
    "momentum": 32,
-   "rank": 239
+   "rank": 240
   },
   {
    "name": "claude-code-sub-agents",
@@ -8079,7 +8102,7 @@
    ],
    "category": "Collections",
    "momentum": 32,
-   "rank": 240
+   "rank": 241
   },
   {
    "name": "claude-code-hooks-multi-agent-observability",
@@ -8099,7 +8122,7 @@
    "topics": [],
    "category": "Subagents",
    "momentum": 31,
-   "rank": 241
+   "rank": 242
   },
   {
    "name": "Claude-Command-Suite",
@@ -8108,7 +8131,7 @@
    "url": "https://github.com/qdhenry/Claude-Command-Suite",
    "owner": "qdhenry",
    "owner_avatar": "https://avatars.githubusercontent.com/u/25516121?v=4",
-   "stars": 1349,
+   "stars": 1351,
    "forks": 158,
    "open_issues": 5,
    "language": "Shell",
@@ -8131,7 +8154,7 @@
    ],
    "category": "Commands & Hooks",
    "momentum": 31,
-   "rank": 242
+   "rank": 243
   },
   {
    "name": "claude-memory-compiler",
@@ -8141,7 +8164,7 @@
    "owner": "coleam00",
    "owner_avatar": "https://avatars.githubusercontent.com/u/47287758?v=4",
    "stars": 1312,
-   "forks": 329,
+   "forks": 330,
    "open_issues": 23,
    "language": "Python",
    "license": "",
@@ -8151,7 +8174,7 @@
    "topics": [],
    "category": "Commands & Hooks",
    "momentum": 31,
-   "rank": 243
+   "rank": 244
   },
   {
    "name": "awesome-html-slide-skills",
@@ -8185,7 +8208,7 @@
    ],
    "category": "Collections",
    "momentum": 31,
-   "rank": 244
+   "rank": 245
   },
   {
    "name": "claude-sessions",
@@ -8205,7 +8228,7 @@
    "topics": [],
    "category": "Commands & Hooks",
    "momentum": 30,
-   "rank": 245
+   "rank": 246
   },
   {
    "name": "awesome-claude-design",
@@ -8214,7 +8237,7 @@
    "url": "https://github.com/rohitg00/awesome-claude-design",
    "owner": "rohitg00",
    "owner_avatar": "https://avatars.githubusercontent.com/u/48523873?v=4",
-   "stars": 1183,
+   "stars": 1184,
    "forks": 149,
    "open_issues": 7,
    "language": "",
@@ -8235,7 +8258,7 @@
    ],
    "category": "Collections",
    "momentum": 30,
-   "rank": 246
+   "rank": 247
   },
   {
    "name": "claude-code-config",
@@ -8261,7 +8284,7 @@
    ],
    "category": "Commands & Hooks",
    "momentum": 30,
-   "rank": 247
+   "rank": 248
   },
   {
    "name": "cartographer",
@@ -8281,7 +8304,7 @@
    "topics": [],
    "category": "Subagents",
    "momentum": 30,
-   "rank": 248
+   "rank": 249
   },
   {
    "name": "claude-code-aso-skill",
@@ -8312,7 +8335,7 @@
    ],
    "category": "Commands & Hooks",
    "momentum": 30,
-   "rank": 249
+   "rank": 250
   },
   {
    "name": "claude-code-subagents",
@@ -8332,7 +8355,7 @@
    "topics": [],
    "category": "Collections",
    "momentum": 29,
-   "rank": 250
+   "rank": 251
   },
   {
    "name": "claude-code-skill-factory",
@@ -8359,7 +8382,7 @@
    ],
    "category": "Commands & Hooks",
    "momentum": 29,
-   "rank": 251
+   "rank": 252
   },
   {
    "name": "claude-code-ios-dev-guide",
@@ -8390,7 +8413,7 @@
    ],
    "category": "Subagents",
    "momentum": 29,
-   "rank": 252
+   "rank": 253
   },
   {
    "name": "awesome-design-html",
@@ -8410,7 +8433,7 @@
    "topics": [],
    "category": "Collections",
    "momentum": 29,
-   "rank": 253
+   "rank": 254
   },
   {
    "name": "claude-skills",
@@ -8430,7 +8453,7 @@
    "topics": [],
    "category": "Collections",
    "momentum": 29,
-   "rank": 254
+   "rank": 255
   },
   {
    "name": "claudekit",
@@ -8450,7 +8473,7 @@
    "topics": [],
    "category": "Commands & Hooks",
    "momentum": 28,
-   "rank": 255
+   "rank": 256
   },
   {
    "name": "claude-code-mastery",
@@ -8480,7 +8503,7 @@
    ],
    "category": "MCP & Tools",
    "momentum": 28,
-   "rank": 256
+   "rank": 257
   },
   {
    "name": "sub-agents",
@@ -8510,7 +8533,7 @@
    ],
    "category": "Commands & Hooks",
    "momentum": 28,
-   "rank": 257
+   "rank": 258
   },
   {
    "name": "taskmaster",
@@ -8530,7 +8553,7 @@
    "topics": [],
    "category": "Commands & Hooks",
    "momentum": 27,
-   "rank": 258
+   "rank": 259
   },
   {
    "name": "claudecode-rule2hook",
@@ -8550,7 +8573,7 @@
    "topics": [],
    "category": "Commands & Hooks",
    "momentum": 26,
-   "rank": 259
+   "rank": 260
   },
   {
    "name": "awesome-amazon-ec-skills",
@@ -8586,7 +8609,7 @@
    ],
    "category": "Collections",
    "momentum": 26,
-   "rank": 260
+   "rank": 261
   },
   {
    "name": "awesome-claude-agents",
@@ -8606,7 +8629,7 @@
    "topics": [],
    "category": "Collections",
    "momentum": 25,
-   "rank": 261
+   "rank": 262
   },
   {
    "name": "Evasion-SubAgents",
@@ -8626,7 +8649,7 @@
    "topics": [],
    "category": "Subagents",
    "momentum": 25,
-   "rank": 262
+   "rank": 263
   },
   {
    "name": "dataforseo-claude",
@@ -8646,7 +8669,7 @@
    "topics": [],
    "category": "Subagents",
    "momentum": 25,
-   "rank": 263
+   "rank": 264
   },
   {
    "name": "mbbb-baker-agent",
@@ -8666,7 +8689,7 @@
    "topics": [],
    "category": "Subagents",
    "momentum": 25,
-   "rank": 264
+   "rank": 265
   },
   {
    "name": "awesome-claude-corporate-skills",
@@ -8701,7 +8724,7 @@
    ],
    "category": "Collections",
    "momentum": 24,
-   "rank": 265
+   "rank": 266
   },
   {
    "name": "awesome-claude-code-setup",
@@ -8721,7 +8744,7 @@
    "topics": [],
    "category": "Collections",
    "momentum": 24,
-   "rank": 266
+   "rank": 267
   },
   {
    "name": "claude-code-orchestrator-kit",
@@ -8741,7 +8764,7 @@
    "topics": [],
    "category": "MCP & Tools",
    "momentum": 24,
-   "rank": 267
+   "rank": 268
   },
   {
    "name": "claudecode-harness",
@@ -8761,7 +8784,7 @@
    "topics": [],
    "category": "Subagents",
    "momentum": 23,
-   "rank": 268
+   "rank": 269
   },
   {
    "name": "claude-code-subagents",
@@ -8781,7 +8804,7 @@
    "topics": [],
    "category": "Subagents",
    "momentum": 23,
-   "rank": 269
+   "rank": 270
   },
   {
    "name": "total-recall",
@@ -8809,7 +8832,7 @@
    ],
    "category": "Commands & Hooks",
    "momentum": 23,
-   "rank": 270
+   "rank": 271
   },
   {
    "name": "claude_slash_commands",
@@ -8832,7 +8855,7 @@
    ],
    "category": "Commands & Hooks",
    "momentum": 23,
-   "rank": 271
+   "rank": 272
   },
   {
    "name": "claude-code-agentic-rag-masterclass",
@@ -8857,7 +8880,7 @@
    ],
    "category": "Subagents",
    "momentum": 22,
-   "rank": 272
+   "rank": 273
   },
   {
    "name": "awesomeAgentskills",
@@ -8881,7 +8904,7 @@
    ],
    "category": "Collections",
    "momentum": 22,
-   "rank": 273
+   "rank": 274
   },
   {
    "name": "claude-code-crash-course",
@@ -8908,7 +8931,7 @@
    ],
    "category": "MCP & Tools",
    "momentum": 22,
-   "rank": 274
+   "rank": 275
   },
   {
    "name": "spec-based-claude-code",
@@ -8928,7 +8951,7 @@
    "topics": [],
    "category": "Commands & Hooks",
    "momentum": 21,
-   "rank": 275
+   "rank": 276
   },
   {
    "name": "claude-code-auto-video-edit",
@@ -8961,7 +8984,7 @@
    ],
    "category": "Commands & Hooks",
    "momentum": 21,
-   "rank": 276
+   "rank": 277
   },
   {
    "name": "claude-code-ai-development-workflow",
@@ -8981,7 +9004,7 @@
    "topics": [],
    "category": "Commands & Hooks",
    "momentum": 20,
-   "rank": 277
+   "rank": 278
   },
   {
    "name": "bad-daves-robot-army",
@@ -9001,7 +9024,7 @@
    "topics": [],
    "category": "Subagents",
    "momentum": 18,
-   "rank": 278
+   "rank": 279
   },
   {
    "name": "trading-ops",
@@ -9030,7 +9053,7 @@
    ],
    "category": "Commands & Hooks",
    "momentum": 17,
-   "rank": 279
+   "rank": 280
   },
   {
    "name": "obsidian-claude-code",
@@ -9050,7 +9073,7 @@
    "topics": [],
    "category": "Commands & Hooks",
    "momentum": 17,
-   "rank": 280
+   "rank": 281
   },
   {
    "name": "deepdive",
@@ -9076,7 +9099,7 @@
    ],
    "category": "Commands & Hooks",
    "momentum": 17,
-   "rank": 281
+   "rank": 282
   },
   {
    "name": "claude-skillify",
@@ -9115,7 +9138,7 @@
    ],
    "category": "Commands & Hooks",
    "momentum": 16,
-   "rank": 282
+   "rank": 283
   }
  ]
 }
