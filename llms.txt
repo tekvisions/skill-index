@@ -3,48 +3,48 @@
 > The living index of Claude Code and AI-agent skills, ranked daily by momentum
 > (stars, push-recency, rising-newness) from live GitHub signals.
 
-Updated: 2026-10-29T23:04:44.091426+00:00
+Updated: 2026-10-30T04:28:07.738095+00:00
 Skills indexed: 282
 
 ## Top skills by momentum
 
-- [morluto/rea](https://github.com/morluto/rea) — momentum 87, ⭐407604 — MCP & Tools — Reverse engineer anything with agents, from app behavior down to native binaries.
-- [affaan-m/ECC](https://github.com/affaan-m/ECC) — momentum 86, ⭐292668 — MCP & Tools — The agent harness performance optimization system. Skills, instincts, memory, security, and research
-- [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) — momentum 85, ⭐258499 — General Skills — The agent that grows with you
-- [anthropics/skills](https://github.com/anthropics/skills) — momentum 83, ⭐184785 — General Skills — Public repository for Agent Skills
-- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) — momentum 83, ⭐180129 — General Skills — Makes your AI agent think like the laziest senior dev in the room. The best code is the code you nev
-- [farion1231/cc-switch](https://github.com/farion1231/cc-switch) — momentum 83, ⭐150062 — MCP & Tools — A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build
-- [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) — momentum 82, ⭐142523 — Design & UI — An AI skill that provides design intelligence for building professional UI/UX across multiple platfo
-- [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) — momentum 82, ⭐138640 — MCP & Tools — Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. 
-- [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) — momentum 82, ⭐116091 — General Skills — 🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of
-- [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) — momentum 81, ⭐111735 — General Skills — Production-grade engineering skills for AI coding agents.
-- [stablyai/orca](https://github.com/stablyai/orca) — momentum 81, ⭐110140 — Subagents — Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding ag
-- [paperclipai/paperclip](https://github.com/paperclipai/paperclip) — momentum 81, ⭐108625 — MCP & Tools — The open-source app everyone uses to manage agents at work
-- [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) — momentum 81, ⭐105484 — Design & UI — Agent skills that give coding agents taste: art direction, reference images and a browser check inst
-- [nexu-io/open-design](https://github.com/nexu-io/open-design) — momentum 81, ⭐104868 — Design & UI — The 1st Collaborative AI Design Agent Workspace. Local-first and open source. Create motion, prototy
-- [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) — momentum 81, ⭐104720 — Memory & Context — Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during ses
-- [pbakaus/impeccable](https://github.com/pbakaus/impeccable) — momentum 81, ⭐95212 — Design & UI — The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and 
-- [tt-a1i/archify](https://github.com/tt-a1i/archify) — momentum 81, ⭐91418 — Design & UI — Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Cod
-- [rehan-remade/universal-modder](https://github.com/rehan-remade/universal-modder) — momentum 81, ⭐9195 — MCP & Tools — Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game 
-- [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) — momentum 80, ⭐106272 — MCP & Tools — Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, 
-- [Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) — momentum 80, ⭐88905 — Memory & Context — Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can e
-- [rtk-ai/rtk](https://github.com/rtk-ai/rtk) — momentum 80, ⭐84993 — General Skills — CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, z
-- [cheaper-inference/OmniRoute](https://github.com/cheaper-inference/OmniRoute) — momentum 80, ⭐82565 — MCP & Tools — Never stop coding. Free MIT AI gateway: one endpoint, 375 providers (150+ free), 1,400+ models Kimi,
-- [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) — momentum 80, ⭐79516 — Design & UI — Bash is all you need -  A nano claude code–like 「agent harness」, built from 0 to 1
-- [career-ops-hq/career-ops](https://github.com/career-ops-hq/career-ops) — momentum 80, ⭐78673 — General Skills — Open-source AI job search agent and job finder: scan job boards, score each job 1-5 against your CV 
-- [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) — momentum 80, ⭐78268 — MCP & Tools — Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for c
-- [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) — momentum 80, ⭐75435 — MCP & Tools — Write HTML. Render video. Built for agents.
-- [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) — momentum 80, ⭐70477 — Subagents — OmO: Just type "mass ulw" keyword with your prompt. Now you are the master of graph engineering.
-- [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) — momentum 79, ⭐73006 — Design & UI — World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700
-- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) — momentum 79, ⭐70424 — Design & UI — Documented system prompts from Anthropic - Claude Fable 5.1, Opus 5.5, Claude Design, Claude Code. O
-- [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) — momentum 79, ⭐68315 — Commands & Hooks — from vibe coding to agentic engineering - practice makes claude perfect
-- [ai-job-search-dev/ai-job-search](https://github.com/ai-job-search-dev/ai-job-search) — momentum 79, ⭐67517 — Design & UI — The job search that runs on your machine. AI job application framework built on Claude Code: evaluat
-- [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) — momentum 79, ⭐65885 — General Skills — AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - th
-- [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) — momentum 79, ⭐62880 — Design & UI — Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and P
-- [blader/humanizer](https://github.com/blader/humanizer) — momentum 79, ⭐62337 — Writing & Content — Agent skill that removes signs of AI-generated writing from text
-- [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) — momentum 79, ⭐57327 — Writing & Content — Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth enginee
-- [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) — momentum 79, ⭐56917 — Design & UI — Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build, Muse Code, Devin as an OpenAI/Gemini/Claud
-- [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) — momentum 79, ⭐56866 — Collections — A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the
-- [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) — momentum 78, ⭐55268 — General Skills — Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ sc
-- [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) — momentum 78, ⭐54538 — Quality & Review — Academic Research Skills for Claude Code: research → write → review → revise → finalize
-- [alibaba/open-code-review](https://github.com/alibaba/open-code-review) — momentum 78, ⭐48956 — Design & UI — Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: det
+- [morluto/rea](https://github.com/morluto/rea) — momentum 87, ⭐408602 — MCP & Tools — Reverse engineer anything with agents, from app behavior down to native binaries.
+- [affaan-m/ECC](https://github.com/affaan-m/ECC) — momentum 86, ⭐292810 — MCP & Tools — The agent harness performance optimization system. Skills, instincts, memory, security, and research
+- [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) — momentum 85, ⭐258570 — General Skills — The agent that grows with you
+- [anthropics/skills](https://github.com/anthropics/skills) — momentum 83, ⭐184838 — General Skills — Public repository for Agent Skills
+- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) — momentum 83, ⭐180324 — General Skills — Makes your AI agent think like the laziest senior dev in the room. The best code is the code you nev
+- [farion1231/cc-switch](https://github.com/farion1231/cc-switch) — momentum 83, ⭐150138 — MCP & Tools — A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build
+- [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) — momentum 82, ⭐142621 — Design & UI — An AI skill that provides design intelligence for building professional UI/UX across multiple platfo
+- [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) — momentum 82, ⭐138827 — MCP & Tools — Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. 
+- [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) — momentum 81, ⭐116144 — General Skills — 🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of
+- [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) — momentum 81, ⭐111789 — General Skills — Production-grade engineering skills for AI coding agents.
+- [stablyai/orca](https://github.com/stablyai/orca) — momentum 81, ⭐110343 — Subagents — Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding ag
+- [paperclipai/paperclip](https://github.com/paperclipai/paperclip) — momentum 81, ⭐108724 — MCP & Tools — The open-source app everyone uses to manage agents at work
+- [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) — momentum 81, ⭐105675 — Design & UI — Agent skills that give coding agents taste: art direction, reference images and a browser check inst
+- [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) — momentum 81, ⭐104966 — Memory & Context — Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during ses
+- [nexu-io/open-design](https://github.com/nexu-io/open-design) — momentum 81, ⭐104902 — Design & UI — The 1st Collaborative AI Design Agent Workspace. Local-first and open source. Create motion, prototy
+- [pbakaus/impeccable](https://github.com/pbakaus/impeccable) — momentum 81, ⭐95706 — Design & UI — The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and 
+- [tt-a1i/archify](https://github.com/tt-a1i/archify) — momentum 81, ⭐91529 — Design & UI — Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Cod
+- [rehan-remade/universal-modder](https://github.com/rehan-remade/universal-modder) — momentum 81, ⭐9201 — MCP & Tools — Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game 
+- [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) — momentum 80, ⭐106388 — MCP & Tools — Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, 
+- [Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) — momentum 80, ⭐88938 — Memory & Context — Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can e
+- [rtk-ai/rtk](https://github.com/rtk-ai/rtk) — momentum 80, ⭐85009 — General Skills — CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, z
+- [cheaper-inference/OmniRoute](https://github.com/cheaper-inference/OmniRoute) — momentum 80, ⭐82626 — MCP & Tools — Never stop coding. Free MIT AI gateway: one endpoint, 375 providers (150+ free), 1,400+ models Kimi,
+- [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) — momentum 80, ⭐79535 — Design & UI — Bash is all you need -  A nano claude code–like 「agent harness」, built from 0 to 1
+- [career-ops-hq/career-ops](https://github.com/career-ops-hq/career-ops) — momentum 80, ⭐78729 — General Skills — Open-source AI job search agent and job finder: scan job boards, score each job 1-5 against your CV 
+- [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) — momentum 80, ⭐78286 — MCP & Tools — Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for c
+- [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) — momentum 80, ⭐75551 — MCP & Tools — Write HTML. Render video. Built for agents.
+- [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) — momentum 80, ⭐70488 — Subagents — OmO: Just type "mass ulw" keyword with your prompt. Now you are the master of graph engineering.
+- [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) — momentum 79, ⭐73076 — Design & UI — World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700
+- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) — momentum 79, ⭐70437 — Design & UI — Documented system prompts from Anthropic - Claude Fable 5.1, Opus 5.5, Claude Design, Claude Code. O
+- [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) — momentum 79, ⭐68318 — Commands & Hooks — from vibe coding to agentic engineering - practice makes claude perfect
+- [ai-job-search-dev/ai-job-search](https://github.com/ai-job-search-dev/ai-job-search) — momentum 79, ⭐67558 — Design & UI — The job search that runs on your machine. AI job application framework built on Claude Code: evaluat
+- [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) — momentum 79, ⭐65915 — General Skills — AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - th
+- [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) — momentum 79, ⭐63012 — Design & UI — Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and P
+- [blader/humanizer](https://github.com/blader/humanizer) — momentum 79, ⭐62422 — Writing & Content — Agent skill that removes signs of AI-generated writing from text
+- [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) — momentum 79, ⭐57361 — Writing & Content — Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth enginee
+- [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) — momentum 79, ⭐56951 — Design & UI — Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build, Muse Code, Devin as an OpenAI/Gemini/Claud
+- [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) — momentum 79, ⭐56885 — Collections — A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the
+- [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) — momentum 78, ⭐55305 — General Skills — Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ sc
+- [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) — momentum 78, ⭐54573 — Quality & Review — Academic Research Skills for Claude Code: research → write → review → revise → finalize
+- [alibaba/open-code-review](https://github.com/alibaba/open-code-review) — momentum 78, ⭐48999 — Design & UI — Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: det
