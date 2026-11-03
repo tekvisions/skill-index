@@ -6,6 +6,8 @@ breadcrumb — so every skill is an indexable landing page. Run after build_data
 """
 from __future__ import annotations
 
+import html_json
+from inclusion_gate import apply as apply_inclusion, render_references, include_core_repository
 import html
 import json
 import os
@@ -38,6 +40,8 @@ def ago(iso) -> str:
 
 
 def page(it: dict, related: list[dict]) -> str:
+    if not include_core_repository(it["full_name"], HERE):
+        raise ValueError("Reviewed reference must use the unranked reference renderer")
     title = f"{it['full_name']} — {it['category']} skill | The Skill Index"
     desc = (it["description"] or f"{it['full_name']}, a {it['category']} skill ranked on The Skill Index.")[:300]
     url = f"{SITE_URL}/p/{it['slug']}/"
@@ -52,10 +56,14 @@ def page(it: dict, related: list[dict]) -> str:
     ld = {
         "@context": "https://schema.org", "@type": "SoftwareSourceCode",
         "name": it["full_name"], "description": desc, "url": url,
-        "codeRepository": it["url"], "programmingLanguage": it.get("language") or "Markdown",
-        "author": {"@type": "Person", "name": it["owner"]},
+        "codeRepository": it["url"], "programmingLanguage": it.get("language"),
+
         "license": it.get("license") or "",
     }
+    if not ld.get("programmingLanguage"):
+        ld.pop("programmingLanguage", None)
+    if ld.get("license") in (None, "", "NOASSERTION", "OTHER"):
+        ld.pop("license", None)
     crumb = {
         "@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [
             {"@type": "ListItem", "position": 1, "name": "The Skill Index", "item": SITE_URL + "/"},
@@ -82,8 +90,8 @@ def page(it: dict, related: list[dict]) -> str:
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400..700;1,9..144,400..600&family=JetBrains+Mono:wght@400;500;700&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="/style.css">
-<script type="application/ld+json">{json.dumps(ld)}</script>
-<script type="application/ld+json">{json.dumps(crumb)}</script>
+<script type="application/ld+json">{html_json.dumps(ld)}</script>
+<script type="application/ld+json">{html_json.dumps(crumb)}</script>
 <script>var t;try{{t=localStorage.getItem('si-theme')}}catch(e){{}}if(t)document.documentElement.setAttribute('data-theme',t);</script>
 </head>
 <body>
@@ -119,6 +127,7 @@ def page(it: dict, related: list[dict]) -> str:
 
 def main() -> int:
     data = json.load(open(os.path.join(HERE, "data.json"), encoding="utf-8"))
+    data = apply_inclusion(data, HERE)
     items = data["items"]
     if os.path.isdir(P_DIR):
         shutil.rmtree(P_DIR)                  # rebuild cleanly so removed skills don't linger
@@ -134,6 +143,7 @@ def main() -> int:
         with open(os.path.join(d, "index.html"), "w", encoding="utf-8") as f:
             f.write(page(it, related))
         n += 1
+    render_references(HERE, data)
     print(f"generated {n} detail pages in p/")
     return 0
 

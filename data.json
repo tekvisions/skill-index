@@ -1,6 +1,6 @@
 {
  "generated_at": "2026-11-02T18:42:01.277433+00:00",
- "count": 286,
+ "count": 285,
  "categories": [
   {
    "name": "Collections",
@@ -24,7 +24,7 @@
   },
   {
    "name": "General Skills",
-   "count": 25
+   "count": 24
   },
   {
    "name": "Writing & Content",
@@ -40,44 +40,6 @@
   }
  ],
  "items": [
-  {
-   "name": "cleanyourtv",
-   "full_name": "Gathin23/cleanyourtv",
-   "slug": "gathin23-cleanyourtv",
-   "url": "https://github.com/Gathin23/cleanyourtv",
-   "owner": "Gathin23",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/94786511?v=4",
-   "stars": 50192,
-   "forks": 6330,
-   "open_issues": 175,
-   "language": "Python",
-   "license": "NOASSERTION",
-   "pushed_at": "2026-11-02T16:11:31Z",
-   "created_at": "2026-10-17T08:12:35Z",
-   "description": "Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.",
-   "topics": [
-    "adb",
-    "adblock",
-    "android-tv",
-    "android-tv-launcher",
-    "apple-tv",
-    "bloatware-removal",
-    "claude-code",
-    "debloat",
-    "fire-tv",
-    "google-tv",
-    "launcher",
-    "privacy",
-    "smart-tv",
-    "sony-bravia",
-    "tcl",
-    "vibe-coding",
-    "xiaomi"
-   ],
-   "category": "General Skills",
-   "momentum": 89,
-   "rank": 1
-  },
   {
    "name": "rea",
    "full_name": "morluto/rea",
@@ -117,7 +79,7 @@
    ],
    "category": "MCP & Tools",
    "momentum": 87,
-   "rank": 2
+   "rank": 1
   },
   {
    "name": "ECC",
@@ -146,7 +108,7 @@
    ],
    "category": "MCP & Tools",
    "momentum": 85,
-   "rank": 3
+   "rank": 2
   },
   {
    "name": "hermes-agent",
@@ -180,7 +142,7 @@
    ],
    "category": "General Skills",
    "momentum": 85,
-   "rank": 4
+   "rank": 3
   },
   {
    "name": "skills",
@@ -202,7 +164,7 @@
    ],
    "category": "General Skills",
    "momentum": 83,
-   "rank": 5
+   "rank": 4
   },
   {
    "name": "ponytail",
@@ -233,7 +195,7 @@
    ],
    "category": "General Skills",
    "momentum": 83,
-   "rank": 6
+   "rank": 5
   },
   {
    "name": "cc-switch",
@@ -273,7 +235,7 @@
    ],
    "category": "MCP & Tools",
    "momentum": 83,
-   "rank": 7
+   "rank": 6
   },
   {
    "name": "ui-ux-pro-max-skill",
@@ -313,7 +275,7 @@
    ],
    "category": "Design & UI",
    "momentum": 82,
-   "rank": 8
+   "rank": 7
   },
   {
    "name": "graphify",
@@ -354,7 +316,7 @@
    ],
    "category": "MCP & Tools",
    "momentum": 82,
-   "rank": 9
+   "rank": 8
   },
   {
    "name": "anatomy",
@@ -379,7 +341,7 @@
    ],
    "category": "General Skills",
    "momentum": 82,
-   "rank": 10
+   "rank": 9
   },
   {
    "name": "caveman",
@@ -410,7 +372,7 @@
    ],
    "category": "General Skills",
    "momentum": 81,
-   "rank": 11
+   "rank": 10
   },
   {
    "name": "orca",
@@ -451,7 +413,7 @@
    ],
    "category": "Subagents",
    "momentum": 81,
-   "rank": 12
+   "rank": 11
   },
   {
    "name": "agent-skills",
@@ -478,7 +440,7 @@
    ],
    "category": "General Skills",
    "momentum": 81,
-   "rank": 13
+   "rank": 12
   },
   {
    "name": "claude-mem",
@@ -519,7 +481,7 @@
    ],
    "category": "Memory & Context",
    "momentum": 81,
-   "rank": 14
+   "rank": 13
   },
   {
    "name": "paperclip",
@@ -560,7 +522,7 @@
    ],
    "category": "MCP & Tools",
    "momentum": 81,
-   "rank": 15
+   "rank": 14
   },
   {
    "name": "taste-skill",
@@ -592,7 +554,7 @@
    ],
    "category": "Design & UI",
    "momentum": 81,
-   "rank": 16
+   "rank": 15
   },
   {
    "name": "Agent-Reach",
@@ -630,7 +592,7 @@
    ],
    "category": "MCP & Tools",
    "momentum": 81,
-   "rank": 17
+   "rank": 16
   },
   {
    "name": "open-design",
@@ -671,7 +633,7 @@
    ],
    "category": "Design & UI",
    "momentum": 81,
-   "rank": 18
+   "rank": 17
   },
   {
    "name": "impeccable",
@@ -697,7 +659,7 @@
    ],
    "category": "Design & UI",
    "momentum": 81,
-   "rank": 19
+   "rank": 18
   },
   {
    "name": "archify",
@@ -738,7 +700,7 @@
    ],
    "category": "Design & UI",
    "momentum": 81,
-   "rank": 20
+   "rank": 19
   },
   {
    "name": "rtk",
@@ -772,7 +734,7 @@
    ],
    "category": "General Skills",
    "momentum": 80,
-   "rank": 21
+   "rank": 20
   },
   {
    "name": "OmniRoute",
@@ -813,7 +775,7 @@
    ],
    "category": "MCP & Tools",
    "momentum": 80,
-   "rank": 22
+   "rank": 21
   },
   {
    "name": "career-ops",
@@ -854,7 +816,7 @@
    ],
    "category": "General Skills",
    "momentum": 80,
-   "rank": 23
+   "rank": 22
   },
   {
    "name": "headroom",
@@ -895,7 +857,7 @@
    ],
    "category": "MCP & Tools",
    "momentum": 80,
-   "rank": 24
+   "rank": 23
   },
   {
    "name": "hyperframes",
@@ -931,7 +893,7 @@
    ],
    "category": "MCP & Tools",
    "momentum": 80,
-   "rank": 25
+   "rank": 24
   },
   {
    "name": "universal-modder",
@@ -962,7 +924,7 @@
    ],
    "category": "MCP & Tools",
    "momentum": 80,
-   "rank": 26
+   "rank": 25
   },
   {
    "name": "Understand-Anything",
@@ -1000,7 +962,7 @@
    ],
    "category": "Memory & Context",
    "momentum": 79,
-   "rank": 27
+   "rank": 26
   },
   {
    "name": "learn-claude-code",
@@ -1031,7 +993,7 @@
    ],
    "category": "Design & UI",
    "momentum": 79,
-   "rank": 28
+   "rank": 27
   },
   {
    "name": "OpenMontage",
@@ -1071,7 +1033,7 @@
    ],
    "category": "Design & UI",
    "momentum": 79,
-   "rank": 29
+   "rank": 28
   },
   {
    "name": "system_prompts_leaks",
@@ -1112,7 +1074,7 @@
    ],
    "category": "Design & UI",
    "momentum": 79,
-   "rank": 30
+   "rank": 29
   },
   {
    "name": "oh-my-openagent",
@@ -1148,7 +1110,7 @@
    ],
    "category": "Subagents",
    "momentum": 79,
-   "rank": 31
+   "rank": 30
   },
   {
    "name": "ai-job-search",
@@ -1181,7 +1143,7 @@
    ],
    "category": "Design & UI",
    "momentum": 79,
-   "rank": 32
+   "rank": 31
   },
   {
    "name": "claude-code-best-practice",
@@ -1222,7 +1184,7 @@
    ],
    "category": "Commands & Hooks",
    "momentum": 79,
-   "rank": 33
+   "rank": 32
   },
   {
    "name": "last30days-skill",
@@ -1263,7 +1225,7 @@
    ],
    "category": "General Skills",
    "momentum": 79,
-   "rank": 34
+   "rank": 33
   },
   {
    "name": "diagram-design",
@@ -1292,7 +1254,7 @@
    ],
    "category": "Design & UI",
    "momentum": 79,
-   "rank": 35
+   "rank": 34
   },
   {
    "name": "CLIProxyAPI",
@@ -1321,7 +1283,7 @@
    ],
    "category": "Design & UI",
    "momentum": 79,
-   "rank": 36
+   "rank": 35
   },
   {
    "name": "awesome-claude-code",
@@ -1361,7 +1323,7 @@
    ],
    "category": "Collections",
    "momentum": 79,
-   "rank": 37
+   "rank": 36
   },
   {
    "name": "elephant-goldfish-model",
@@ -1398,7 +1360,7 @@
    ],
    "category": "Subagents",
    "momentum": 79,
-   "rank": 38
+   "rank": 37
   },
   {
    "name": "humanizer",
@@ -1432,7 +1394,7 @@
    ],
    "category": "Writing & Content",
    "momentum": 78,
-   "rank": 39
+   "rank": 38
   },
   {
    "name": "marketingskills",
@@ -1473,7 +1435,7 @@
    ],
    "category": "Writing & Content",
    "momentum": 78,
-   "rank": 40
+   "rank": 39
   },
   {
    "name": "scientific-agent-skills",
@@ -1511,7 +1473,7 @@
    ],
    "category": "General Skills",
    "momentum": 78,
-   "rank": 41
+   "rank": 40
   },
   {
    "name": "academic-research-skills",
@@ -1540,7 +1502,7 @@
    ],
    "category": "Quality & Review",
    "momentum": 78,
-   "rank": 42
+   "rank": 41
   },
   {
    "name": "awesome-openclaw-skills",
@@ -1573,7 +1535,7 @@
    ],
    "category": "Collections",
    "momentum": 78,
-   "rank": 43
+   "rank": 42
   },
   {
    "name": "cherry-studio",
@@ -1604,7 +1566,7 @@
    ],
    "category": "MCP & Tools",
    "momentum": 78,
-   "rank": 44
+   "rank": 43
   },
   {
    "name": "open-code-review",
@@ -1631,7 +1593,7 @@
    ],
    "category": "Design & UI",
    "momentum": 78,
-   "rank": 45
+   "rank": 44
   },
   {
    "name": "agentic-awesome-skills",
@@ -1672,7 +1634,7 @@
    ],
    "category": "Collections",
    "momentum": 78,
-   "rank": 46
+   "rank": 45
   },
   {
    "name": "JeecgBoot",
@@ -1713,7 +1675,7 @@
    ],
    "category": "MCP & Tools",
    "momentum": 78,
-   "rank": 47
+   "rank": 46
   },
   {
    "name": "codebase-memory-mcp",
@@ -1754,7 +1716,7 @@
    ],
    "category": "MCP & Tools",
    "momentum": 78,
-   "rank": 48
+   "rank": 47
   },
   {
    "name": "CowAgent",
@@ -1792,7 +1754,7 @@
    ],
    "category": "MCP & Tools",
    "momentum": 78,
-   "rank": 49
+   "rank": 48
   },
   {
    "name": "herdr",
@@ -1831,7 +1793,7 @@
    ],
    "category": "Subagents",
    "momentum": 78,
-   "rank": 50
+   "rank": 49
   },
   {
    "name": "hallmark",
@@ -1851,7 +1813,7 @@
    "topics": [],
    "category": "Design & UI",
    "momentum": 77,
-   "rank": 51
+   "rank": 50
   },
   {
    "name": "reactive-resume",
@@ -1882,7 +1844,7 @@
    ],
    "category": "MCP & Tools",
    "momentum": 77,
-   "rank": 52
+   "rank": 51
   },
   {
    "name": "agents",
@@ -1923,7 +1885,7 @@
    ],
    "category": "MCP & Tools",
    "momentum": 77,
-   "rank": 53
+   "rank": 52
   },
   {
    "name": "awesome-copilot",
@@ -1952,7 +1914,7 @@
    ],
    "category": "Collections",
    "momentum": 77,
-   "rank": 54
+   "rank": 53
   },
   {
    "name": "awesome-agent-skills",
@@ -1985,7 +1947,7 @@
    ],
    "category": "Collections",
    "momentum": 77,
-   "rank": 55
+   "rank": 54
   },
   {
    "name": "i-have-adhd",
@@ -2012,7 +1974,7 @@
    ],
    "category": "General Skills",
    "momentum": 76,
-   "rank": 56
+   "rank": 55
   },
   {
    "name": "book-to-skill",
@@ -2046,7 +2008,7 @@
    ],
    "category": "Memory & Context",
    "momentum": 76,
-   "rank": 57
+   "rank": 56
   },
   {
    "name": "cognee",
@@ -2086,7 +2048,7 @@
    ],
    "category": "Memory & Context",
    "momentum": 76,
-   "rank": 58
+   "rank": 57
   },
   {
    "name": "invisible_dots",
@@ -2127,7 +2089,7 @@
    ],
    "category": "MCP & Tools",
    "momentum": 76,
-   "rank": 59
+   "rank": 58
   },
   {
    "name": "cli",
@@ -2164,7 +2126,7 @@
    ],
    "category": "Design & UI",
    "momentum": 76,
-   "rank": 60
+   "rank": 59
   },
   {
    "name": "nanoclaw",
@@ -2190,7 +2152,7 @@
    ],
    "category": "Quality & Review",
    "momentum": 76,
-   "rank": 61
+   "rank": 60
   },
   {
    "name": "claude-skills",
@@ -2231,7 +2193,7 @@
    ],
    "category": "Writing & Content",
    "momentum": 76,
-   "rank": 62
+   "rank": 61
   },
   {
    "name": "guizang-ppt-skill",
@@ -2263,7 +2225,7 @@
    ],
    "category": "Design & UI",
    "momentum": 75,
-   "rank": 63
+   "rank": 62
   },
   {
    "name": "huashu-design",
@@ -2294,7 +2256,7 @@
    ],
    "category": "Design & UI",
    "momentum": 75,
-   "rank": 64
+   "rank": 63
   },
   {
    "name": "planning-with-files",
@@ -2335,7 +2297,7 @@
    ],
    "category": "Subagents",
    "momentum": 75,
-   "rank": 65
+   "rank": 64
   },
   {
    "name": "pm-skills",
@@ -2363,7 +2325,7 @@
    ],
    "category": "General Skills",
    "momentum": 75,
-   "rank": 66
+   "rank": 65
   },
   {
    "name": "baoyu-skills",
@@ -2388,7 +2350,7 @@
    ],
    "category": "General Skills",
    "momentum": 75,
-   "rank": 67
+   "rank": 66
   },
   {
    "name": "awesome-claude-code-subagents",
@@ -2419,7 +2381,7 @@
    ],
    "category": "Collections",
    "momentum": 75,
-   "rank": 68
+   "rank": 67
   },
   {
    "name": "claude-seo",
@@ -2447,7 +2409,7 @@
    ],
    "category": "Writing & Content",
    "momentum": 75,
-   "rank": 69
+   "rank": 68
   },
   {
    "name": "editor",
@@ -2486,7 +2448,7 @@
    ],
    "category": "MCP & Tools",
    "momentum": 75,
-   "rank": 70
+   "rank": 69
   },
   {
    "name": "nocobase",
@@ -2527,7 +2489,7 @@
    ],
    "category": "Commands & Hooks",
    "momentum": 75,
-   "rank": 71
+   "rank": 70
   },
   {
    "name": "SkillSpector",
@@ -2559,7 +2521,7 @@
    ],
    "category": "MCP & Tools",
    "momentum": 75,
-   "rank": 72
+   "rank": 71
   },
   {
    "name": "open-seo-mcp-skills",
@@ -2600,7 +2562,7 @@
    ],
    "category": "MCP & Tools",
    "momentum": 75,
-   "rank": 73
+   "rank": 72
   },
   {
    "name": "logo-design-skill",
@@ -2629,7 +2591,7 @@
    ],
    "category": "Design & UI",
    "momentum": 75,
-   "rank": 74
+   "rank": 73
   },
   {
    "name": "Claude-Code-Game-Studios",
@@ -2662,7 +2624,7 @@
    ],
    "category": "Commands & Hooks",
    "momentum": 74,
-   "rank": 75
+   "rank": 74
   },
   {
    "name": "ego-lite",
@@ -2693,7 +2655,7 @@
    ],
    "category": "Design & UI",
    "momentum": 74,
-   "rank": 76
+   "rank": 75
   },
   {
    "name": "notebooklm-py",
@@ -2728,7 +2690,7 @@
    ],
    "category": "Design & UI",
    "momentum": 74,
-   "rank": 77
+   "rank": 76
   },
   {
    "name": "Auto-claude-code-research-in-sleep",
@@ -2769,7 +2731,7 @@
    ],
    "category": "MCP & Tools",
    "momentum": 74,
-   "rank": 78
+   "rank": 77
   },
   {
    "name": "video-shotcraft",
@@ -2804,7 +2766,7 @@
    ],
    "category": "Design & UI",
    "momentum": 74,
-   "rank": 79
+   "rank": 78
   },
   {
    "name": "genoffice",
@@ -2845,7 +2807,7 @@
    ],
    "category": "Design & UI",
    "momentum": 74,
-   "rank": 80
+   "rank": 79
   },
   {
    "name": "replica-skill",
@@ -2875,7 +2837,7 @@
    ],
    "category": "Design & UI",
    "momentum": 74,
-   "rank": 81
+   "rank": 80
   },
   {
    "name": "awesome-short-drama-skills",
@@ -2916,7 +2878,7 @@
    ],
    "category": "Collections",
    "momentum": 74,
-   "rank": 82
+   "rank": 81
   },
   {
    "name": "cc-haha",
@@ -2951,7 +2913,7 @@
    ],
    "category": "MCP & Tools",
    "momentum": 73,
-   "rank": 83
+   "rank": 82
   },
   {
    "name": "awesome-claude-skills",
@@ -2989,7 +2951,7 @@
    ],
    "category": "Collections",
    "momentum": 72,
-   "rank": 84
+   "rank": 83
   },
   {
    "name": "distilly",
@@ -3029,7 +2991,7 @@
    ],
    "category": "Memory & Context",
    "momentum": 72,
-   "rank": 85
+   "rank": 84
   },
   {
    "name": "ai-guide",
@@ -3070,7 +3032,7 @@
    ],
    "category": "MCP & Tools",
    "momentum": 72,
-   "rank": 86
+   "rank": 85
   },
   {
    "name": "brag",
@@ -3097,7 +3059,7 @@
    ],
    "category": "Design & UI",
    "momentum": 72,
-   "rank": 87
+   "rank": 86
   },
   {
    "name": "open-saas",
@@ -3138,7 +3100,7 @@
    ],
    "category": "Design & UI",
    "momentum": 72,
-   "rank": 88
+   "rank": 87
   },
   {
    "name": "memU",
@@ -3169,7 +3131,7 @@
    ],
    "category": "MCP & Tools",
    "momentum": 72,
-   "rank": 89
+   "rank": 88
   },
   {
    "name": "geo-seo-claude",
@@ -3189,7 +3151,7 @@
    "topics": [],
    "category": "Writing & Content",
    "momentum": 72,
-   "rank": 90
+   "rank": 89
   },
   {
    "name": "awesome-claude-video-skills",
@@ -3220,7 +3182,7 @@
    ],
    "category": "Collections",
    "momentum": 72,
-   "rank": 91
+   "rank": 90
   },
   {
    "name": "prompt-master",
@@ -3245,7 +3207,7 @@
    ],
    "category": "Memory & Context",
    "momentum": 71,
-   "rank": 92
+   "rank": 91
   },
   {
    "name": "claude-skills",
@@ -3271,7 +3233,7 @@
    ],
    "category": "General Skills",
    "momentum": 71,
-   "rank": 93
+   "rank": 92
   },
   {
    "name": "claude-ads",
@@ -3303,7 +3265,7 @@
    ],
    "category": "Quality & Review",
    "momentum": 71,
-   "rank": 94
+   "rank": 93
   },
   {
    "name": "skill",
@@ -3340,7 +3302,7 @@
    ],
    "category": "Collections",
    "momentum": 71,
-   "rank": 95
+   "rank": 94
   },
   {
    "name": "security-audit-skill",
@@ -3360,7 +3322,7 @@
    "topics": [],
    "category": "Quality & Review",
    "momentum": 70,
-   "rank": 96
+   "rank": 95
   },
   {
    "name": "reverse-skill",
@@ -3380,7 +3342,7 @@
    "topics": [],
    "category": "Quality & Review",
    "momentum": 70,
-   "rank": 97
+   "rank": 96
   },
   {
    "name": "awesome-agentic-ai-zh",
@@ -3420,7 +3382,7 @@
    ],
    "category": "Collections",
    "momentum": 70,
-   "rank": 98
+   "rank": 97
   },
   {
    "name": "oh-story-claudecode",
@@ -3461,7 +3423,7 @@
    ],
    "category": "Design & UI",
    "momentum": 70,
-   "rank": 99
+   "rank": 98
   },
   {
    "name": "sno-station",
@@ -3502,7 +3464,7 @@
    ],
    "category": "Subagents",
    "momentum": 70,
-   "rank": 100
+   "rank": 99
   },
   {
    "name": "sno-station-skills",
@@ -3543,7 +3505,7 @@
    ],
    "category": "Subagents",
    "momentum": 70,
-   "rank": 101
+   "rank": 100
   },
   {
    "name": "khazix-skills",
@@ -3573,7 +3535,7 @@
    ],
    "category": "Writing & Content",
    "momentum": 69,
-   "rank": 102
+   "rank": 101
   },
   {
    "name": "AI-Research-SKILLs",
@@ -3608,7 +3570,7 @@
    ],
    "category": "General Skills",
    "momentum": 69,
-   "rank": 103
+   "rank": 102
   },
   {
    "name": "claude-code-ultimate-guide",
@@ -3649,7 +3611,7 @@
    ],
    "category": "MCP & Tools",
    "momentum": 69,
-   "rank": 104
+   "rank": 103
   },
   {
    "name": "marketing-skills",
@@ -3688,7 +3650,7 @@
    ],
    "category": "MCP & Tools",
    "momentum": 68,
-   "rank": 105
+   "rank": 104
   },
   {
    "name": "awesome-gamedev-agent-skills",
@@ -3729,7 +3691,7 @@
    ],
    "category": "Collections",
    "momentum": 68,
-   "rank": 106
+   "rank": 105
   },
   {
    "name": "Claude-BugHunter",
@@ -3766,7 +3728,7 @@
    ],
    "category": "Collections",
    "momentum": 68,
-   "rank": 107
+   "rank": 106
   },
   {
    "name": "claude-code-guide",
@@ -3807,7 +3769,7 @@
    ],
    "category": "MCP & Tools",
    "momentum": 68,
-   "rank": 108
+   "rank": 107
   },
   {
    "name": "drama-skills",
@@ -3846,7 +3808,7 @@
    ],
    "category": "Quality & Review",
    "momentum": 68,
-   "rank": 109
+   "rank": 108
   },
   {
    "name": "vibe-coding-toolkit",
@@ -3873,7 +3835,7 @@
    ],
    "category": "Collections",
    "momentum": 68,
-   "rank": 110
+   "rank": 109
   },
   {
    "name": "Humanizer-zh",
@@ -3893,7 +3855,7 @@
    "topics": [],
    "category": "General Skills",
    "momentum": 67,
-   "rank": 111
+   "rank": 110
   },
   {
    "name": "Skill_Seekers",
@@ -3932,7 +3894,7 @@
    ],
    "category": "MCP & Tools",
    "momentum": 67,
-   "rank": 112
+   "rank": 111
   },
   {
    "name": "Claude-Red",
@@ -3959,7 +3921,7 @@
    ],
    "category": "Collections",
    "momentum": 67,
-   "rank": 113
+   "rank": 112
   },
   {
    "name": "html-anything",
@@ -4000,7 +3962,7 @@
    ],
    "category": "Design & UI",
    "momentum": 67,
-   "rank": 114
+   "rank": 113
   },
   {
    "name": "web-access",
@@ -4020,7 +3982,7 @@
    "topics": [],
    "category": "General Skills",
    "momentum": 67,
-   "rank": 115
+   "rank": 114
   },
   {
    "name": "Product-Manager-Skills",
@@ -4046,7 +4008,7 @@
    ],
    "category": "Design & UI",
    "momentum": 67,
-   "rank": 116
+   "rank": 115
   },
   {
    "name": "linkedin-skills",
@@ -4087,7 +4049,7 @@
    ],
    "category": "Collections",
    "momentum": 67,
-   "rank": 117
+   "rank": 116
   },
   {
    "name": "pstack-claude",
@@ -4128,7 +4090,7 @@
    ],
    "category": "Commands & Hooks",
    "momentum": 67,
-   "rank": 118
+   "rank": 117
   },
   {
    "name": "buildwithclaude",
@@ -4161,7 +4123,7 @@
    ],
    "category": "MCP & Tools",
    "momentum": 67,
-   "rank": 119
+   "rank": 118
   },
   {
    "name": "one-skill-to-rule-them-all",
@@ -4200,7 +4162,7 @@
    ],
    "category": "Collections",
    "momentum": 67,
-   "rank": 120
+   "rank": 119
   },
   {
    "name": "Claude-Code-Everything-You-Need-to-Know",
@@ -4241,7 +4203,7 @@
    ],
    "category": "MCP & Tools",
    "momentum": 67,
-   "rank": 121
+   "rank": 120
   },
   {
    "name": "claude-code-mods",
@@ -4271,7 +4233,7 @@
    ],
    "category": "Commands & Hooks",
    "momentum": 67,
-   "rank": 122
+   "rank": 121
   },
   {
    "name": "nihaixia",
@@ -4308,7 +4270,7 @@
    ],
    "category": "General Skills",
    "momentum": 66,
-   "rank": 123
+   "rank": 122
   },
   {
    "name": "ctf-skills",
@@ -4341,7 +4303,7 @@
    ],
    "category": "Quality & Review",
    "momentum": 66,
-   "rank": 124
+   "rank": 123
   },
   {
    "name": "awesome-ChatGPT-repositories",
@@ -4373,7 +4335,7 @@
    ],
    "category": "Collections",
    "momentum": 66,
-   "rank": 125
+   "rank": 124
   },
   {
    "name": "Anthropic-Cybersecurity-Skills",
@@ -4414,7 +4376,7 @@
    ],
    "category": "MCP & Tools",
    "momentum": 65,
-   "rank": 126
+   "rank": 125
   },
   {
    "name": "skills",
@@ -4451,7 +4413,7 @@
    ],
    "category": "Design & UI",
    "momentum": 65,
-   "rank": 127
+   "rank": 126
   },
   {
    "name": "delegate-skills",
@@ -4487,7 +4449,7 @@
    ],
    "category": "Quality & Review",
    "momentum": 65,
-   "rank": 128
+   "rank": 127
   },
   {
    "name": "grip",
@@ -4519,7 +4481,7 @@
    ],
    "category": "Commands & Hooks",
    "momentum": 65,
-   "rank": 129
+   "rank": 128
   },
   {
    "name": "claude-code-tips",
@@ -4552,7 +4514,7 @@
    ],
    "category": "Commands & Hooks",
    "momentum": 64,
-   "rank": 130
+   "rank": 129
   },
   {
    "name": "translate-book",
@@ -4572,7 +4534,7 @@
    "topics": [],
    "category": "Subagents",
    "momentum": 64,
-   "rank": 131
+   "rank": 130
   },
   {
    "name": "babysitter",
@@ -4612,7 +4574,7 @@
    ],
    "category": "Subagents",
    "momentum": 64,
-   "rank": 132
+   "rank": 131
   },
   {
    "name": "awesome-openclaw-tutorial",
@@ -4653,7 +4615,7 @@
    ],
    "category": "Collections",
    "momentum": 63,
-   "rank": 133
+   "rank": 132
   },
   {
    "name": "mex",
@@ -4693,7 +4655,7 @@
    ],
    "category": "MCP & Tools",
    "momentum": 63,
-   "rank": 134
+   "rank": 133
   },
   {
    "name": "alook",
@@ -4733,7 +4695,7 @@
    ],
    "category": "Subagents",
    "momentum": 63,
-   "rank": 135
+   "rank": 134
   },
   {
    "name": "pi-subagents",
@@ -4758,7 +4720,7 @@
    ],
    "category": "Subagents",
    "momentum": 63,
-   "rank": 136
+   "rank": 135
   },
   {
    "name": "getspecstory",
@@ -4797,7 +4759,7 @@
    ],
    "category": "General Skills",
    "momentum": 63,
-   "rank": 137
+   "rank": 136
   },
   {
    "name": "oh-my-agent",
@@ -4833,7 +4795,7 @@
    ],
    "category": "Subagents",
    "momentum": 63,
-   "rank": 138
+   "rank": 137
   },
   {
    "name": "open-steps",
@@ -4870,7 +4832,7 @@
    ],
    "category": "General Skills",
    "momentum": 63,
-   "rank": 139
+   "rank": 138
   },
   {
    "name": "novel-to-game",
@@ -4911,7 +4873,7 @@
    ],
    "category": "Design & UI",
    "momentum": 63,
-   "rank": 140
+   "rank": 139
   },
   {
    "name": "claude-flightdeck",
@@ -4952,7 +4914,7 @@
    ],
    "category": "Subagents",
    "momentum": 63,
-   "rank": 141
+   "rank": 140
   },
   {
    "name": "claude-codex-settings",
@@ -4993,7 +4955,7 @@
    ],
    "category": "Commands & Hooks",
    "momentum": 62,
-   "rank": 142
+   "rank": 141
   },
   {
    "name": "Claude-Code-Agent-Monitor",
@@ -5034,7 +4996,7 @@
    ],
    "category": "Subagents",
    "momentum": 62,
-   "rank": 143
+   "rank": 142
   },
   {
    "name": "power-platform-skills",
@@ -5062,7 +5024,7 @@
    ],
    "category": "Design & UI",
    "momentum": 62,
-   "rank": 144
+   "rank": 143
   },
   {
    "name": "power-bi-agentic-development",
@@ -5102,7 +5064,7 @@
    ],
    "category": "Subagents",
    "momentum": 62,
-   "rank": 145
+   "rank": 144
   },
   {
    "name": "claude-devtools",
@@ -5143,7 +5105,7 @@
    ],
    "category": "Subagents",
    "momentum": 61,
-   "rank": 146
+   "rank": 145
   },
   {
    "name": "awesome-japanese-nlp-resources",
@@ -5174,7 +5136,7 @@
    ],
    "category": "Collections",
    "momentum": 61,
-   "rank": 147
+   "rank": 146
   },
   {
    "name": "ai-maestro",
@@ -5215,7 +5177,7 @@
    ],
    "category": "Subagents",
    "momentum": 61,
-   "rank": 148
+   "rank": 147
   },
   {
    "name": "agentskills",
@@ -5237,7 +5199,7 @@
    ],
    "category": "Writing & Content",
    "momentum": 60,
-   "rank": 149
+   "rank": 148
   },
   {
    "name": "pro-workflow",
@@ -5277,7 +5239,7 @@
    ],
    "category": "Subagents",
    "momentum": 60,
-   "rank": 150
+   "rank": 149
   },
   {
    "name": "commands",
@@ -5313,7 +5275,7 @@
    ],
    "category": "Subagents",
    "momentum": 60,
-   "rank": 151
+   "rank": 150
   },
   {
    "name": "pentest-ai-agents",
@@ -5352,7 +5314,7 @@
    ],
    "category": "Subagents",
    "momentum": 60,
-   "rank": 152
+   "rank": 151
   },
   {
    "name": "Citadel",
@@ -5381,7 +5343,7 @@
    ],
    "category": "MCP & Tools",
    "momentum": 60,
-   "rank": 153
+   "rank": 152
   },
   {
    "name": "Codeman",
@@ -5422,7 +5384,7 @@
    ],
    "category": "Subagents",
    "momentum": 60,
-   "rank": 154
+   "rank": 153
   },
   {
    "name": "coco",
@@ -5458,7 +5420,7 @@
    ],
    "category": "MCP & Tools",
    "momentum": 60,
-   "rank": 155
+   "rank": 154
   },
   {
    "name": "claude-code-java",
@@ -5484,7 +5446,7 @@
    ],
    "category": "General Skills",
    "momentum": 60,
-   "rank": 156
+   "rank": 155
   },
   {
    "name": "claude-code-pro-course",
@@ -5518,7 +5480,7 @@
    ],
    "category": "MCP & Tools",
    "momentum": 60,
-   "rank": 157
+   "rank": 156
   },
   {
    "name": "cli-faq-shortcuts",
@@ -5559,7 +5521,7 @@
    ],
    "category": "Commands & Hooks",
    "momentum": 60,
-   "rank": 158
+   "rank": 157
   },
   {
    "name": "dao-code",
@@ -5587,7 +5549,7 @@
    ],
    "category": "MCP & Tools",
    "momentum": 59,
-   "rank": 159
+   "rank": 158
   },
   {
    "name": "instagram-skills",
@@ -5625,7 +5587,7 @@
    ],
    "category": "Commands & Hooks",
    "momentum": 59,
-   "rank": 160
+   "rank": 159
   },
   {
    "name": "awesome-agent-skills",
@@ -5653,7 +5615,7 @@
    ],
    "category": "Collections",
    "momentum": 59,
-   "rank": 161
+   "rank": 160
   },
   {
    "name": "claude-code-hooks",
@@ -5688,7 +5650,7 @@
    ],
    "category": "Commands & Hooks",
    "momentum": 59,
-   "rank": 162
+   "rank": 161
   },
   {
    "name": "claude-code-prompt-improver",
@@ -5708,7 +5670,7 @@
    "topics": [],
    "category": "Commands & Hooks",
    "momentum": 58,
-   "rank": 163
+   "rank": 162
   },
   {
    "name": "claude-workflow-v2",
@@ -5737,7 +5699,7 @@
    ],
    "category": "Commands & Hooks",
    "momentum": 58,
-   "rank": 164
+   "rank": 163
   },
   {
    "name": "pi-dynamic-workflows",
@@ -5771,7 +5733,7 @@
    ],
    "category": "Subagents",
    "momentum": 58,
-   "rank": 165
+   "rank": 164
   },
   {
    "name": "awesome-claude-skills",
@@ -5811,7 +5773,7 @@
    ],
    "category": "Collections",
    "momentum": 58,
-   "rank": 166
+   "rank": 165
   },
   {
    "name": "maestro-orchestrate",
@@ -5852,7 +5814,7 @@
    ],
    "category": "Subagents",
    "momentum": 58,
-   "rank": 167
+   "rank": 166
   },
   {
    "name": "writing-agent",
@@ -5881,7 +5843,7 @@
    ],
    "category": "Subagents",
    "momentum": 58,
-   "rank": 168
+   "rank": 167
   },
   {
    "name": "stitch-skills",
@@ -5901,7 +5863,7 @@
    "topics": [],
    "category": "MCP & Tools",
    "momentum": 57,
-   "rank": 169
+   "rank": 168
   },
   {
    "name": "skills",
@@ -5942,7 +5904,7 @@
    ],
    "category": "Design & UI",
    "momentum": 57,
-   "rank": 170
+   "rank": 169
   },
   {
    "name": "agent-rules-books",
@@ -5982,7 +5944,7 @@
    ],
    "category": "Design & UI",
    "momentum": 57,
-   "rank": 171
+   "rank": 170
   },
   {
    "name": "claude-code-my-workflow",
@@ -6013,7 +5975,7 @@
    ],
    "category": "Subagents",
    "momentum": 57,
-   "rank": 172
+   "rank": 171
   },
   {
    "name": "awesome-claude-code-skills",
@@ -6044,7 +6006,7 @@
    ],
    "category": "Collections",
    "momentum": 57,
-   "rank": 173
+   "rank": 172
   },
   {
    "name": "kantor-agent",
@@ -6064,7 +6026,7 @@
    "topics": [],
    "category": "Subagents",
    "momentum": 57,
-   "rank": 174
+   "rank": 173
   },
   {
    "name": "nihaisha-nishi-tcm",
@@ -6097,7 +6059,7 @@
    ],
    "category": "General Skills",
    "momentum": 56,
-   "rank": 175
+   "rank": 174
   },
   {
    "name": "Awesome-Journal-Skills",
@@ -6138,7 +6100,7 @@
    ],
    "category": "Collections",
    "momentum": 56,
-   "rank": 176
+   "rank": 175
   },
   {
    "name": "AI-company",
@@ -6179,7 +6141,7 @@
    ],
    "category": "MCP & Tools",
    "momentum": 56,
-   "rank": 177
+   "rank": 176
   },
   {
    "name": "claude-night-market",
@@ -6220,7 +6182,7 @@
    ],
    "category": "Collections",
    "momentum": 56,
-   "rank": 178
+   "rank": 177
   },
   {
    "name": "awesome-qa-skills",
@@ -6253,7 +6215,7 @@
    ],
    "category": "Collections",
    "momentum": 56,
-   "rank": 179
+   "rank": 178
   },
   {
    "name": "ccexp",
@@ -6276,7 +6238,7 @@
    ],
    "category": "Commands & Hooks",
    "momentum": 56,
-   "rank": 180
+   "rank": 179
   },
   {
    "name": "code-review-skill",
@@ -6296,7 +6258,7 @@
    "topics": [],
    "category": "Quality & Review",
    "momentum": 55,
-   "rank": 181
+   "rank": 180
   },
   {
    "name": "cyber-neo",
@@ -6332,7 +6294,7 @@
    ],
    "category": "Subagents",
    "momentum": 55,
-   "rank": 182
+   "rank": 181
   },
   {
    "name": "awesome-academic-research-skills",
@@ -6372,7 +6334,7 @@
    ],
    "category": "Collections",
    "momentum": 54,
-   "rank": 183
+   "rank": 182
   },
   {
    "name": "dsh-crew",
@@ -6406,7 +6368,7 @@
    ],
    "category": "MCP & Tools",
    "momentum": 54,
-   "rank": 184
+   "rank": 183
   },
   {
    "name": "claude-code-crash-course",
@@ -6433,7 +6395,7 @@
    ],
    "category": "MCP & Tools",
    "momentum": 54,
-   "rank": 185
+   "rank": 184
   },
   {
    "name": "awesome-html-slide-skills",
@@ -6467,7 +6429,7 @@
    ],
    "category": "Collections",
    "momentum": 54,
-   "rank": 186
+   "rank": 185
   },
   {
    "name": "frontend-slides",
@@ -6498,7 +6460,7 @@
    ],
    "category": "Design & UI",
    "momentum": 53,
-   "rank": 187
+   "rank": 186
   },
   {
    "name": "awesome-pm-skills",
@@ -6526,7 +6488,7 @@
    ],
    "category": "Collections",
    "momentum": 53,
-   "rank": 188
+   "rank": 187
   },
   {
    "name": "lanshu-awesome-ai-video-kit",
@@ -6567,7 +6529,7 @@
    ],
    "category": "Collections",
    "momentum": 53,
-   "rank": 189
+   "rank": 188
   },
   {
    "name": "cc-fleet",
@@ -6597,7 +6559,7 @@
    ],
    "category": "Subagents",
    "momentum": 53,
-   "rank": 190
+   "rank": 189
   },
   {
    "name": "Agent-Quest",
@@ -6634,7 +6596,7 @@
    ],
    "category": "Subagents",
    "momentum": 53,
-   "rank": 191
+   "rank": 190
   },
   {
    "name": "andrej-karpathy-skills",
@@ -6654,7 +6616,7 @@
    "topics": [],
    "category": "General Skills",
    "momentum": 52,
-   "rank": 192
+   "rank": 191
   },
   {
    "name": "Deep-Research-skills",
@@ -6683,7 +6645,7 @@
    ],
    "category": "General Skills",
    "momentum": 52,
-   "rank": 193
+   "rank": 192
   },
   {
    "name": "Skills-Manager",
@@ -6717,7 +6679,7 @@
    ],
    "category": "Design & UI",
    "momentum": 52,
-   "rank": 194
+   "rank": 193
   },
   {
    "name": "ai-agent-camp",
@@ -6744,7 +6706,7 @@
    ],
    "category": "Commands & Hooks",
    "momentum": 52,
-   "rank": 195
+   "rank": 194
   },
   {
    "name": "awesome-skills-cn",
@@ -6778,7 +6740,7 @@
    ],
    "category": "Collections",
    "momentum": 52,
-   "rank": 196
+   "rank": 195
   },
   {
    "name": "claude-esp",
@@ -6803,7 +6765,7 @@
    ],
    "category": "Subagents",
    "momentum": 52,
-   "rank": 197
+   "rank": 196
   },
   {
    "name": "get-shit-done",
@@ -6828,7 +6790,7 @@
    ],
    "category": "Memory & Context",
    "momentum": 51,
-   "rank": 198
+   "rank": 197
   },
   {
    "name": "claude-code-infrastructure-showcase",
@@ -6848,7 +6810,7 @@
    "topics": [],
    "category": "Commands & Hooks",
    "momentum": 51,
-   "rank": 199
+   "rank": 198
   },
   {
    "name": "awesome-agent-config",
@@ -6868,7 +6830,7 @@
    "topics": [],
    "category": "Collections",
    "momentum": 51,
-   "rank": 200
+   "rank": 199
   },
   {
    "name": "learn-claude-code-rs",
@@ -6903,7 +6865,7 @@
    ],
    "category": "MCP & Tools",
    "momentum": 51,
-   "rank": 201
+   "rank": 200
   },
   {
    "name": "gpt-image2-ppt-skills",
@@ -6934,7 +6896,7 @@
    ],
    "category": "Writing & Content",
    "momentum": 50,
-   "rank": 202
+   "rank": 201
   },
   {
    "name": "eCommerce-Skills",
@@ -6966,7 +6928,7 @@
    ],
    "category": "Writing & Content",
    "momentum": 50,
-   "rank": 203
+   "rank": 202
   },
   {
    "name": "claude-forge",
@@ -7007,7 +6969,7 @@
    ],
    "category": "Commands & Hooks",
    "momentum": 50,
-   "rank": 204
+   "rank": 203
   },
   {
    "name": "superpowers-symfony",
@@ -7048,7 +7010,7 @@
    ],
    "category": "Subagents",
    "momentum": 50,
-   "rank": 205
+   "rank": 204
   },
   {
    "name": "awesome-claude-code-and-skills",
@@ -7074,7 +7036,7 @@
    ],
    "category": "Collections",
    "momentum": 50,
-   "rank": 206
+   "rank": 205
   },
   {
    "name": "claude-grc-plugin",
@@ -7094,7 +7056,7 @@
    "topics": [],
    "category": "Commands & Hooks",
    "momentum": 49,
-   "rank": 207
+   "rank": 206
   },
   {
    "name": "SecondBrain",
@@ -7114,7 +7076,7 @@
    "topics": [],
    "category": "Commands & Hooks",
    "momentum": 49,
-   "rank": 208
+   "rank": 207
   },
   {
    "name": "intellegix-code-agent-toolkit",
@@ -7149,7 +7111,7 @@
    ],
    "category": "MCP & Tools",
    "momentum": 49,
-   "rank": 209
+   "rank": 208
   },
   {
    "name": "Claude-AD",
@@ -7186,7 +7148,7 @@
    ],
    "category": "Collections",
    "momentum": 48,
-   "rank": 210
+   "rank": 209
   },
   {
    "name": "claude-code-seo",
@@ -7206,7 +7168,7 @@
    "topics": [],
    "category": "Commands & Hooks",
    "momentum": 48,
-   "rank": 211
+   "rank": 210
   },
   {
    "name": "awesome-claude-plugins",
@@ -7239,7 +7201,7 @@
    ],
    "category": "Collections",
    "momentum": 47,
-   "rank": 212
+   "rank": 211
   },
   {
    "name": "auteur",
@@ -7271,7 +7233,7 @@
    ],
    "category": "Design & UI",
    "momentum": 47,
-   "rank": 213
+   "rank": 212
   },
   {
    "name": "awesome-claude-code-plugins",
@@ -7302,7 +7264,7 @@
    ],
    "category": "Collections",
    "momentum": 47,
-   "rank": 214
+   "rank": 213
   },
   {
    "name": "claude-code-kit",
@@ -7322,7 +7284,7 @@
    "topics": [],
    "category": "Subagents",
    "momentum": 47,
-   "rank": 215
+   "rank": 214
   },
   {
    "name": "eodhd-claude-skills",
@@ -7354,7 +7316,7 @@
    ],
    "category": "MCP & Tools",
    "momentum": 47,
-   "rank": 216
+   "rank": 215
   },
   {
    "name": "medusa",
@@ -7392,7 +7354,7 @@
    ],
    "category": "MCP & Tools",
    "momentum": 46,
-   "rank": 217
+   "rank": 216
   },
   {
    "name": "SourceAtlas",
@@ -7412,7 +7374,7 @@
    "topics": [],
    "category": "Commands & Hooks",
    "momentum": 46,
-   "rank": 218
+   "rank": 217
   },
   {
    "name": "awesome-design-skills",
@@ -7451,7 +7413,7 @@
    ],
    "category": "Collections",
    "momentum": 44,
-   "rank": 219
+   "rank": 218
   },
   {
    "name": "awesome-llm-skills",
@@ -7489,7 +7451,7 @@
    ],
    "category": "Collections",
    "momentum": 44,
-   "rank": 220
+   "rank": 219
   },
   {
    "name": "xhs-claude-skills",
@@ -7509,7 +7471,7 @@
    "topics": [],
    "category": "Commands & Hooks",
    "momentum": 44,
-   "rank": 221
+   "rank": 220
   },
   {
    "name": "codex-bridge",
@@ -7538,7 +7500,7 @@
    ],
    "category": "Subagents",
    "momentum": 44,
-   "rank": 222
+   "rank": 221
   },
   {
    "name": "Divi5-ToolKit",
@@ -7577,7 +7539,7 @@
    ],
    "category": "Commands & Hooks",
    "momentum": 44,
-   "rank": 223
+   "rank": 222
   },
   {
    "name": "vibecosystem",
@@ -7613,7 +7575,7 @@
    ],
    "category": "Subagents",
    "momentum": 43,
-   "rank": 224
+   "rank": 223
   },
   {
    "name": "communitytools",
@@ -7641,7 +7603,7 @@
    ],
    "category": "Commands & Hooks",
    "momentum": 42,
-   "rank": 225
+   "rank": 224
   },
   {
    "name": "ccproxy",
@@ -7682,7 +7644,7 @@
    ],
    "category": "Commands & Hooks",
    "momentum": 42,
-   "rank": 226
+   "rank": 225
   },
   {
    "name": "awesome-claude",
@@ -7723,7 +7685,7 @@
    ],
    "category": "Collections",
    "momentum": 42,
-   "rank": 227
+   "rank": 226
   },
   {
    "name": "awesome-claude-skills",
@@ -7755,7 +7717,7 @@
    ],
    "category": "Collections",
    "momentum": 41,
-   "rank": 228
+   "rank": 227
   },
   {
    "name": "SuitAgent",
@@ -7775,7 +7737,7 @@
    "topics": [],
    "category": "Subagents",
    "momentum": 41,
-   "rank": 229
+   "rank": 228
   },
   {
    "name": "Lucarne",
@@ -7812,7 +7774,7 @@
    ],
    "category": "MCP & Tools",
    "momentum": 40,
-   "rank": 230
+   "rank": 229
   },
   {
    "name": "awesome-ai-agent-skills",
@@ -7853,7 +7815,7 @@
    ],
    "category": "Collections",
    "momentum": 40,
-   "rank": 231
+   "rank": 230
   },
   {
    "name": "claude-code-essentials-vs-code",
@@ -7879,7 +7841,7 @@
    ],
    "category": "Commands & Hooks",
    "momentum": 40,
-   "rank": 232
+   "rank": 231
   },
   {
    "name": "claude-code-tresor",
@@ -7907,7 +7869,7 @@
    ],
    "category": "Collections",
    "momentum": 39,
-   "rank": 233
+   "rank": 232
   },
   {
    "name": "claude-code-showcase",
@@ -7927,7 +7889,7 @@
    "topics": [],
    "category": "Commands & Hooks",
    "momentum": 37,
-   "rank": 234
+   "rank": 233
   },
   {
    "name": "everything-claude-code",
@@ -7947,7 +7909,7 @@
    "topics": [],
    "category": "Commands & Hooks",
    "momentum": 37,
-   "rank": 235
+   "rank": 234
   },
   {
    "name": "Awesome-AI-Pedia",
@@ -7970,7 +7932,7 @@
    ],
    "category": "Collections",
    "momentum": 37,
-   "rank": 236
+   "rank": 235
   },
   {
    "name": "claude-code-hooks-mastery",
@@ -7990,7 +7952,7 @@
    "topics": [],
    "category": "Commands & Hooks",
    "momentum": 35,
-   "rank": 237
+   "rank": 236
   },
   {
    "name": "Continuous-Claude-v3",
@@ -8020,7 +7982,7 @@
    ],
    "category": "MCP & Tools",
    "momentum": 35,
-   "rank": 238
+   "rank": 237
   },
   {
    "name": "awesome-claude-code-toolkit",
@@ -8047,7 +8009,7 @@
    ],
    "category": "Collections",
    "momentum": 35,
-   "rank": 239
+   "rank": 238
   },
   {
    "name": "ai-marketing-claude",
@@ -8078,7 +8040,7 @@
    ],
    "category": "Subagents",
    "momentum": 34,
-   "rank": 240
+   "rank": 239
   },
   {
    "name": "claude-code-bmad-skills",
@@ -8108,7 +8070,7 @@
    ],
    "category": "Commands & Hooks",
    "momentum": 34,
-   "rank": 241
+   "rank": 240
   },
   {
    "name": "claude-leverage",
@@ -8132,7 +8094,7 @@
    ],
    "category": "Subagents",
    "momentum": 34,
-   "rank": 242
+   "rank": 241
   },
   {
    "name": "mini-claude-code",
@@ -8152,7 +8114,7 @@
    "topics": [],
    "category": "MCP & Tools",
    "momentum": 33,
-   "rank": 243
+   "rank": 242
   },
   {
    "name": "claude-agents",
@@ -8172,7 +8134,7 @@
    "topics": [],
    "category": "Subagents",
    "momentum": 32,
-   "rank": 244
+   "rank": 243
   },
   {
    "name": "everything-claude-code-zh",
@@ -8203,7 +8165,7 @@
    ],
    "category": "MCP & Tools",
    "momentum": 32,
-   "rank": 245
+   "rank": 244
   },
   {
    "name": "claude-code-sub-agents",
@@ -8230,7 +8192,7 @@
    ],
    "category": "Collections",
    "momentum": 32,
-   "rank": 246
+   "rank": 245
   },
   {
    "name": "claude-code-hooks",
@@ -8271,7 +8233,7 @@
    ],
    "category": "Commands & Hooks",
    "momentum": 32,
-   "rank": 247
+   "rank": 246
   },
   {
    "name": "claude-code-hooks-multi-agent-observability",
@@ -8291,7 +8253,7 @@
    "topics": [],
    "category": "Subagents",
    "momentum": 31,
-   "rank": 248
+   "rank": 247
   },
   {
    "name": "Claude-Command-Suite",
@@ -8323,7 +8285,7 @@
    ],
    "category": "Commands & Hooks",
    "momentum": 31,
-   "rank": 249
+   "rank": 248
   },
   {
    "name": "claude-memory-compiler",
@@ -8343,7 +8305,7 @@
    "topics": [],
    "category": "Commands & Hooks",
    "momentum": 31,
-   "rank": 250
+   "rank": 249
   },
   {
    "name": "claude-sessions",
@@ -8363,7 +8325,7 @@
    "topics": [],
    "category": "Commands & Hooks",
    "momentum": 30,
-   "rank": 251
+   "rank": 250
   },
   {
    "name": "awesome-claude-design",
@@ -8393,7 +8355,7 @@
    ],
    "category": "Collections",
    "momentum": 30,
-   "rank": 252
+   "rank": 251
   },
   {
    "name": "claude-code-config",
@@ -8419,7 +8381,7 @@
    ],
    "category": "Commands & Hooks",
    "momentum": 30,
-   "rank": 253
+   "rank": 252
   },
   {
    "name": "cartographer",
@@ -8439,7 +8401,7 @@
    "topics": [],
    "category": "Subagents",
    "momentum": 30,
-   "rank": 254
+   "rank": 253
   },
   {
    "name": "claude-code-subagents",
@@ -8459,7 +8421,7 @@
    "topics": [],
    "category": "Collections",
    "momentum": 29,
-   "rank": 255
+   "rank": 254
   },
   {
    "name": "claude-code-skill-factory",
@@ -8486,7 +8448,7 @@
    ],
    "category": "Commands & Hooks",
    "momentum": 29,
-   "rank": 256
+   "rank": 255
   },
   {
    "name": "claude-code-ios-dev-guide",
@@ -8517,7 +8479,7 @@
    ],
    "category": "Subagents",
    "momentum": 29,
-   "rank": 257
+   "rank": 256
   },
   {
    "name": "claude-code-aso-skill",
@@ -8548,7 +8510,7 @@
    ],
    "category": "Commands & Hooks",
    "momentum": 29,
-   "rank": 258
+   "rank": 257
   },
   {
    "name": "awesome-design-html",
@@ -8568,7 +8530,7 @@
    "topics": [],
    "category": "Collections",
    "momentum": 29,
-   "rank": 259
+   "rank": 258
   },
   {
    "name": "claudekit",
@@ -8588,7 +8550,7 @@
    "topics": [],
    "category": "Commands & Hooks",
    "momentum": 28,
-   "rank": 260
+   "rank": 259
   },
   {
    "name": "sub-agents",
@@ -8618,7 +8580,7 @@
    ],
    "category": "Commands & Hooks",
    "momentum": 28,
-   "rank": 261
+   "rank": 260
   },
   {
    "name": "claude-skills",
@@ -8638,7 +8600,7 @@
    "topics": [],
    "category": "Collections",
    "momentum": 28,
-   "rank": 262
+   "rank": 261
   },
   {
    "name": "claude-code-mastery",
@@ -8668,7 +8630,7 @@
    ],
    "category": "MCP & Tools",
    "momentum": 27,
-   "rank": 263
+   "rank": 262
   },
   {
    "name": "taskmaster",
@@ -8688,7 +8650,7 @@
    "topics": [],
    "category": "Commands & Hooks",
    "momentum": 27,
-   "rank": 264
+   "rank": 263
   },
   {
    "name": "claudecode-rule2hook",
@@ -8708,7 +8670,7 @@
    "topics": [],
    "category": "Commands & Hooks",
    "momentum": 25,
-   "rank": 265
+   "rank": 264
   },
   {
    "name": "awesome-claude-agents",
@@ -8728,7 +8690,7 @@
    "topics": [],
    "category": "Collections",
    "momentum": 25,
-   "rank": 266
+   "rank": 265
   },
   {
    "name": "Evasion-SubAgents",
@@ -8748,7 +8710,7 @@
    "topics": [],
    "category": "Subagents",
    "momentum": 25,
-   "rank": 267
+   "rank": 266
   },
   {
    "name": "awesome-amazon-ec-skills",
@@ -8784,7 +8746,7 @@
    ],
    "category": "Collections",
    "momentum": 25,
-   "rank": 268
+   "rank": 267
   },
   {
    "name": "awesome-claude-corporate-skills",
@@ -8819,7 +8781,7 @@
    ],
    "category": "Collections",
    "momentum": 24,
-   "rank": 269
+   "rank": 268
   },
   {
    "name": "awesome-claude-code-setup",
@@ -8839,7 +8801,7 @@
    "topics": [],
    "category": "Collections",
    "momentum": 24,
-   "rank": 270
+   "rank": 269
   },
   {
    "name": "claude-code-orchestrator-kit",
@@ -8859,7 +8821,7 @@
    "topics": [],
    "category": "MCP & Tools",
    "momentum": 24,
-   "rank": 271
+   "rank": 270
   },
   {
    "name": "dataforseo-claude",
@@ -8879,7 +8841,7 @@
    "topics": [],
    "category": "Subagents",
    "momentum": 24,
-   "rank": 272
+   "rank": 271
   },
   {
    "name": "claudecode-harness",
@@ -8899,7 +8861,7 @@
    "topics": [],
    "category": "Subagents",
    "momentum": 23,
-   "rank": 273
+   "rank": 272
   },
   {
    "name": "claude-code-subagents",
@@ -8919,7 +8881,7 @@
    "topics": [],
    "category": "Subagents",
    "momentum": 23,
-   "rank": 274
+   "rank": 273
   },
   {
    "name": "total-recall",
@@ -8947,7 +8909,7 @@
    ],
    "category": "Commands & Hooks",
    "momentum": 23,
-   "rank": 275
+   "rank": 274
   },
   {
    "name": "claude_slash_commands",
@@ -8970,7 +8932,7 @@
    ],
    "category": "Commands & Hooks",
    "momentum": 22,
-   "rank": 276
+   "rank": 275
   },
   {
    "name": "claude-code-agentic-rag-masterclass",
@@ -8995,7 +8957,7 @@
    ],
    "category": "Subagents",
    "momentum": 22,
-   "rank": 277
+   "rank": 276
   },
   {
    "name": "awesomeAgentskills",
@@ -9019,7 +8981,7 @@
    ],
    "category": "Collections",
    "momentum": 22,
-   "rank": 278
+   "rank": 277
   },
   {
    "name": "spec-based-claude-code",
@@ -9039,7 +9001,7 @@
    "topics": [],
    "category": "Commands & Hooks",
    "momentum": 21,
-   "rank": 279
+   "rank": 278
   },
   {
    "name": "claude-code-auto-video-edit",
@@ -9072,7 +9034,7 @@
    ],
    "category": "Commands & Hooks",
    "momentum": 20,
-   "rank": 280
+   "rank": 279
   },
   {
    "name": "claude-code-ai-development-workflow",
@@ -9092,7 +9054,7 @@
    "topics": [],
    "category": "Commands & Hooks",
    "momentum": 19,
-   "rank": 281
+   "rank": 280
   },
   {
    "name": "bad-daves-robot-army",
@@ -9112,7 +9074,7 @@
    "topics": [],
    "category": "Subagents",
    "momentum": 18,
-   "rank": 282
+   "rank": 281
   },
   {
    "name": "trading-ops",
@@ -9141,7 +9103,7 @@
    ],
    "category": "Commands & Hooks",
    "momentum": 17,
-   "rank": 283
+   "rank": 282
   },
   {
    "name": "obsidian-claude-code",
@@ -9161,7 +9123,7 @@
    "topics": [],
    "category": "Commands & Hooks",
    "momentum": 17,
-   "rank": 284
+   "rank": 283
   },
   {
    "name": "deepdive",
@@ -9187,7 +9149,7 @@
    ],
    "category": "Commands & Hooks",
    "momentum": 17,
-   "rank": 285
+   "rank": 284
   },
   {
    "name": "claude-skillify",
@@ -9226,7 +9188,32 @@
    ],
    "category": "Commands & Hooks",
    "momentum": 16,
-   "rank": 286
+   "rank": 285
   }
- ]
+ ],
+ "review_references": [
+  {
+   "full_name": "Gathin23/cleanyourtv",
+   "slug": "gathin23-cleanyourtv",
+   "url": "https://github.com/Gathin23/cleanyourtv",
+   "description": "A TV-maintenance workflow using a coding assistant and repository scripts; reusable skill-package inclusion remains under review.",
+   "status": "inclusion_review_reference",
+   "reviewed_on": "2026-11-03",
+   "last_source_snapshot_at": "2026-11-02T18:42:01.277433+00:00",
+   "reason": "The reviewed README documents a task-specific prompt and device-maintenance scripts. This alone does not verify the packaged reusable skill, command, hook or plugin expected by this index; it should not lead General Skills on a topic match alone.",
+   "evidence_needed": "Verify a maintained reusable agent-capability entry point and its packaging against this index’s published skill criteria. Task-specific workflows can qualify when that evidence is documented; no claim of ineligibility or safety is made.",
+   "primary_sources": [
+    {
+     "url": "https://github.com/Gathin23/cleanyourtv/blob/main/README.md",
+     "title": "Gathin23/cleanyourtv primary README, reviewed November3,2026"
+    }
+   ]
+  }
+ ],
+ "inclusion_review": {
+  "reviewed_on": "2026-11-03",
+  "criteria": "Core ranked entries should package reusable agent capability: skills, commands, hooks, subagents, plugins or relevant curated collections. Search topics and descriptions are discovery signals, not proof of that packaging.",
+  "scope": "Only explicitly reviewed identities are withheld from ranked results; other entries retain their existing automated inclusion status, not independent verification.",
+  "score_basis": "Existing momentum scores retain their original source-snapshot basis; core ranks and category counts are recounted. Future refreshes exclude these reviewed identities before score normalization."
+ }
 }

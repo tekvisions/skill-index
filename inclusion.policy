@@ -1,0 +1,23 @@
+{
+  "host": "skill.kymatalabs.com",
+  "reviewed_on": "2026-11-03",
+  "criteria": "Core ranked entries should package reusable agent capability: skills, commands, hooks, subagents, plugins or relevant curated collections. Search topics and descriptions are discovery signals, not proof of that packaging.",
+  "decisions": [
+    {
+      "entity": "Gathin23/cleanyourtv",
+      "slug": "gathin23-cleanyourtv",
+      "repository": "https://github.com/Gathin23/cleanyourtv",
+      "disposition": "review_reference",
+      "summary": "A TV-maintenance workflow using a coding assistant and repository scripts; reusable skill-package inclusion remains under review.",
+      "reason": "The reviewed README documents a task-specific prompt and device-maintenance scripts. This alone does not verify the packaged reusable skill, command, hook or plugin expected by this index; it should not lead General Skills on a topic match alone.",
+      "evidence_needed": "Verify a maintained reusable agent-capability entry point and its packaging against this index’s published skill criteria. Task-specific workflows can qualify when that evidence is documented; no claim of ineligibility or safety is made.",
+      "last_source_snapshot_at": "2026-11-02T18:42:01.277433+00:00",
+      "evidence": [
+        {
+          "url": "https://github.com/Gathin23/cleanyourtv/blob/main/README.md",
+          "title": "Gathin23/cleanyourtv primary README, reviewed November3,2026"
+        }
+      ]
+    }
+  ]
+}

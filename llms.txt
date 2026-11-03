@@ -1,50 +1,71 @@
 # The Skill Index
 
-> The living index of Claude Code and AI-agent skills, ranked daily by momentum
-> (stars, push-recency, rising-newness) from live GitHub signals.
+> The Skill Index: a source-backed catalog published by Kymata Labs.
 
-Updated: 2026-11-02T18:42:01.277433+00:00
-Skills indexed: 286
+Snapshot collected: 2026-11-02T18:42:01.277433+00:00
+Current catalog records: 285
 
-## Top skills by momentum
+## Sources and interpretation
 
-- [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv) — momentum 89, ⭐50192 — General Skills — Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.
-- [morluto/rea](https://github.com/morluto/rea) — momentum 87, ⭐422177 — MCP & Tools — Reverse engineer anything with agents, from app behavior down to native binaries.
-- [affaan-m/ECC](https://github.com/affaan-m/ECC) — momentum 85, ⭐295455 — MCP & Tools — The agent harness performance optimization system. Skills, instincts, memory, security, and research
-- [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) — momentum 85, ⭐259771 — General Skills — The agent that grows with you
-- [anthropics/skills](https://github.com/anthropics/skills) — momentum 83, ⭐186700 — General Skills — Public repository for Agent Skills
-- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) — momentum 83, ⭐182740 — General Skills — Makes your AI agent think like the laziest senior dev in the room. The best code is the code you nev
-- [farion1231/cc-switch](https://github.com/farion1231/cc-switch) — momentum 83, ⭐151204 — MCP & Tools — A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode,DeepSeek Harness and 
-- [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) — momentum 82, ⭐144212 — Design & UI — An AI skill that provides design intelligence for building professional UI/UX across multiple platfo
-- [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) — momentum 82, ⭐141025 — MCP & Tools — Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. 
-- [wheresryan22/anatomy](https://github.com/wheresryan22/anatomy) — momentum 82, ⭐24058 — General Skills — An agent skill for creating detailed, interactive isometric illustrations of real-world machines and
-- [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) — momentum 81, ⭐116891 — General Skills — 🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of
-- [stablyai/orca](https://github.com/stablyai/orca) — momentum 81, ⭐113437 — Subagents — Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding ag
-- [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) — momentum 81, ⭐112754 — General Skills — Production-grade engineering skills for AI coding agents.
-- [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) — momentum 81, ⭐110513 — Memory & Context — Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during ses
-- [paperclipai/paperclip](https://github.com/paperclipai/paperclip) — momentum 81, ⭐110254 — MCP & Tools — The open-source app everyone uses to manage agents at work
-- [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) — momentum 81, ⭐108534 — Design & UI — Agent skills that give coding agents taste: art direction, reference images and a browser check inst
-- [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) — momentum 81, ⭐107999 — MCP & Tools — Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, 
-- [nexu-io/open-design](https://github.com/nexu-io/open-design) — momentum 81, ⭐105518 — Design & UI — The 1st Collaborative AI Design Agent Workspace. Local-first and open source. Create motion, prototy
-- [pbakaus/impeccable](https://github.com/pbakaus/impeccable) — momentum 81, ⭐100273 — Design & UI — The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and 
-- [tt-a1i/archify](https://github.com/tt-a1i/archify) — momentum 81, ⭐92683 — Design & UI — Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Cod
-- [rtk-ai/rtk](https://github.com/rtk-ai/rtk) — momentum 80, ⭐85322 — General Skills — CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, z
-- [cheaper-inference/OmniRoute](https://github.com/cheaper-inference/OmniRoute) — momentum 80, ⭐83912 — MCP & Tools — Never stop coding. Free MIT AI gateway: one endpoint, 375 providers (150+ free), 1,400+ models Kimi,
-- [career-ops-hq/career-ops](https://github.com/career-ops-hq/career-ops) — momentum 80, ⭐79534 — General Skills — Open-source AI job search agent and job finder: scan job boards, score each job 1-5 against your CV 
-- [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) — momentum 80, ⭐78651 — MCP & Tools — Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for c
-- [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) — momentum 80, ⭐77603 — MCP & Tools — Write HTML. Render video. Built for agents.
-- [rehan-remade/universal-modder](https://github.com/rehan-remade/universal-modder) — momentum 80, ⭐9335 — MCP & Tools — Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game 
-- [Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) — momentum 79, ⭐89852 — Memory & Context — Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can e
-- [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) — momentum 79, ⭐79762 — Design & UI — Bash is all you need -  A nano claude code–like 「agent harness」, built from 0 to 1
-- [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) — momentum 79, ⭐75144 — Design & UI — World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700
-- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) — momentum 79, ⭐70641 — Design & UI — Documented system prompts from Anthropic - Claude Fable 5.1, Opus 5.5, Claude Design, Claude Code. O
-- [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) — momentum 79, ⭐70624 — Subagents — OmO: Just type "mass ulw" keyword with your prompt. Now you are the master of graph engineering.
-- [ai-job-search-dev/ai-job-search](https://github.com/ai-job-search-dev/ai-job-search) — momentum 79, ⭐69022 — Design & UI — The job search that runs on your machine. AI job application framework built on Claude Code: evaluat
-- [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) — momentum 79, ⭐68469 — Commands & Hooks — from vibe coding to agentic engineering - practice makes claude perfect
-- [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) — momentum 79, ⭐66348 — General Skills — AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - th
-- [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) — momentum 79, ⭐64310 — Design & UI — Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and P
-- [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) — momentum 79, ⭐57299 — Design & UI — Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build, Muse Code, Devin as an OpenAI/Gemini/Claud
-- [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) — momentum 79, ⭐57110 — Collections — A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the
-- [google/elephant-goldfish-model](https://github.com/google/elephant-goldfish-model) — momentum 79, ⭐10418 — Subagents — Open-source skills for designing and reviewing software with AI agents
-- [blader/humanizer](https://github.com/blader/humanizer) — momentum 78, ⭐63938 — Writing & Content — Agent skill that removes signs of AI-generated writing from text
-- [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) — momentum 78, ⭐58044 — Writing & Content — Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth enginee
+- [Public GitHub repository searches and API signals](https://docs.github.com/en/rest/search)
+- [Collection and scoring source](https://github.com/tekvisions/skill-index/blob/main/build_data.py)
+
+Momentum blends log-scaled GitHub stars (55%), push recency decaying over 180 days (32%), and a young-repository bonus for repositories under 120 days old with at least 20 stars (13%), rounded and clamped to 1–100. Configured searches select the catalog; coverage is not exhaustive. Stars and repository activity are proxies, not measured adoption, reviews, security or product-quality benchmarks.
+
+## Readable and structured resources
+
+- [Catalog](https://skill.kymatalabs.com/)
+- [Selection guide and evidence limits](https://skill.kymatalabs.com/#catalog-guidance)
+- [Methodology and snapshot date](https://skill.kymatalabs.com/#catalog-methodology)
+- [Current source snapshot (JSON)](https://skill.kymatalabs.com/data.json)
+- [Sitemap of published pages](https://skill.kymatalabs.com/sitemap.xml)
+
+## Current catalog sample
+
+- [morluto/rea](https://skill.kymatalabs.com/p/morluto-rea/) — MCP & Tools
+- [affaan-m/ECC](https://skill.kymatalabs.com/p/affaan-m-ecc/) — MCP & Tools
+- [NousResearch/hermes-agent](https://skill.kymatalabs.com/p/nousresearch-hermes-agent/) — General Skills
+- [anthropics/skills](https://skill.kymatalabs.com/p/anthropics-skills/) — General Skills
+- [DietrichGebert/ponytail](https://skill.kymatalabs.com/p/dietrichgebert-ponytail/) — General Skills
+- [farion1231/cc-switch](https://skill.kymatalabs.com/p/farion1231-cc-switch/) — MCP & Tools
+- [nextlevelbuilder/ui-ux-pro-max-skill](https://skill.kymatalabs.com/p/nextlevelbuilder-ui-ux-pro-max-skill/) — Design & UI
+- [Graphify-Labs/graphify](https://skill.kymatalabs.com/p/graphify-labs-graphify/) — MCP & Tools
+- [wheresryan22/anatomy](https://skill.kymatalabs.com/p/wheresryan22-anatomy/) — General Skills
+- [JuliusBrussee/caveman](https://skill.kymatalabs.com/p/juliusbrussee-caveman/) — General Skills
+- [stablyai/orca](https://skill.kymatalabs.com/p/stablyai-orca/) — Subagents
+- [addyosmani/agent-skills](https://skill.kymatalabs.com/p/addyosmani-agent-skills/) — General Skills
+- [thedotmack/claude-mem](https://skill.kymatalabs.com/p/thedotmack-claude-mem/) — Memory & Context
+- [paperclipai/paperclip](https://skill.kymatalabs.com/p/paperclipai-paperclip/) — MCP & Tools
+- [Leonxlnx/taste-skill](https://skill.kymatalabs.com/p/leonxlnx-taste-skill/) — Design & UI
+- [Panniantong/Agent-Reach](https://skill.kymatalabs.com/p/panniantong-agent-reach/) — MCP & Tools
+- [nexu-io/open-design](https://skill.kymatalabs.com/p/nexu-io-open-design/) — Design & UI
+- [pbakaus/impeccable](https://skill.kymatalabs.com/p/pbakaus-impeccable/) — Design & UI
+- [tt-a1i/archify](https://skill.kymatalabs.com/p/tt-a1i-archify/) — Design & UI
+- [rtk-ai/rtk](https://skill.kymatalabs.com/p/rtk-ai-rtk/) — General Skills
+- [cheaper-inference/OmniRoute](https://skill.kymatalabs.com/p/cheaper-inference-omniroute/) — MCP & Tools
+- [career-ops-hq/career-ops](https://skill.kymatalabs.com/p/career-ops-hq-career-ops/) — General Skills
+- [headroomlabs-ai/headroom](https://skill.kymatalabs.com/p/headroomlabs-ai-headroom/) — MCP & Tools
+- [heygen-com/hyperframes](https://skill.kymatalabs.com/p/heygen-com-hyperframes/) — MCP & Tools
+- [rehan-remade/universal-modder](https://skill.kymatalabs.com/p/rehan-remade-universal-modder/) — MCP & Tools
+- [Egonex-AI/Understand-Anything](https://skill.kymatalabs.com/p/egonex-ai-understand-anything/) — Memory & Context
+- [shareAI-lab/learn-claude-code](https://skill.kymatalabs.com/p/shareai-lab-learn-claude-code/) — Design & UI
+- [calesthio/OpenMontage](https://skill.kymatalabs.com/p/calesthio-openmontage/) — Design & UI
+- [asgeirtj/system_prompts_leaks](https://skill.kymatalabs.com/p/asgeirtj-system-prompts-leaks/) — Design & UI
+- [code-yeongyu/oh-my-openagent](https://skill.kymatalabs.com/p/code-yeongyu-oh-my-openagent/) — Subagents
+- [ai-job-search-dev/ai-job-search](https://skill.kymatalabs.com/p/ai-job-search-dev-ai-job-search/) — Design & UI
+- [shanraisshan/claude-code-best-practice](https://skill.kymatalabs.com/p/shanraisshan-claude-code-best-practice/) — Commands & Hooks
+- [mvanhorn/last30days-skill](https://skill.kymatalabs.com/p/mvanhorn-last30days-skill/) — General Skills
+- [cathrynlavery/diagram-design](https://skill.kymatalabs.com/p/cathrynlavery-diagram-design/) — Design & UI
+- [router-for-me/CLIProxyAPI](https://skill.kymatalabs.com/p/router-for-me-cliproxyapi/) — Design & UI
+- [hesreallyhim/awesome-claude-code](https://skill.kymatalabs.com/p/hesreallyhim-awesome-claude-code/) — Collections
+- [google/elephant-goldfish-model](https://skill.kymatalabs.com/p/google-elephant-goldfish-model/) — Subagents
+- [blader/humanizer](https://skill.kymatalabs.com/p/blader-humanizer/) — Writing & Content
+- [coreyhaines31/marketingskills](https://skill.kymatalabs.com/p/coreyhaines31-marketingskills/) — Writing & Content
+- [K-Dense-AI/scientific-agent-skills](https://skill.kymatalabs.com/p/k-dense-ai-scientific-agent-skills/) — General Skills
+
+## Unranked inclusion-review references
+
+Core ranked entries should package reusable agent capability: skills, commands, hooks, subagents, plugins or relevant curated collections. Search topics and descriptions are discovery signals, not proof of that packaging.
+Only explicitly reviewed identities are withheld from ranked results; other entries retain their existing automated inclusion status, not independent verification.
+Existing momentum scores retain their original source-snapshot basis; core ranks and category counts are recounted. Future refreshes exclude these reviewed identities before score normalization.
+- [Gathin23/cleanyourtv](https://skill.kymatalabs.com/p/gathin23-cleanyourtv/) — unranked inclusion-review reference, reviewed 2026-11-03: A TV-maintenance workflow using a coding assistant and repository scripts; reusable skill-package inclusion remains under review.

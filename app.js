@@ -27,16 +27,7 @@
     try { localStorage.setItem("si-theme", cur); } catch (e) {}
   });
 
-  function countUp(el, target) {
-    var dur = 900, t0 = null;
-    function step(t) {
-      if (!t0) t0 = t;
-      var p = Math.min((t - t0) / dur, 1), e = 1 - Math.pow(1 - p, 3);
-      el.textContent = Math.round(e * target);
-      if (p < 1) requestAnimationFrame(step);
-    }
-    requestAnimationFrame(step);
-  }
+  function countUp(el, target) { el.textContent=target.toLocaleString(); }
 
   function matches(it) {
     if (state.cat !== "all" && it.category !== state.cat) return false;
@@ -78,13 +69,17 @@
     );
   }
 
-  function render() {
+  var shown=48;
+  function render(expand) {
+    if(!expand)shown=48;
     var list = sortItems(DATA.items.filter(matches));
     var grid = $("#grid");
     $("#metaline").textContent = list.length + (list.length === 1 ? " skill" : " skills") +
       (state.cat === "all" ? "" : " in " + state.cat) + (state.q ? ' matching "' + state.q + '"' : "");
-    if (!list.length) { grid.innerHTML = '<div class="empty">No skills match. Try a broader search.</div>'; return; }
-    grid.innerHTML = list.map(card).join("");
+    if (!list.length) { grid.innerHTML = '<div class="empty">No skills match. Try a broader search. <a href="#catalog-inclusion-review">Browse unranked references under review</a>.</div>'; return; }
+    grid.innerHTML = list.slice(0,shown).map(card).join("") + (list.length>shown ? '<button type="button" class="fleet-load-more">Show '+Math.min(48,list.length-shown)+' more · '+Math.min(shown,list.length)+' of '+list.length+' shown</button>' : '');
+    var more=grid.querySelector('.fleet-load-more');
+    if(more)more.addEventListener('click',function(){var first=shown;shown+=48;render(true);var next=grid.querySelectorAll('.card')[first];if(next)next.focus();});
     var cards = grid.querySelectorAll(".card");
     requestAnimationFrame(function () {
       cards.forEach(function (c) { c.classList.add("in"); });
@@ -128,7 +123,8 @@
 
   fetch("/data.json?v=" + Date.now()).then(function (r) { return r.json(); }).then(function (d) {
     DATA = d; boot();
-  }).catch(function () {
-    $("#metaline").textContent = "Could not load the index. Refresh to retry.";
+  }).then(function(){if(window.dispatchEvent&&window.Event)window.dispatchEvent(new window.Event("catalog:ready"));}).catch(function () {
+    if(window.dispatchEvent&&window.Event)window.dispatchEvent(new window.Event("catalog:error"));
+    $("#metaline").textContent = "Could not load interactive filters. Showing the saved catalog. Refresh to retry.";
   });
 })();

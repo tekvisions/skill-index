@@ -1,0 +1,75 @@
+{
+  "host": "skill.kymatalabs.com",
+  "reviewed_on": "2026-11-03",
+  "title": "Choose an agent skill for a bounded task",
+  "answer": "Identify whether you need reusable instructions, a subagent, a command/hook or an external tool connection. A repository used by a coding assistant is not automatically a general-purpose skill framework.",
+  "choices": [
+    {
+      "categories": [
+        "General Skills",
+        "Design & UI",
+        "Writing & Content",
+        "Quality & Review"
+      ],
+      "task": "Delegate a defined task",
+      "guidance": "Read the actual instructions, required inputs, generated outputs and limitations. Review scripts and permissions before using them in your workspace."
+    },
+    {
+      "categories": [
+        "Subagents",
+        "Commands & Hooks",
+        "Memory & Context"
+      ],
+      "task": "Add workflow behavior",
+      "guidance": "Check host compatibility, invocation rules, state and failure handling for the specific agent environment."
+    },
+    {
+      "categories": [
+        "MCP & Tools",
+        "Collections"
+      ],
+      "task": "Discover integrations and collections",
+      "guidance": "Follow each entry to its primary project. Check whether a collection is current and whether the linked artifact is an instruction set, executable tool or example."
+    }
+  ],
+  "checks": [
+    "Verify the real artifact and supported host/version rather than inferring compatibility from keywords.",
+    "Review shell/network/file capabilities before authorizing a task.",
+    "Run a bounded example and inspect its outputs before broader reuse."
+  ],
+  "unknowns": "Task success, host compatibility, permissions and safety are not independently certified by the GitHub momentum score.",
+  "related": [
+    {
+      "url": "https://agents.kymatalabs.com/",
+      "label": "agents"
+    },
+    {
+      "url": "https://mcp.kymatalabs.com/",
+      "label": "mcp"
+    },
+    {
+      "url": "https://prompt.kymatalabs.com/",
+      "label": "prompt"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Published collection and scoring rules",
+      "url": "https://github.com/tekvisions/skill-index/blob/cf644fed0ef6aca8933ce231a2b835d53ca0af2f/build_data.py",
+      "reviewed_on": "2026-11-03"
+    },
+    {
+      "title": "Gathin23/cleanyourtv README.md",
+      "url": "https://github.com/Gathin23/cleanyourtv/blob/main/README.md",
+      "reviewed_on": "2026-11-03",
+      "blob_sha": "395db24a7dcfe7b64948a1ccb675302afd993c6d"
+    }
+  ],
+  "scope_notes": [
+    {
+      "entity": "Gathin23/cleanyourtv",
+      "note": "A TV-maintenance workflow using a coding assistant and repository scripts; reusable skill-package inclusion remains under review. The reviewed README documents a task-specific prompt and device-maintenance scripts. This alone does not verify the packaged reusable skill, command, hook or plugin expected by this index; it should not lead General Skills on a topic match alone.",
+      "source": "https://github.com/Gathin23/cleanyourtv/blob/main/README.md"
+    }
+  ]
+}

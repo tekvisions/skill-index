@@ -16,6 +16,7 @@ Env: GITHUB_TOKEN (required for a usable rate limit).
 from __future__ import annotations
 
 import json
+from inclusion_gate import apply as apply_inclusion, include_core_repository
 import math
 import os
 import re
@@ -200,7 +201,7 @@ def build_items() -> list[dict]:
                 continue
             seen[full] = r
         time.sleep(0.7)                        # be gentle on the search rate limit
-    raw = list(seen.values())
+    raw = [row for row in seen.values() if include_core_repository(row.get("full_name"), HERE)]
     max_stars = max((r.get("stargazers_count", 0) or 0) for r in raw) if raw else 10
     items = []
     for r in raw:
@@ -240,6 +241,7 @@ def write_json(items: list[dict]) -> dict:
         "categories": [{"name": k, "count": v} for k, v in sorted(cats.items(), key=lambda x: -x[1])],
         "items": items,
     }
+    data = apply_inclusion(data, HERE)
     with open(os.path.join(HERE, "data.json"), "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=1)
     return data
@@ -251,7 +253,7 @@ def write_seo(data: dict) -> None:
 
     # sitemap.xml — home + every detail page
     urls = [f"  <url><loc>{SITE_URL}/</loc><lastmod>{now}</lastmod><changefreq>daily</changefreq><priority>1.0</priority></url>"]
-    for it in items:
+    for it in items + data.get("review_references", []):
         urls.append(f"  <url><loc>{SITE_URL}/p/{it['slug']}/</loc><lastmod>{now}</lastmod>"
                     f"<changefreq>weekly</changefreq><priority>0.6</priority></url>")
     sitemap = ('<?xml version="1.0" encoding="UTF-8"?>\n'
