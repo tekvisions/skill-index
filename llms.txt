@@ -2,7 +2,7 @@
 
 > The Skill Index: a source-backed catalog published by Kymata Labs.
 
-Snapshot collected: 2026-11-02T18:42:01.277433+00:00
+Snapshot collected: 2026-11-03T16:26:07.660598+00:00
 Current catalog records: 285
 
 ## Sources and interpretation
@@ -25,9 +25,9 @@ Momentum blends log-scaled GitHub stars (55%), push recency decaying over 180 da
 - [morluto/rea](https://skill.kymatalabs.com/p/morluto-rea/) — MCP & Tools
 - [affaan-m/ECC](https://skill.kymatalabs.com/p/affaan-m-ecc/) — MCP & Tools
 - [NousResearch/hermes-agent](https://skill.kymatalabs.com/p/nousresearch-hermes-agent/) — General Skills
-- [anthropics/skills](https://skill.kymatalabs.com/p/anthropics-skills/) — General Skills
 - [DietrichGebert/ponytail](https://skill.kymatalabs.com/p/dietrichgebert-ponytail/) — General Skills
 - [farion1231/cc-switch](https://skill.kymatalabs.com/p/farion1231-cc-switch/) — MCP & Tools
+- [anthropics/skills](https://skill.kymatalabs.com/p/anthropics-skills/) — General Skills
 - [nextlevelbuilder/ui-ux-pro-max-skill](https://skill.kymatalabs.com/p/nextlevelbuilder-ui-ux-pro-max-skill/) — Design & UI
 - [Graphify-Labs/graphify](https://skill.kymatalabs.com/p/graphify-labs-graphify/) — MCP & Tools
 - [wheresryan22/anatomy](https://skill.kymatalabs.com/p/wheresryan22-anatomy/) — General Skills
@@ -56,11 +56,11 @@ Momentum blends log-scaled GitHub stars (55%), push recency decaying over 180 da
 - [shanraisshan/claude-code-best-practice](https://skill.kymatalabs.com/p/shanraisshan-claude-code-best-practice/) — Commands & Hooks
 - [mvanhorn/last30days-skill](https://skill.kymatalabs.com/p/mvanhorn-last30days-skill/) — General Skills
 - [cathrynlavery/diagram-design](https://skill.kymatalabs.com/p/cathrynlavery-diagram-design/) — Design & UI
-- [router-for-me/CLIProxyAPI](https://skill.kymatalabs.com/p/router-for-me-cliproxyapi/) — Design & UI
-- [hesreallyhim/awesome-claude-code](https://skill.kymatalabs.com/p/hesreallyhim-awesome-claude-code/) — Collections
 - [google/elephant-goldfish-model](https://skill.kymatalabs.com/p/google-elephant-goldfish-model/) — Subagents
 - [blader/humanizer](https://skill.kymatalabs.com/p/blader-humanizer/) — Writing & Content
 - [coreyhaines31/marketingskills](https://skill.kymatalabs.com/p/coreyhaines31-marketingskills/) — Writing & Content
+- [router-for-me/CLIProxyAPI](https://skill.kymatalabs.com/p/router-for-me-cliproxyapi/) — Design & UI
+- [hesreallyhim/awesome-claude-code](https://skill.kymatalabs.com/p/hesreallyhim-awesome-claude-code/) — Collections
 - [K-Dense-AI/scientific-agent-skills](https://skill.kymatalabs.com/p/k-dense-ai-scientific-agent-skills/) — General Skills
 
 ## Unranked inclusion-review references
