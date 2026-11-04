@@ -292,8 +292,45 @@
     "https://skill.kymatalabs.com/p/wanpengxie-deepdive/",
     "https://skill.kymatalabs.com/p/0xmh-claude-skillify/"
   ],
-  "retained_references": [],
+  "retained_references": [
+    {
+      "slug": "feder-cr-invisible-dots",
+      "entity": "feder-cr/invisible_dots",
+      "canonical_url": "https://skill.kymatalabs.com/p/feder-cr-invisible-dots/",
+      "repository": "https://github.com/feder-cr/invisible_dots",
+      "summary": "A self-hosted computer-use agent project with documented skills and MCP integration.",
+      "selection_context": "Compare computer-use agents and their skill interfaces.",
+      "limitations": "Verify permissions, credentials and host requirements; publisher stealth claims are not independently verified.",
+      "last_catalog_snapshot": "2026-11-03T16:26:07.660598+00:00",
+      "reviewed_on": "2026-11-04",
+      "primary_sources": [
+        {
+          "url": "https://github.com/feder-cr/invisible_dots/blob/main/README.md",
+          "title": "feder-cr/invisible_dots publisher documentation"
+        }
+      ]
+    },
+    {
+      "slug": "yzfly-awesome-design-html",
+      "entity": "yzfly/awesome-design-html",
+      "canonical_url": "https://skill.kymatalabs.com/p/yzfly-awesome-design-html/",
+      "repository": "https://github.com/yzfly/awesome-design-html",
+      "summary": "HTML design examples distributed as references and a Claude Code skill.",
+      "selection_context": "Find the publisher's design examples and skill documentation.",
+      "limitations": "Check template licensing, branding rights and installation requirements.",
+      "last_catalog_snapshot": "2026-11-03T16:26:07.660598+00:00",
+      "reviewed_on": "2026-11-04",
+      "primary_sources": [
+        {
+          "url": "https://github.com/yzfly/awesome-design-html/blob/main/README.md",
+          "title": "yzfly/awesome-design-html publisher documentation"
+        }
+      ]
+    }
+  ],
   "retirements": [],
   "planned_release_urls": [],
-  "baseline_maintenance": "This captured baseline and proposed additions are explicit release inputs, not a rolling publication log. After each authorized release, refresh the protected baseline from verified published sitemaps before reviewing the next snapshot; keep capture provenance separate."
+  "baseline_maintenance": "This captured baseline and proposed additions are explicit release inputs, not a rolling publication log. After each authorized release, refresh the protected baseline from verified published sitemaps before reviewing the next snapshot; keep capture provenance separate.",
+  "site_name": "The Skill Index",
+  "detail_prefix": "p"
 }
