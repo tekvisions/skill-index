@@ -326,6 +326,109 @@
           "title": "yzfly/awesome-design-html publisher documentation"
         }
       ]
+    },
+    {
+      "slug": "wheresryan22-anatomy",
+      "entity": "wheresryan22/anatomy",
+      "canonical_url": "https://skill.kymatalabs.com/p/wheresryan22-anatomy/",
+      "repository": "https://github.com/wheresryan22/anatomy",
+      "summary": "An Agent Skill documented for producing interactive explanatory figures using SVG, WebGL and 3D techniques.",
+      "selection_context": "Inspect the publisher's examples, skill entry point and host installation instructions for technical illustrations.",
+      "limitations": "Check Node.js, browser and host requirements. The publisher labels 3D support beta; generated figures and their factual models require independent review.",
+      "last_catalog_snapshot": "2026-11-03T16:26:07.660598+00:00",
+      "reviewed_on": "2026-11-05",
+      "primary_sources": [
+        {
+          "url": "https://github.com/wheresryan22/anatomy/blob/main/README.md",
+          "title": "wheresryan22/anatomy publisher README"
+        }
+      ]
+    },
+    {
+      "slug": "sergebulaev-linkedin-skills",
+      "entity": "sergebulaev/linkedin-skills",
+      "canonical_url": "https://skill.kymatalabs.com/p/sergebulaev-linkedin-skills/",
+      "repository": "https://github.com/sergebulaev/linkedin-skills",
+      "summary": "A bundle of LinkedIn marketing skills for Claude Code and Codex, with documentation for drafting and publishing integrations.",
+      "selection_context": "Assess documented content-drafting workflows, host compatibility and optional publishing tools.",
+      "limitations": "Review external API services, permissions and LinkedIn terms. Publisher approval-before-publish claims are not an independent security audit; no content is published by this reference.",
+      "last_catalog_snapshot": "2026-11-03T16:26:07.660598+00:00",
+      "reviewed_on": "2026-11-05",
+      "primary_sources": [
+        {
+          "url": "https://github.com/sergebulaev/linkedin-skills/blob/main/README.md",
+          "title": "sergebulaev/linkedin-skills publisher README"
+        }
+      ]
+    },
+    {
+      "slug": "wesammustafa-claude-code-everything-you-need-to-know",
+      "entity": "wesammustafa/Claude-Code-Everything-You-Need-to-Know",
+      "canonical_url": "https://skill.kymatalabs.com/p/wesammustafa-claude-code-everything-you-need-to-know/",
+      "repository": "https://github.com/wesammustafa/Claude-Code-Quest",
+      "summary": "The former Claude-Code-Everything-You-Need-to-Know repository now resolves on GitHub to wesammustafa/Claude-Code-Quest, a hands-on Claude Code learning guide and browser-based practice companion. This existing Kymata URL preserves its former identity.",
+      "selection_context": "Find the publisher's current lessons and practice documentation without losing the previously published reference.",
+      "limitations": "This is a learning guide and practice companion, not independently verified reusable skill packaging. Verify the current Claude access and Node.js requirements; no course completion or runtime test is claimed.",
+      "last_catalog_snapshot": "2026-11-03T16:26:07.660598+00:00",
+      "reviewed_on": "2026-11-05",
+      "primary_sources": [
+        {
+          "url": "https://github.com/wesammustafa/Claude-Code-Quest/blob/main/README.md",
+          "title": "wesammustafa/Claude-Code-Quest publisher README"
+        }
+      ],
+      "schema_type": "CreativeWork"
+    },
+    {
+      "slug": "google-labs-code-stitch-skills",
+      "entity": "google-labs-code/stitch-skills",
+      "canonical_url": "https://skill.kymatalabs.com/p/google-labs-code-stitch-skills/",
+      "repository": "https://github.com/google-labs-code/stitch-skills",
+      "summary": "A collection of agent skills and plugins for Google Stitch, documented against the Agent Skills standard.",
+      "selection_context": "Use the publisher's documentation to assess Stitch design workflows and agent installation options.",
+      "limitations": "Check the selected agent, Stitch account and integration requirements. No installation test or compatibility certification is claimed.",
+      "last_catalog_snapshot": "2026-11-03T16:26:07.660598+00:00",
+      "reviewed_on": "2026-11-05",
+      "primary_sources": [
+        {
+          "url": "https://github.com/google-labs-code/stitch-skills/blob/main/README.md",
+          "title": "google-labs-code/stitch-skills publisher README"
+        }
+      ]
+    },
+    {
+      "slug": "mxfschr-claude-code-seo",
+      "entity": "mxfschr/claude-code-seo",
+      "canonical_url": "https://skill.kymatalabs.com/p/mxfschr-claude-code-seo/",
+      "repository": "https://github.com/mxfschr/claude-code-seo",
+      "summary": "An SEO knowledge base and Claude Code slash commands for workflows using Google Search Console and DataForSEO.",
+      "selection_context": "Consult the documented commands and setup requirements when assessing SEO analysis workflows.",
+      "limitations": "The publisher marks this as work in progress. Verify the methodology, access permissions, DataForSEO usage costs and content licensing; no ranking outcome is promised.",
+      "last_catalog_snapshot": "2026-11-03T16:26:07.660598+00:00",
+      "reviewed_on": "2026-11-05",
+      "primary_sources": [
+        {
+          "url": "https://github.com/mxfschr/claude-code-seo/blob/main/README.md",
+          "title": "mxfschr/claude-code-seo publisher README"
+        }
+      ]
+    },
+    {
+      "slug": "vibeeval-vibecosystem",
+      "entity": "vibeeval/vibecosystem",
+      "canonical_url": "https://skill.kymatalabs.com/p/vibeeval-vibecosystem/",
+      "repository": "https://github.com/vibeeval/vibecosystem",
+      "summary": "A package of agents, skills and hooks with selectable Claude Code profiles and documented Codex adapters.",
+      "selection_context": "Consult the publisher's profile manifest and setup documentation before selecting installed components.",
+      "limitations": "The source README identifies version 3.5.0 as a release candidate, not a published release. Review hook permissions, local state and optional external integrations; no token-saving or runtime guarantee is claimed.",
+      "last_catalog_snapshot": "2026-11-03T16:26:07.660598+00:00",
+      "reviewed_on": "2026-11-05",
+      "primary_sources": [
+        {
+          "url": "https://github.com/vibeeval/vibecosystem/blob/main/README.md",
+          "title": "vibeeval/vibecosystem publisher README"
+        }
+      ]
     }
   ],
   "retirements": [],
