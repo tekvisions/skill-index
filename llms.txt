@@ -2,7 +2,7 @@
 
 > The Skill Index: a source-backed catalog published by Kymata Labs.
 
-Snapshot collected: 2026-11-06T04:44:38.944187+00:00
+Snapshot collected: 2026-11-06T16:07:48.526404+00:00
 Current catalog records: 281
 
 ## Sources and interpretation
@@ -25,21 +25,22 @@ Momentum blends log-scaled GitHub stars (55%), push recency decaying over 180 da
 - [morluto/rea](https://skill.kymatalabs.com/p/morluto-rea/) — MCP & Tools
 - [affaan-m/ECC](https://skill.kymatalabs.com/p/affaan-m-ecc/) — MCP & Tools
 - [NousResearch/hermes-agent](https://skill.kymatalabs.com/p/nousresearch-hermes-agent/) — General Skills
+- [farion1231/cc-switch](https://skill.kymatalabs.com/p/farion1231-cc-switch/) — MCP & Tools
 - [anthropics/skills](https://skill.kymatalabs.com/p/anthropics-skills/) — General Skills
 - [DietrichGebert/ponytail](https://skill.kymatalabs.com/p/dietrichgebert-ponytail/) — General Skills
-- [farion1231/cc-switch](https://skill.kymatalabs.com/p/farion1231-cc-switch/) — MCP & Tools
 - [nextlevelbuilder/ui-ux-pro-max-skill](https://skill.kymatalabs.com/p/nextlevelbuilder-ui-ux-pro-max-skill/) — Design & UI
 - [Graphify-Labs/graphify](https://skill.kymatalabs.com/p/graphify-labs-graphify/) — MCP & Tools
 - [JuliusBrussee/caveman](https://skill.kymatalabs.com/p/juliusbrussee-caveman/) — General Skills
 - [stablyai/orca](https://skill.kymatalabs.com/p/stablyai-orca/) — Subagents
 - [thedotmack/claude-mem](https://skill.kymatalabs.com/p/thedotmack-claude-mem/) — Memory & Context
-- [addyosmani/agent-skills](https://skill.kymatalabs.com/p/addyosmani-agent-skills/) — General Skills
 - [paperclipai/paperclip](https://skill.kymatalabs.com/p/paperclipai-paperclip/) — MCP & Tools
 - [Leonxlnx/taste-skill](https://skill.kymatalabs.com/p/leonxlnx-taste-skill/) — Design & UI
 - [Panniantong/Agent-Reach](https://skill.kymatalabs.com/p/panniantong-agent-reach/) — MCP & Tools
 - [nexu-io/open-design](https://skill.kymatalabs.com/p/nexu-io-open-design/) — Design & UI
 - [pbakaus/impeccable](https://skill.kymatalabs.com/p/pbakaus-impeccable/) — Design & UI
+- [addyosmani/agent-skills](https://skill.kymatalabs.com/p/addyosmani-agent-skills/) — General Skills
 - [tt-a1i/archify](https://skill.kymatalabs.com/p/tt-a1i-archify/) — Design & UI
+- [Egonex-AI/Understand-Anything](https://skill.kymatalabs.com/p/egonex-ai-understand-anything/) — Memory & Context
 - [rtk-ai/rtk](https://skill.kymatalabs.com/p/rtk-ai-rtk/) — General Skills
 - [cheaper-inference/OmniRoute](https://skill.kymatalabs.com/p/cheaper-inference-omniroute/) — MCP & Tools
 - [career-ops-hq/career-ops](https://skill.kymatalabs.com/p/career-ops-hq-career-ops/) — General Skills
@@ -54,7 +55,6 @@ Momentum blends log-scaled GitHub stars (55%), push recency decaying over 180 da
 - [mvanhorn/last30days-skill](https://skill.kymatalabs.com/p/mvanhorn-last30days-skill/) — General Skills
 - [cathrynlavery/diagram-design](https://skill.kymatalabs.com/p/cathrynlavery-diagram-design/) — Design & UI
 - [google/elephant-goldfish-model](https://skill.kymatalabs.com/p/google-elephant-goldfish-model/) — Subagents
-- [Egonex-AI/Understand-Anything](https://skill.kymatalabs.com/p/egonex-ai-understand-anything/) — Memory & Context
 - [shareAI-lab/learn-claude-code](https://skill.kymatalabs.com/p/shareai-lab-learn-claude-code/) — Design & UI
 - [coreyhaines31/marketingskills](https://skill.kymatalabs.com/p/coreyhaines31-marketingskills/) — Writing & Content
 - [router-for-me/CLIProxyAPI](https://skill.kymatalabs.com/p/router-for-me-cliproxyapi/) — Design & UI
