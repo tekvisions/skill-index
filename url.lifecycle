@@ -429,6 +429,40 @@
           "title": "vibeeval/vibecosystem publisher README"
         }
       ]
+    },
+    {
+      "slug": "citrolabs-ego-lite",
+      "entity": "citrolabs/ego-lite",
+      "canonical_url": "https://skill.kymatalabs.com/p/citrolabs-ego-lite/",
+      "repository": "https://github.com/citrolabs/ego-lite",
+      "summary": "Publisher repository for the ego-browser skill, which connects AI agents to the separately distributed ego lite browser.",
+      "selection_context": "Consult the publisher documentation when assessing browser automation skills and shared browser workspaces.",
+      "limitations": "The repository contents and separately downloaded browser have different distribution scopes. Review browser permissions and access to signed-in state; no speed, cost or task-success claims were independently tested.",
+      "primary_sources": [
+        {
+          "url": "https://github.com/citrolabs/ego-lite/blob/main/README.md",
+          "title": "citrolabs/ego-lite publisher README"
+        }
+      ],
+      "last_catalog_snapshot": "2026-11-03T16:26:07.660598+00:00",
+      "reviewed_on": "2026-11-05"
+    },
+    {
+      "slug": "eze-is-web-access",
+      "entity": "eze-is/web-access",
+      "canonical_url": "https://skill.kymatalabs.com/p/eze-is-web-access/",
+      "repository": "https://github.com/eze-is/web-access",
+      "summary": "An agent skill documenting web retrieval strategies, Chromium browser automation through CDP, and reusable site-specific knowledge.",
+      "selection_context": "Use the publisher setup and migration documentation when evaluating a browser-access skill for a compatible local agent.",
+      "limitations": "The documented CDP mode requires Node.js 22 or later and browser debugging permission. Review configuration and the v2.6 data migration before updating; no installation or browser task was tested for this reference.",
+      "primary_sources": [
+        {
+          "url": "https://github.com/eze-is/web-access/blob/main/README.md",
+          "title": "eze-is/web-access publisher README"
+        }
+      ],
+      "last_catalog_snapshot": "2026-11-03T16:26:07.660598+00:00",
+      "reviewed_on": "2026-11-05"
     }
   ],
   "retirements": [],
