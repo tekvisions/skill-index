@@ -1,0 +1,222 @@
+{
+  "entries": [
+    {
+      "slug": "guilyx-grip",
+      "entity": "guilyx/grip",
+      "canonical_url": "https://skill.kymatalabs.com/p/guilyx-grip/",
+      "repository": "https://github.com/guilyx/grip",
+      "summary": "Grip documents a diff-explanation quiz, an optional Git pre-push hook and coding-agent integrations. A model grades the developer's explanation of a change; the score does not certify code correctness or security.",
+      "selection_context": "Compare workflows for discussing and explaining a diff before pushing it. Check which provider receives code changes and answers, and how the hook is enabled or bypassed.",
+      "limitations": "The fake provider uses answer length or the word \"because\" to demonstrate the flow; it does not assess understanding. Review provider data handling, hook bypass behavior and team thresholds. No code-quality, security or runtime validation was performed.",
+      "last_catalog_snapshot": "2026-11-06T16:07:48.526404+00:00",
+      "reviewed_on": "2026-11-07",
+      "last_successful_source_commit": "2dfc45d6da3536856f68dbff8d09ff7042d9d7ba",
+      "decision": "Retain the published route as a dated unranked reference when absent from the current discovery snapshot.",
+      "primary_sources": [
+        {
+          "url": "https://github.com/guilyx/grip/blob/c0f18d337f4f48585c0ac42973686e5341653b0e/README.md",
+          "title": "Publisher README at reviewed commit",
+          "commit_sha": "c0f18d337f4f48585c0ac42973686e5341653b0e",
+          "blob_sha": "00cf76d25bae7c0fc9111a8a6e40a5995c76722d",
+          "evidence_sha256": "6b544d7e0866a0dd3ad2e2b0b3f388aefbf7a557b17f25caf3e9c339497a9a8e"
+        }
+      ]
+    },
+    {
+      "slug": "tuchg-lucarne",
+      "entity": "tuchg/Lucarne",
+      "canonical_url": "https://skill.kymatalabs.com/p/tuchg-lucarne/",
+      "repository": "https://github.com/tuchg/Lucarne",
+      "summary": "Lucarne documents a local-agent mobile notification and control bridge through Telegram and WeChat. Its README explicitly describes setup without hooks, skills or MCP. Feishu appears only on the README roadmap.",
+      "selection_context": "Compare mobile notifications, session continuation and approval routing for local coding agents. Treat this as an agent-control bridge when assessing its fit.",
+      "limitations": "Review authorized users, chat access, session-history exposure, bot credentials and approval routing before enabling remote control. The broader repository description mentions Feishu, but the reviewed README lists it as planned. Privacy, authorization enforcement and runtime behavior were not independently tested.",
+      "last_catalog_snapshot": "2026-11-06T16:07:48.526404+00:00",
+      "reviewed_on": "2026-11-07",
+      "last_successful_source_commit": "2dfc45d6da3536856f68dbff8d09ff7042d9d7ba",
+      "decision": "Retain the published route as a dated unranked reference when absent from the current discovery snapshot.",
+      "primary_sources": [
+        {
+          "url": "https://github.com/tuchg/Lucarne/blob/5fe9244271473824be13cef0161f9d687a258d56/README.md",
+          "title": "Publisher README at reviewed commit",
+          "commit_sha": "5fe9244271473824be13cef0161f9d687a258d56",
+          "blob_sha": "9621d2e9b8a37196af31904fe7d5ca00966e4488",
+          "evidence_sha256": "dfdf8561368b21703cbe930bcd6a73fea70796e674f45e98ba9ea674df1bc85b"
+        }
+      ]
+    }
+  ],
+  "unchanged_policy_sha256": "78ae106b7711b9174cf73d329607695118169d17fde2043fbdadba00d53fa203",
+  "previous_references": [
+    {
+      "slug": "feder-cr-invisible-dots",
+      "entity": "feder-cr/invisible_dots",
+      "canonical_url": "https://skill.kymatalabs.com/p/feder-cr-invisible-dots/",
+      "repository": "https://github.com/feder-cr/invisible_dots",
+      "summary": "A self-hosted computer-use agent project with documented skills and MCP integration.",
+      "selection_context": "Compare computer-use agents and their skill interfaces.",
+      "limitations": "Verify permissions, credentials and host requirements; publisher stealth claims are not independently verified.",
+      "last_catalog_snapshot": "2026-11-03T16:26:07.660598+00:00",
+      "reviewed_on": "2026-11-04",
+      "primary_sources": [
+        {
+          "url": "https://github.com/feder-cr/invisible_dots/blob/main/README.md",
+          "title": "feder-cr/invisible_dots publisher documentation"
+        }
+      ]
+    },
+    {
+      "slug": "yzfly-awesome-design-html",
+      "entity": "yzfly/awesome-design-html",
+      "canonical_url": "https://skill.kymatalabs.com/p/yzfly-awesome-design-html/",
+      "repository": "https://github.com/yzfly/awesome-design-html",
+      "summary": "HTML design examples distributed as references and a Claude Code skill.",
+      "selection_context": "Find the publisher's design examples and skill documentation.",
+      "limitations": "Check template licensing, branding rights and installation requirements.",
+      "last_catalog_snapshot": "2026-11-03T16:26:07.660598+00:00",
+      "reviewed_on": "2026-11-04",
+      "primary_sources": [
+        {
+          "url": "https://github.com/yzfly/awesome-design-html/blob/main/README.md",
+          "title": "yzfly/awesome-design-html publisher documentation"
+        }
+      ]
+    },
+    {
+      "slug": "wheresryan22-anatomy",
+      "entity": "wheresryan22/anatomy",
+      "canonical_url": "https://skill.kymatalabs.com/p/wheresryan22-anatomy/",
+      "repository": "https://github.com/wheresryan22/anatomy",
+      "summary": "An Agent Skill documented for producing interactive explanatory figures using SVG, WebGL and 3D techniques.",
+      "selection_context": "Inspect the publisher's examples, skill entry point and host installation instructions for technical illustrations.",
+      "limitations": "Check Node.js, browser and host requirements. The publisher labels 3D support beta; generated figures and their factual models require independent review.",
+      "last_catalog_snapshot": "2026-11-03T16:26:07.660598+00:00",
+      "reviewed_on": "2026-11-05",
+      "primary_sources": [
+        {
+          "url": "https://github.com/wheresryan22/anatomy/blob/main/README.md",
+          "title": "wheresryan22/anatomy publisher README"
+        }
+      ]
+    },
+    {
+      "slug": "sergebulaev-linkedin-skills",
+      "entity": "sergebulaev/linkedin-skills",
+      "canonical_url": "https://skill.kymatalabs.com/p/sergebulaev-linkedin-skills/",
+      "repository": "https://github.com/sergebulaev/linkedin-skills",
+      "summary": "A bundle of LinkedIn marketing skills for Claude Code and Codex, with documentation for drafting and publishing integrations.",
+      "selection_context": "Assess documented content-drafting workflows, host compatibility and optional publishing tools.",
+      "limitations": "Review external API services, permissions and LinkedIn terms. Publisher approval-before-publish claims are not an independent security audit; no content is published by this reference.",
+      "last_catalog_snapshot": "2026-11-03T16:26:07.660598+00:00",
+      "reviewed_on": "2026-11-05",
+      "primary_sources": [
+        {
+          "url": "https://github.com/sergebulaev/linkedin-skills/blob/main/README.md",
+          "title": "sergebulaev/linkedin-skills publisher README"
+        }
+      ]
+    },
+    {
+      "slug": "wesammustafa-claude-code-everything-you-need-to-know",
+      "entity": "wesammustafa/Claude-Code-Everything-You-Need-to-Know",
+      "canonical_url": "https://skill.kymatalabs.com/p/wesammustafa-claude-code-everything-you-need-to-know/",
+      "repository": "https://github.com/wesammustafa/Claude-Code-Quest",
+      "summary": "The former Claude-Code-Everything-You-Need-to-Know repository now resolves on GitHub to wesammustafa/Claude-Code-Quest, a hands-on Claude Code learning guide and browser-based practice companion. This existing Kymata URL preserves its former identity.",
+      "selection_context": "Find the publisher's current lessons and practice documentation without losing the previously published reference.",
+      "limitations": "This is a learning guide and practice companion, not independently verified reusable skill packaging. Verify the current Claude access and Node.js requirements; no course completion or runtime test is claimed.",
+      "last_catalog_snapshot": "2026-11-03T16:26:07.660598+00:00",
+      "reviewed_on": "2026-11-05",
+      "primary_sources": [
+        {
+          "url": "https://github.com/wesammustafa/Claude-Code-Quest/blob/main/README.md",
+          "title": "wesammustafa/Claude-Code-Quest publisher README"
+        }
+      ],
+      "schema_type": "CreativeWork"
+    },
+    {
+      "slug": "google-labs-code-stitch-skills",
+      "entity": "google-labs-code/stitch-skills",
+      "canonical_url": "https://skill.kymatalabs.com/p/google-labs-code-stitch-skills/",
+      "repository": "https://github.com/google-labs-code/stitch-skills",
+      "summary": "A collection of agent skills and plugins for Google Stitch, documented against the Agent Skills standard.",
+      "selection_context": "Use the publisher's documentation to assess Stitch design workflows and agent installation options.",
+      "limitations": "Check the selected agent, Stitch account and integration requirements. No installation test or compatibility certification is claimed.",
+      "last_catalog_snapshot": "2026-11-03T16:26:07.660598+00:00",
+      "reviewed_on": "2026-11-05",
+      "primary_sources": [
+        {
+          "url": "https://github.com/google-labs-code/stitch-skills/blob/main/README.md",
+          "title": "google-labs-code/stitch-skills publisher README"
+        }
+      ]
+    },
+    {
+      "slug": "mxfschr-claude-code-seo",
+      "entity": "mxfschr/claude-code-seo",
+      "canonical_url": "https://skill.kymatalabs.com/p/mxfschr-claude-code-seo/",
+      "repository": "https://github.com/mxfschr/claude-code-seo",
+      "summary": "An SEO knowledge base and Claude Code slash commands for workflows using Google Search Console and DataForSEO.",
+      "selection_context": "Consult the documented commands and setup requirements when assessing SEO analysis workflows.",
+      "limitations": "The publisher marks this as work in progress. Verify the methodology, access permissions, DataForSEO usage costs and content licensing; no ranking outcome is promised.",
+      "last_catalog_snapshot": "2026-11-03T16:26:07.660598+00:00",
+      "reviewed_on": "2026-11-05",
+      "primary_sources": [
+        {
+          "url": "https://github.com/mxfschr/claude-code-seo/blob/main/README.md",
+          "title": "mxfschr/claude-code-seo publisher README"
+        }
+      ]
+    },
+    {
+      "slug": "vibeeval-vibecosystem",
+      "entity": "vibeeval/vibecosystem",
+      "canonical_url": "https://skill.kymatalabs.com/p/vibeeval-vibecosystem/",
+      "repository": "https://github.com/vibeeval/vibecosystem",
+      "summary": "A package of agents, skills and hooks with selectable Claude Code profiles and documented Codex adapters.",
+      "selection_context": "Consult the publisher's profile manifest and setup documentation before selecting installed components.",
+      "limitations": "The source README identifies version 3.5.0 as a release candidate, not a published release. Review hook permissions, local state and optional external integrations; no token-saving or runtime guarantee is claimed.",
+      "last_catalog_snapshot": "2026-11-03T16:26:07.660598+00:00",
+      "reviewed_on": "2026-11-05",
+      "primary_sources": [
+        {
+          "url": "https://github.com/vibeeval/vibecosystem/blob/main/README.md",
+          "title": "vibeeval/vibecosystem publisher README"
+        }
+      ]
+    },
+    {
+      "slug": "citrolabs-ego-lite",
+      "entity": "citrolabs/ego-lite",
+      "canonical_url": "https://skill.kymatalabs.com/p/citrolabs-ego-lite/",
+      "repository": "https://github.com/citrolabs/ego-lite",
+      "summary": "Publisher repository for the ego-browser skill, which connects AI agents to the separately distributed ego lite browser.",
+      "selection_context": "Consult the publisher documentation when assessing browser automation skills and shared browser workspaces.",
+      "limitations": "The repository contents and separately downloaded browser have different distribution scopes. Review browser permissions and access to signed-in state; no speed, cost or task-success claims were independently tested.",
+      "primary_sources": [
+        {
+          "url": "https://github.com/citrolabs/ego-lite/blob/main/README.md",
+          "title": "citrolabs/ego-lite publisher README"
+        }
+      ],
+      "last_catalog_snapshot": "2026-11-03T16:26:07.660598+00:00",
+      "reviewed_on": "2026-11-05"
+    },
+    {
+      "slug": "eze-is-web-access",
+      "entity": "eze-is/web-access",
+      "canonical_url": "https://skill.kymatalabs.com/p/eze-is-web-access/",
+      "repository": "https://github.com/eze-is/web-access",
+      "summary": "An agent skill documenting web retrieval strategies, Chromium browser automation through CDP, and reusable site-specific knowledge.",
+      "selection_context": "Use the publisher setup and migration documentation when evaluating a browser-access skill for a compatible local agent.",
+      "limitations": "The documented CDP mode requires Node.js 22 or later and browser debugging permission. Review configuration and the v2.6 data migration before updating; no installation or browser task was tested for this reference.",
+      "primary_sources": [
+        {
+          "url": "https://github.com/eze-is/web-access/blob/main/README.md",
+          "title": "eze-is/web-access publisher README"
+        }
+      ],
+      "last_catalog_snapshot": "2026-11-03T16:26:07.660598+00:00",
+      "reviewed_on": "2026-11-05"
+    }
+  ]
+}
