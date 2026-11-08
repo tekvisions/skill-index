@@ -507,6 +507,248 @@
           "evidence_sha256": "dfdf8561368b21703cbe930bcd6a73fea70796e674f45e98ba9ea674df1bc85b"
         }
       ]
+    },
+    {
+      "slug": "23blocks-os-ai-maestro",
+      "entity": "23blocks-OS/ai-maestro",
+      "canonical_url": "https://skill.kymatalabs.com/p/23blocks-os-ai-maestro/",
+      "repository": "https://github.com/23blocks-OS/ai-maestro",
+      "summary": "AI Maestro documents a self-hosted dashboard and service for terminal coding agents, with skills, memory, messaging and multi-machine coordination.",
+      "selection_context": "Compare the documented agent integrations and coordination workflow, checking each integration's support level and Node, tmux and build requirements.",
+      "limitations": "Inspect installer and hook changes, transcript retention, peer-network access and credential handling. The README says output secret scrubbing prevents accidents rather than malicious agents. Privacy, security, scale and runtime behavior were not independently tested.",
+      "schema_type": "SoftwareSourceCode",
+      "last_catalog_snapshot": "2026-11-07T15:24:40.076432+00:00",
+      "reviewed_on": "2026-11-08",
+      "last_successful_source_commit": "55df0225f209c20e26adb39ccae3f7ac0b50a165",
+      "decision": "Retain the published route as a dated unranked reference when absent from the current discovery snapshot.",
+      "primary_sources": [
+        {
+          "url": "https://github.com/23blocks-OS/ai-maestro/blob/13a35953abc5354bbb49d85750aafee863c09387/README.md",
+          "title": "Publisher README at reviewed commit",
+          "commit_sha": "13a35953abc5354bbb49d85750aafee863c09387",
+          "blob_sha": "90c701628f34f35cc8831d72030a48d63c6b1096",
+          "evidence_sha256": "e4ccd6a7820a27e1062af8433721f42d6a849218c8ff23f65358db798e615449"
+        }
+      ]
+    },
+    {
+      "slug": "agiwhitelist-auteur",
+      "entity": "agiwhitelist/auteur",
+      "canonical_url": "https://skill.kymatalabs.com/p/agiwhitelist-auteur/",
+      "repository": "https://github.com/agiwhitelist/auteur",
+      "summary": "Auteur documents an agent skill for website art direction, asset sourcing, building and design checks, supported by reference recipes and scripts. Its sequence moves from research and written direction to assets, implementation and checks.",
+      "selection_context": "Consider the documented art-direction process and linter when planning an agent-assisted website. The repository presents a skill and workflow rather than a component library.",
+      "limitations": "Check Node and Playwright requirements, optional media-tool availability, network sourcing and asset licenses. Visual quality, accessibility, performance and compatibility across agents were not independently validated.",
+      "schema_type": "SoftwareSourceCode",
+      "last_catalog_snapshot": "2026-11-07T15:24:40.076432+00:00",
+      "reviewed_on": "2026-11-08",
+      "last_successful_source_commit": "55df0225f209c20e26adb39ccae3f7ac0b50a165",
+      "decision": "Retain the published route as a dated unranked reference when absent from the current discovery snapshot.",
+      "primary_sources": [
+        {
+          "url": "https://github.com/agiwhitelist/auteur/blob/9bca227df9877e60dc45d49783c8cbd885eccd9b/README.md",
+          "title": "Publisher README at reviewed commit",
+          "commit_sha": "9bca227df9877e60dc45d49783c8cbd885eccd9b",
+          "blob_sha": "088334320f231f03b3a54b5fec801adabc1c76c6",
+          "evidence_sha256": "0190f14c0cb069ffdc5bfabb4f13cf0443c92fe59b39666007befcf957191855"
+        }
+      ]
+    },
+    {
+      "slug": "calesthio-openmontage",
+      "entity": "OpenMontageInc/OpenMontage",
+      "canonical_url": "https://skill.kymatalabs.com/p/calesthio-openmontage/",
+      "repository": "https://github.com/OpenMontageInc/OpenMontage",
+      "summary": "OpenMontage documents agent-oriented video-production workflows combining planning, media tools, asset generation or sourcing, and composition. On 8 November 2026, GitHub redirected the former calesthio/OpenMontage repository to OpenMontageInc/OpenMontage with the same repository ID; this published index URL is preserved.",
+      "selection_context": "Compare the documented production workflows and their Python, FFmpeg, Node and coding-assistant requirements. Follow the current publisher repository linked below.",
+      "limitations": "Review the AGPL license, provider costs, media rights and credential handling. Local or open-media options coexist with optional paid providers; this is not a guarantee of fully offline or cost-free use. Budget checks, quality gates and produced media were not independently tested.",
+      "schema_type": "SoftwareSourceCode",
+      "last_catalog_snapshot": "2026-11-07T15:24:40.076432+00:00",
+      "reviewed_on": "2026-11-08",
+      "last_successful_source_commit": "55df0225f209c20e26adb39ccae3f7ac0b50a165",
+      "decision": "Retain the published route as a dated unranked reference when absent from the current discovery snapshot.",
+      "primary_sources": [
+        {
+          "url": "https://github.com/OpenMontageInc/OpenMontage/blob/356b5fa92474998c9f9a0782fd5547d05837d284/README.md",
+          "title": "Publisher README at reviewed commit",
+          "commit_sha": "356b5fa92474998c9f9a0782fd5547d05837d284",
+          "blob_sha": "9013c574532a707ee5d719c3199ade0e9a52a83e",
+          "evidence_sha256": "f69062655b71ff0291a32c405385ed83664c83b51f07735e833ff6d051785547"
+        },
+        {
+          "url": "https://github.com/calesthio/OpenMontage",
+          "title": "Previous publisher repository URL, redirects to OpenMontageInc/OpenMontage"
+        }
+      ],
+      "previous_repository": "https://github.com/calesthio/OpenMontage",
+      "source_identity": {
+        "repository_id": 1195360525,
+        "previous_full_name": "calesthio/OpenMontage",
+        "current_full_name": "OpenMontageInc/OpenMontage",
+        "reviewed_on": "2026-11-08",
+        "evidence": "GitHub redirects the previous repository URL to the current repository, whose API returns the same repository ID."
+      }
+    },
+    {
+      "slug": "decebals-claude-code-java",
+      "entity": "decebals/claude-code-java",
+      "canonical_url": "https://skill.kymatalabs.com/p/decebals-claude-code-java/",
+      "repository": "https://github.com/decebals/claude-code-java",
+      "summary": "This repository documents reusable Agent Skills, project templates, MCP configurations and setup scripts for Java and Maven development workflows, including review, testing and architecture guidance.",
+      "selection_context": "Compare the documented Java development workflows with your agent, Java and Maven or Gradle versions before adopting individual components.",
+      "limitations": "Review setup-script changes and MCP permissions. Publisher routing and efficiency claims were not reproduced, and no build or agent compatibility test was performed. The project is independent of Anthropic.",
+      "schema_type": "SoftwareSourceCode",
+      "last_catalog_snapshot": "2026-11-07T15:24:40.076432+00:00",
+      "reviewed_on": "2026-11-08",
+      "last_successful_source_commit": "55df0225f209c20e26adb39ccae3f7ac0b50a165",
+      "decision": "Retain the published route as a dated unranked reference when absent from the current discovery snapshot.",
+      "primary_sources": [
+        {
+          "url": "https://github.com/decebals/claude-code-java/blob/049043449da59b04dc8fa9967466b171be5e49a7/README.md",
+          "title": "Publisher README at reviewed commit",
+          "commit_sha": "049043449da59b04dc8fa9967466b171be5e49a7",
+          "blob_sha": "4a518847778e6d564e05d1ed77ffc6b075ef4a3b",
+          "evidence_sha256": "a9f9fe0335faa4d34f3fafe522cf72335359cda5320ecec2587d9f133b53dd02"
+        }
+      ]
+    },
+    {
+      "slug": "jiweiyeah-skills-manager",
+      "entity": "jiweiyeah/Skills-Manager",
+      "canonical_url": "https://skill.kymatalabs.com/p/jiweiyeah-skills-manager/",
+      "repository": "https://github.com/jiweiyeah/Skills-Manager",
+      "summary": "Skills Manager documents a desktop application and skm CLI for centralized agent-skill storage and synchronization through symlinks, junctions or tracked copies, with optional marketplace and translation features.",
+      "selection_context": "Compare the documented storage and synchronization approaches for the specific tools and operating systems you use.",
+      "limitations": "Review filesystem-link changes, installers and optional LLM translation data flows. The README says its macOS build is ad-hoc signed, not Apple-notarized, and its Homebrew cask removes quarantine. Installation, security and compatibility were not independently tested.",
+      "schema_type": "SoftwareSourceCode",
+      "last_catalog_snapshot": "2026-11-07T15:24:40.076432+00:00",
+      "reviewed_on": "2026-11-08",
+      "last_successful_source_commit": "55df0225f209c20e26adb39ccae3f7ac0b50a165",
+      "decision": "Retain the published route as a dated unranked reference when absent from the current discovery snapshot.",
+      "primary_sources": [
+        {
+          "url": "https://github.com/jiweiyeah/Skills-Manager/blob/bc3c8bd68cfe9a58a80b7c3631a8ed531d950823/README.md",
+          "title": "Publisher README at reviewed commit",
+          "commit_sha": "bc3c8bd68cfe9a58a80b7c3631a8ed531d950823",
+          "blob_sha": "57bb0aeb1dade0bc8b573af4bd5fd12bba74b579",
+          "evidence_sha256": "1cfd93b3a11792761572bc6a2b700ea284382049b5bcb80bbee5c762825c9131"
+        }
+      ]
+    },
+    {
+      "slug": "kaankiziltug-logo-design-skill",
+      "entity": "kaankiziltug/logo-design-skill",
+      "canonical_url": "https://skill.kymatalabs.com/p/kaankiziltug-logo-design-skill/",
+      "repository": "https://github.com/kaankiziltug/logo-design-skill",
+      "summary": "This Agent Skills repository documents a logo-design process covering briefs, human concept approval, SVG construction and testing, and delivery variants, with Python utilities and a reference-logo catalog.",
+      "selection_context": "Use the documented process and utilities to plan an agent-assisted logo project, retaining human design decisions and checking raster-export renderer availability.",
+      "limitations": "The README distinguishes MIT-licensed skill text, scripts and catalog material from reference SVG logos, which are third-party trademarks excluded from that license and supplied for reference or education. No trademark clearance, originality, design-quality or tool-compatibility certification is provided.",
+      "schema_type": "SoftwareSourceCode",
+      "last_catalog_snapshot": "2026-11-07T15:24:40.076432+00:00",
+      "reviewed_on": "2026-11-08",
+      "last_successful_source_commit": "55df0225f209c20e26adb39ccae3f7ac0b50a165",
+      "decision": "Retain the published route as a dated unranked reference when absent from the current discovery snapshot.",
+      "primary_sources": [
+        {
+          "url": "https://github.com/kaankiziltug/logo-design-skill/blob/bbf31e521d765eb6d53242549bbee7c2e5bbd6bc/README.md",
+          "title": "Publisher README at reviewed commit",
+          "commit_sha": "bbf31e521d765eb6d53242549bbee7c2e5bbd6bc",
+          "blob_sha": "779d90c173f12448475b5a2cc82a6101c67fb36e",
+          "evidence_sha256": "591cd34b95304baa331ad20c02ae33911fa8a4b2d7c38b5f911c78288b024e36"
+        }
+      ]
+    },
+    {
+      "slug": "keskinonur-claude-code-ios-dev-guide",
+      "entity": "keskinonur/claude-code-ios-dev-guide",
+      "canonical_url": "https://skill.kymatalabs.com/p/keskinonur-claude-code-ios-dev-guide/",
+      "repository": "https://github.com/keskinonur/claude-code-ios-dev-guide",
+      "summary": "This repository is a guide with configuration examples for Claude Code iOS development, including PRD-driven planning, Swift and SwiftUI work, XcodeBuildMCP, hooks and subagents.",
+      "selection_context": "Consult the guide as a documented workflow reference, then compare its examples with the current Claude Code, Xcode and MCP interfaces.",
+      "limitations": "Verify present-day interfaces and required permissions before adapting examples. Historical model and cost examples are not current recommendations. Sandboxing, native builds and compatibility were not independently tested.",
+      "schema_type": "CreativeWork",
+      "last_catalog_snapshot": "2026-11-07T15:24:40.076432+00:00",
+      "reviewed_on": "2026-11-08",
+      "last_successful_source_commit": "55df0225f209c20e26adb39ccae3f7ac0b50a165",
+      "decision": "Retain the published route as a dated unranked reference when absent from the current discovery snapshot.",
+      "primary_sources": [
+        {
+          "url": "https://github.com/keskinonur/claude-code-ios-dev-guide/blob/189b05b506074d1228099a0b32a7e4a6a71f120e/README.md",
+          "title": "Publisher README at reviewed commit",
+          "commit_sha": "189b05b506074d1228099a0b32a7e4a6a71f120e",
+          "blob_sha": "aa2f6f784c1d19377c0f2dbd94b5609b2404a18e",
+          "evidence_sha256": "3dfc7b81d4f4780660b5d24495beb5f4e1b4e4ef58c96a41291906de0e436909"
+        }
+      ]
+    },
+    {
+      "slug": "sno-ai-sno-station-skills",
+      "entity": "sno-ai/sno-station-skills",
+      "canonical_url": "https://skill.kymatalabs.com/p/sno-ai-sno-station-skills/",
+      "repository": "https://github.com/sno-ai/sno-station-skills",
+      "summary": "Sno Station Skills documents an Apache-2.0 skill pack for agent peer review, handoff, work orders, briefings and retrospectives, with setup tailored to agent capabilities.",
+      "selection_context": "Compare the documented skills with an existing Sno Station setup and the separately available agent CLIs and accounts required for cross-vendor workflows.",
+      "limitations": "Most skills rely on Sno Station programs, and setup can install full or reduced support or skip unsupported agents. Publisher self-tests and release stamps are source claims, not independent verification. Efficacy, security and agent compatibility were not tested.",
+      "schema_type": "SoftwareSourceCode",
+      "last_catalog_snapshot": "2026-11-07T15:24:40.076432+00:00",
+      "reviewed_on": "2026-11-08",
+      "last_successful_source_commit": "55df0225f209c20e26adb39ccae3f7ac0b50a165",
+      "decision": "Retain the published route as a dated unranked reference when absent from the current discovery snapshot.",
+      "primary_sources": [
+        {
+          "url": "https://github.com/sno-ai/sno-station-skills/blob/1ca8a66158bc9ca26c288c6d5e7ebcf2ffb8491a/README.md",
+          "title": "Publisher README at reviewed commit",
+          "commit_sha": "1ca8a66158bc9ca26c288c6d5e7ebcf2ffb8491a",
+          "blob_sha": "bd6d618e2df8ff97a6971c886fefc6587427d867",
+          "evidence_sha256": "9721b8f4aa5408cf2b0ec17e6cdd5ea2c2a0af55cb18935a93f0e6cae27ad77d"
+        }
+      ]
+    },
+    {
+      "slug": "sno-ai-sno-station",
+      "entity": "sno-ai/sno-station",
+      "canonical_url": "https://skill.kymatalabs.com/p/sno-ai-sno-station/",
+      "repository": "https://github.com/sno-ai/sno-station",
+      "summary": "Sno Station documents an Apache-2.0 CLI for agent memory, messaging, review and handoff, with local and optional cloud-backed operating modes.",
+      "selection_context": "Compare the documented operating modes, data flows and agent-specific support before selecting a memory or coordination workflow.",
+      "limitations": "The README says REM Enhanced uploads memory and lessons, and Agent Native defaults to nightly session uploads for Self Learning unless disabled; Local First avoids memory-text upload. Review modes, permissions, accounts and cloud data sharing. Some agent journeys are described as unproven; privacy and compatibility were not independently tested.",
+      "schema_type": "SoftwareSourceCode",
+      "last_catalog_snapshot": "2026-11-07T15:24:40.076432+00:00",
+      "reviewed_on": "2026-11-08",
+      "last_successful_source_commit": "55df0225f209c20e26adb39ccae3f7ac0b50a165",
+      "decision": "Retain the published route as a dated unranked reference when absent from the current discovery snapshot.",
+      "primary_sources": [
+        {
+          "url": "https://github.com/sno-ai/sno-station/blob/9a913966eb808853c4755fc8bbd4afde4aa89527/README.md",
+          "title": "Publisher README at reviewed commit",
+          "commit_sha": "9a913966eb808853c4755fc8bbd4afde4aa89527",
+          "blob_sha": "0cd13a9ede952f1839b4eb87a7b1b81433a40bca",
+          "evidence_sha256": "0a0134bfe59d85c51ec077f4d858585efcd5e5f205aca0fa04106ae6c529a4ee"
+        }
+      ]
+    },
+    {
+      "slug": "zenstory-ai-novel-to-game",
+      "entity": "zenstory-ai/novel-to-game",
+      "canonical_url": "https://skill.kymatalabs.com/p/zenstory-ai-novel-to-game/",
+      "repository": "https://github.com/zenstory-ai/novel-to-game",
+      "summary": "Novel-to-Game documents MIT-licensed Agent Skills for source-grounded adaptation planning, game design, target-runtime implementation and quality-assurance workflows. Its public examples are browser games.",
+      "selection_context": "Use the documented planning and QA process to scope a playable adaptation and to distinguish demonstrated browser examples from other target runtimes.",
+      "limitations": "Verify adaptation and asset rights, coding-agent costs and opt-in external generation. Native-engine and console targets have no public examples in the reviewed documentation. A QA pass does not establish fun, balance, broad device compatibility, legal rights or release quality; no game was built or tested here.",
+      "schema_type": "SoftwareSourceCode",
+      "last_catalog_snapshot": "2026-11-07T15:24:40.076432+00:00",
+      "reviewed_on": "2026-11-08",
+      "last_successful_source_commit": "55df0225f209c20e26adb39ccae3f7ac0b50a165",
+      "decision": "Retain the published route as a dated unranked reference when absent from the current discovery snapshot.",
+      "primary_sources": [
+        {
+          "url": "https://github.com/zenstory-ai/novel-to-game/blob/f342e23d46c08a8b659e738ef4453f1e40a08042/README.md",
+          "title": "Publisher README at reviewed commit",
+          "commit_sha": "f342e23d46c08a8b659e738ef4453f1e40a08042",
+          "blob_sha": "8b02b688c307345d7997c575209d690a79527d6e",
+          "evidence_sha256": "8a3c7fadf5ae13baced6322aca95b0477c32719c882e92ddace2d38d3306a1a7"
+        }
+      ]
     }
   ],
   "retirements": [],
