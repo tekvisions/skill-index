@@ -1,0 +1,31 @@
+{
+  "unchanged_policy_sha256": "78ae106b7711b9174cf73d329607695118169d17fde2043fbdadba00d53fa203",
+  "previous_reference_count": 22,
+  "previous_references_sha256": "7ed06d5d0af31c73f1882f2b07d235e04b6111be979d42f5488ddb6b4d25f6a5",
+  "guard_sha256": "94aa376c290ec8e0eb2bf8a46f21c43d290d2cd9e8445800fd45ce25684b6bb8",
+  "entries": [
+    {
+      "slug": "deusdata-codebase-memory-mcp",
+      "entity": "DeusData/codebase-memory-mcp",
+      "canonical_url": "https://skill.kymatalabs.com/p/deusdata-codebase-memory-mcp/",
+      "repository": "https://github.com/DeusData/codebase-memory-mcp",
+      "summary": "Codebase Memory MCP documents a local code-intelligence server that connects source code, documentation, configuration and infrastructure in a persistent knowledge graph. It provides MCP tools and coding-agent integrations, including instructions, skills, profiles and supported hooks.",
+      "selection_context": "Use the publisher documentation to compare repository exploration, graph queries and change-impact analysis for a coding agent. Check the integration matrix for the specific client and platform; documented skills and hook support vary by client.",
+      "limitations": "Review installer changes to agent configuration and hooks, local indexing scope and storage, and release-verification instructions before use. CBM Lens is documented as an optional beta companion, and browser AI may download a model when enabled. Installation, security, performance and agent compatibility were not independently tested.",
+      "schema_type": "SoftwareSourceCode",
+      "last_catalog_snapshot": "2026-11-07T15:24:40.076432+00:00",
+      "reviewed_on": "2026-11-09",
+      "last_successful_source_commit": "55df0225f209c20e26adb39ccae3f7ac0b50a165",
+      "decision": "Retain the published route as a dated unranked reference when absent from the current discovery snapshot. The public upstream is active and documents relevant agent skills and hooks; omission from a bounded discovery query does not establish retirement.",
+      "primary_sources": [
+        {
+          "url": "https://github.com/DeusData/codebase-memory-mcp/blob/8bf489edae65779aa2ee65f94b09066c43e2d30e/README.md",
+          "title": "Publisher README at reviewed commit",
+          "commit_sha": "8bf489edae65779aa2ee65f94b09066c43e2d30e",
+          "blob_sha": "f3bdffe8acecc94d1dd077707a9c93b7e73b152b",
+          "evidence_sha256": "2ca7d805b194b3f99e06311e6b2ea26a4323d9c10a430adadc547bb6f345c7cf"
+        }
+      ]
+    }
+  ]
+}
