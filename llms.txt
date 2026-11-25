@@ -2,7 +2,7 @@
 
 > The Skill Index: a source-backed catalog published by Kymata Labs.
 
-Snapshot collected: 2026-11-25T21:00:28.752916+00:00
+Snapshot collected: 2026-11-25T22:04:35.429320+00:00
 Current catalog records: 280
 
 ## Sources and interpretation
