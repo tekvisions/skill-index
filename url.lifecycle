@@ -772,6 +772,315 @@
           "evidence_sha256": "2ca7d805b194b3f99e06311e6b2ea26a4323d9c10a430adadc547bb6f345c7cf"
         }
       ]
+    },
+    {
+      "slug": "0xmh-claude-skillify",
+      "entity": "0xMH/claude-skillify",
+      "canonical_url": "https://skill.kymatalabs.com/p/0xmh-claude-skillify/",
+      "repository": "https://github.com/0xMH/claude-skillify",
+      "summary": "Publisher description of 0xMH/claude-skillify: Open-source Claude Code plugin porting the internal /skillify skill: turn a finished session's repeatable workflow into a reusable SKILL.md you can rerun with a slash command. The saved 2026-11-07 catalog classified it under Commands & Hooks.",
+      "selection_context": "Use this dated reference to locate the publisher documentation for Commands & Hooks work, then compare it with the current ranked catalog before choosing a tool.",
+      "limitations": "Dated publisher-documentation check, not an independent runtime, security or performance test. No current rank or momentum score is assigned. Verify current availability, license and requirements.",
+      "last_catalog_snapshot": "2026-11-07T15:24:40.076432+00:00",
+      "reviewed_on": "2026-11-25",
+      "schema_type": "SoftwareSourceCode",
+      "last_successful_source_commit": "55df0225f209c20e26adb39ccae3f7ac0b50a165",
+      "decision": "Retain the published route as a dated unranked reference when absent from the current discovery snapshot.",
+      "primary_sources": [
+        {
+          "url": "https://github.com/0xMH/claude-skillify/blob/main/README.md",
+          "title": "Publisher README",
+          "evidence_sha256": "771408b6d0821728334dc22ea09ccf0d51645756e08ecede69e8ea879129e1dd",
+          "blob_sha": "11c4ad7dc3b34d7996e4de7696a5b79c63ef1258"
+        }
+      ]
+    },
+    {
+      "slug": "deanpeters-product-manager-skills",
+      "entity": "deanpeters/Product-Manager-Skills",
+      "canonical_url": "https://skill.kymatalabs.com/p/deanpeters-product-manager-skills/",
+      "repository": "https://github.com/deanpeters/Product-Manager-Skills",
+      "summary": "Publisher description of deanpeters/Product-Manager-Skills: Product Management skills framework built on battle-tested methods for Claude Code, Cowork, Codex, and AI agents. The saved 2026-11-07 catalog classified it under Design & UI.",
+      "selection_context": "Use this dated reference to locate the publisher documentation for Design & UI work, then compare it with the current ranked catalog before choosing a tool.",
+      "limitations": "Dated publisher-documentation check, not an independent runtime, security or performance test. No current rank or momentum score is assigned. Verify current availability, license and requirements.",
+      "last_catalog_snapshot": "2026-11-07T15:24:40.076432+00:00",
+      "reviewed_on": "2026-11-25",
+      "schema_type": "SoftwareSourceCode",
+      "last_successful_source_commit": "55df0225f209c20e26adb39ccae3f7ac0b50a165",
+      "decision": "Retain the published route as a dated unranked reference when absent from the current discovery snapshot.",
+      "primary_sources": [
+        {
+          "url": "https://github.com/deanpeters/Product-Manager-Skills/blob/main/README.md",
+          "title": "Publisher README",
+          "evidence_sha256": "750e89d24f2a56480bc0744c1ff3e962f4ea6f8d149a1f1081db6875f5112eca",
+          "blob_sha": "9ea70e93a22d977a5dfe45e832350046e1e97c5d"
+        }
+      ]
+    },
+    {
+      "slug": "gamedev-skills-awesome-gamedev-agent-skills",
+      "entity": "gamedev-skills/awesome-gamedev-agent-skills",
+      "canonical_url": "https://skill.kymatalabs.com/p/gamedev-skills-awesome-gamedev-agent-skills/",
+      "repository": "https://github.com/gamedev-skills/awesome-gamedev-agent-skills",
+      "summary": "Publisher description of gamedev-skills/awesome-gamedev-agent-skills: 77 game-dev skills for AI coding agents, Godot, Unity, Unreal, Phaser, PixiJS, three.js, Bevy, pygame, LÖVE, Roblox. Portable SKILL.md Agent Skills (the format Anthropic launched as Claude Skills), with a router that loads the right skill for your engine and task. Runs in Claude Code, Cursor, Kiro, Codex, Copilot, Gemini CLI and more. The saved 2026-11-07 catalog classified it under Collections.",
+      "selection_context": "Use this dated reference to locate the publisher documentation for Collections work, then compare it with the current ranked catalog before choosing a tool.",
+      "limitations": "Dated publisher-documentation check, not an independent runtime, security or performance test. No current rank or momentum score is assigned. Verify current availability, license and requirements.",
+      "last_catalog_snapshot": "2026-11-07T15:24:40.076432+00:00",
+      "reviewed_on": "2026-11-25",
+      "schema_type": "SoftwareSourceCode",
+      "last_successful_source_commit": "55df0225f209c20e26adb39ccae3f7ac0b50a165",
+      "decision": "Retain the published route as a dated unranked reference when absent from the current discovery snapshot.",
+      "primary_sources": [
+        {
+          "url": "https://github.com/gamedev-skills/awesome-gamedev-agent-skills/blob/main/README.md",
+          "title": "Publisher README",
+          "evidence_sha256": "89438e11b098bec4ec9c484da5d1759426137969a8657609ccc8e350272a5714",
+          "blob_sha": "1aa34fbb81b7e95dfbd3bb9773ac611680fff27a"
+        }
+      ]
+    },
+    {
+      "slug": "hamzafer-claude-code-mods",
+      "entity": "hamzafer/claude-code-mods",
+      "canonical_url": "https://skill.kymatalabs.com/p/hamzafer-claude-code-mods/",
+      "repository": "https://github.com/hamzafer/claude-code-mods",
+      "summary": "Publisher description of hamzafer/claude-code-mods: Claude Code mods: plugins built on hooks that add live lines above the prompt, guards, panes and games. Context bar, usage meter, Codex review watch, Markdown preview, Spotify now playing and more. The saved 2026-11-07 catalog classified it under Commands & Hooks.",
+      "selection_context": "Use this dated reference to locate the publisher documentation for Commands & Hooks work, then compare it with the current ranked catalog before choosing a tool.",
+      "limitations": "Dated publisher-documentation check, not an independent runtime, security or performance test. No current rank or momentum score is assigned. Verify current availability, license and requirements.",
+      "last_catalog_snapshot": "2026-11-07T15:24:40.076432+00:00",
+      "reviewed_on": "2026-11-25",
+      "schema_type": "SoftwareSourceCode",
+      "last_successful_source_commit": "55df0225f209c20e26adb39ccae3f7ac0b50a165",
+      "decision": "Retain the published route as a dated unranked reference when absent from the current discovery snapshot.",
+      "primary_sources": [
+        {
+          "url": "https://github.com/hamzafer/claude-code-mods/blob/main/README.md",
+          "title": "Publisher README",
+          "evidence_sha256": "9edce69da7ef6fa177c6f2287c4101d8102baceefb38536fe56a66476e9f0da5",
+          "blob_sha": "2d9ac729b3e9b6c32b966c30efb1cfa96305aeca"
+        }
+      ]
+    },
+    {
+      "slug": "jeecgboot-jeecgboot",
+      "entity": "jeecgboot/JeecgBoot",
+      "canonical_url": "https://skill.kymatalabs.com/p/jeecgboot-jeecgboot/",
+      "repository": "https://github.com/jeecgboot/JeecgBoot",
+      "summary": "Publisher description of jeecgboot/JeecgBoot (translated from Chinese): an enterprise AI low-code platform with built-in permissions, multi-tenancy, workflow, reporting, dashboards and an AI knowledge base. Its AI Skills generate tables, front-end and back-end code, menu permissions, BPM flows, forms and reports from a single instruction, and it includes an AI application platform for chat, knowledge bases, flow orchestration and MCP. It is built on Java and Vue3 and supports monolith or microservice deployment. The saved 2026-11-07 catalog classified it under MCP & Tools.",
+      "selection_context": "Use this dated reference to locate the publisher documentation for MCP & Tools work, then compare it with the current ranked catalog before choosing a tool.",
+      "limitations": "Dated publisher-documentation check, not an independent runtime, security or performance test. No current rank or momentum score is assigned. Verify current availability, license and requirements.",
+      "last_catalog_snapshot": "2026-11-07T15:24:40.076432+00:00",
+      "reviewed_on": "2026-11-25",
+      "schema_type": "SoftwareSourceCode",
+      "last_successful_source_commit": "55df0225f209c20e26adb39ccae3f7ac0b50a165",
+      "decision": "Retain the published route as a dated unranked reference when absent from the current discovery snapshot.",
+      "primary_sources": [
+        {
+          "url": "https://github.com/jeecgboot/JeecgBoot/blob/main/README.md",
+          "title": "Publisher README",
+          "evidence_sha256": "7402ed94e16ed49e8dddac7577224d7ed66d5fab772fe4ff93411cab78a85284",
+          "blob_sha": "0475f3f9aeb2eadcd1fe9562e93dee586db00e92"
+        }
+      ]
+    },
+    {
+      "slug": "kharmanskyi-open-steps",
+      "entity": "kharmanskyi/open-steps",
+      "canonical_url": "https://skill.kymatalabs.com/p/kharmanskyi-open-steps/",
+      "repository": "https://github.com/kharmanskyi/open-steps",
+      "summary": "Publisher description of kharmanskyi/open-steps: Plain-language agent skills for Claude Code, Codex, Cursor and Gemini CLI: honest session reports, straight verdicts, steps you can follow. MIT. The saved 2026-11-07 catalog classified it under General Skills.",
+      "selection_context": "Use this dated reference to locate the publisher documentation for General Skills work, then compare it with the current ranked catalog before choosing a tool.",
+      "limitations": "Dated publisher-documentation check, not an independent runtime, security or performance test. No current rank or momentum score is assigned. Verify current availability, license and requirements.",
+      "last_catalog_snapshot": "2026-11-07T15:24:40.076432+00:00",
+      "reviewed_on": "2026-11-25",
+      "schema_type": "SoftwareSourceCode",
+      "last_successful_source_commit": "55df0225f209c20e26adb39ccae3f7ac0b50a165",
+      "decision": "Retain the published route as a dated unranked reference when absent from the current discovery snapshot.",
+      "primary_sources": [
+        {
+          "url": "https://github.com/kharmanskyi/open-steps/blob/main/README.md",
+          "title": "Publisher README",
+          "evidence_sha256": "47fd213ad3c969cbc6f250ee7b71fadf1e81e44a6a4f211609fbfee670922036",
+          "blob_sha": "402c5a9ad6d91732693398aa15418c06d5d97662"
+        }
+      ]
+    },
+    {
+      "slug": "microsoft-power-platform-skills",
+      "entity": "microsoft/power-platform-skills",
+      "canonical_url": "https://skill.kymatalabs.com/p/microsoft-power-platform-skills/",
+      "repository": "https://github.com/microsoft/power-platform-skills",
+      "summary": "Publisher description of microsoft/power-platform-skills: A plugin marketplace for GitHub Copilot and other AI agents that provides Power Platform development plugins, including reusable skills, agents, and commands for building and deploying solutions. The saved 2026-11-07 catalog classified it under Design & UI.",
+      "selection_context": "Use this dated reference to locate the publisher documentation for Design & UI work, then compare it with the current ranked catalog before choosing a tool.",
+      "limitations": "Dated publisher-documentation check, not an independent runtime, security or performance test. No current rank or momentum score is assigned. Verify current availability, license and requirements.",
+      "last_catalog_snapshot": "2026-11-07T15:24:40.076432+00:00",
+      "reviewed_on": "2026-11-25",
+      "schema_type": "SoftwareSourceCode",
+      "last_successful_source_commit": "55df0225f209c20e26adb39ccae3f7ac0b50a165",
+      "decision": "Retain the published route as a dated unranked reference when absent from the current discovery snapshot.",
+      "primary_sources": [
+        {
+          "url": "https://github.com/microsoft/power-platform-skills/blob/main/README.md",
+          "title": "Publisher README",
+          "evidence_sha256": "9685ded9d5f4e95d318e8e7f9af36c58bb5332bbf1960f5ebb49780f08349c3b",
+          "blob_sha": "31ae3762b9de5c237e99df8d8c4f116981e28afb"
+        }
+      ]
+    },
+    {
+      "slug": "minicoohei-ai-agent-camp",
+      "entity": "minicoohei/ai-agent-camp",
+      "canonical_url": "https://skill.kymatalabs.com/p/minicoohei-ai-agent-camp/",
+      "repository": "https://github.com/minicoohei/ai-agent-camp",
+      "summary": "Publisher description of minicoohei/ai-agent-camp: AI Agent Camp, non-engineer-friendly AI agent training curriculum. Lessons, skills, commands, and hooks for Claude Code, Cursor, and Codex. The saved 2026-11-07 catalog classified it under Commands & Hooks.",
+      "selection_context": "Use this dated reference to locate the publisher documentation for Commands & Hooks work, then compare it with the current ranked catalog before choosing a tool.",
+      "limitations": "Dated publisher-documentation check, not an independent runtime, security or performance test. No current rank or momentum score is assigned. Verify current availability, license and requirements.",
+      "last_catalog_snapshot": "2026-11-07T15:24:40.076432+00:00",
+      "reviewed_on": "2026-11-25",
+      "schema_type": "SoftwareSourceCode",
+      "last_successful_source_commit": "55df0225f209c20e26adb39ccae3f7ac0b50a165",
+      "decision": "Retain the published route as a dated unranked reference when absent from the current discovery snapshot.",
+      "primary_sources": [
+        {
+          "url": "https://github.com/minicoohei/ai-agent-camp/blob/main/README.md",
+          "title": "Publisher README",
+          "evidence_sha256": "f06797525ca50e7910b3f97ac928bd4c27aa09e86bd15311d6a35aa563e05ddc",
+          "blob_sha": "95414b6f1cf057c83739c76e599870d58c68bb07"
+        }
+      ]
+    },
+    {
+      "slug": "nexu-io-html-anything",
+      "entity": "nexu-io/html-anything",
+      "canonical_url": "https://skill.kymatalabs.com/p/nexu-io-html-anything/",
+      "repository": "https://github.com/nexu-io/openmotion",
+      "summary": "Publisher description of nexu-io/html-anything: ✨ The agentic HTML editor, your local AI agent writes the HTML, you ship it. 🚀 75 Skills × 9 Surfaces (magazine · deck · poster · XHS / tweet · prototype · data report · Hyperframes) 🛡️ Sandboxed preview · 📤 1-click to WeChat / X / Zhihu / HTML / PNG 🔑 Zero API key, Claude Code / Cursor / Codex / Gemini / Copilot / OpenCode / Qwen / Aider. The saved 2026-11-07 catalog classified it under Design & UI.",
+      "selection_context": "Use this dated reference to locate the publisher documentation for Design & UI work, then compare it with the current ranked catalog before choosing a tool.",
+      "limitations": "Dated publisher-documentation check, not an independent runtime, security or performance test. No current rank or momentum score is assigned. Verify current availability, license and requirements. GitHub now resolves nexu-io/html-anything to nexu-io/openmotion. Confirm the current scope under that name.",
+      "last_catalog_snapshot": "2026-11-07T15:24:40.076432+00:00",
+      "reviewed_on": "2026-11-25",
+      "schema_type": "SoftwareSourceCode",
+      "last_successful_source_commit": "55df0225f209c20e26adb39ccae3f7ac0b50a165",
+      "decision": "Retain the published route as a dated unranked reference when absent from the current discovery snapshot.",
+      "previous_repository": "https://github.com/nexu-io/html-anything",
+      "primary_sources": [
+        {
+          "url": "https://github.com/nexu-io/openmotion/blob/main/README.md",
+          "title": "Publisher README",
+          "evidence_sha256": "cc89bbeed8fbed56e98bbf0c8daf85298d9299ea6be3193aaeaf4b71d18fb570",
+          "blob_sha": "a19cfb0579083d6a227eec14181a8cb2486dc293"
+        }
+      ]
+    },
+    {
+      "slug": "nocobase-nocobase",
+      "entity": "nocobase/nocobase",
+      "canonical_url": "https://skill.kymatalabs.com/p/nocobase-nocobase/",
+      "repository": "https://github.com/nocobase/nocobase",
+      "summary": "Publisher description of nocobase/nocobase: NocoBase is the open-source platform for building, running, and evolving business systems with AI. Agents write the code and do the work, NocoBase provides the foundation and governance, and people make the decisions. The saved 2026-11-07 catalog classified it under Commands & Hooks.",
+      "selection_context": "Use this dated reference to locate the publisher documentation for Commands & Hooks work, then compare it with the current ranked catalog before choosing a tool.",
+      "limitations": "Dated publisher-documentation check, not an independent runtime, security or performance test. No current rank or momentum score is assigned. Verify current availability, license and requirements.",
+      "last_catalog_snapshot": "2026-11-07T15:24:40.076432+00:00",
+      "reviewed_on": "2026-11-25",
+      "schema_type": "SoftwareSourceCode",
+      "last_successful_source_commit": "55df0225f209c20e26adb39ccae3f7ac0b50a165",
+      "decision": "Retain the published route as a dated unranked reference when absent from the current discovery snapshot.",
+      "primary_sources": [
+        {
+          "url": "https://github.com/nocobase/nocobase/blob/v3/README.md",
+          "title": "Publisher README",
+          "evidence_sha256": "2f7c54d3d8ef7eda37b2eba833e2b49023b2e37aafbe093c396b904dde674e7e",
+          "blob_sha": "f3d51682d5d9dc273094aca5691f801d57322e4c"
+        }
+      ]
+    },
+    {
+      "slug": "pascalorg-editor",
+      "entity": "pascalorg/editor",
+      "canonical_url": "https://skill.kymatalabs.com/p/pascalorg-editor/",
+      "repository": "https://github.com/pascalorg/editor",
+      "summary": "Publisher description of pascalorg/editor: Open-source 3D architectural editor with a local CLI, MCP tools, and practical workflows for humans and AI agents. The saved 2026-11-07 catalog classified it under MCP & Tools.",
+      "selection_context": "Use this dated reference to locate the publisher documentation for MCP & Tools work, then compare it with the current ranked catalog before choosing a tool.",
+      "limitations": "Dated publisher-documentation check, not an independent runtime, security or performance test. No current rank or momentum score is assigned. Verify current availability, license and requirements.",
+      "last_catalog_snapshot": "2026-11-07T15:24:40.076432+00:00",
+      "reviewed_on": "2026-11-25",
+      "schema_type": "SoftwareSourceCode",
+      "last_successful_source_commit": "55df0225f209c20e26adb39ccae3f7ac0b50a165",
+      "decision": "Retain the published route as a dated unranked reference when absent from the current discovery snapshot.",
+      "primary_sources": [
+        {
+          "url": "https://github.com/pascalorg/editor/blob/main/README.md",
+          "title": "Publisher README",
+          "evidence_sha256": "bb28bba4bfd9c3bcc30c940c76703d6edb378230af8e2fd29baba59c39ad01da",
+          "blob_sha": "6fca0e1e7258d791ba36bce3d0557479379fb99e"
+        }
+      ]
+    },
+    {
+      "slug": "phiat-claude-esp",
+      "entity": "phiat/claude-esp",
+      "canonical_url": "https://skill.kymatalabs.com/p/phiat-claude-esp/",
+      "repository": "https://github.com/phiat/claude-esp",
+      "summary": "Publisher description of phiat/claude-esp: Stream Claude Code's hidden output (thinking, tool calls, subagents) to a separate terminal in real-time. The saved 2026-11-07 catalog classified it under Subagents.",
+      "selection_context": "Use this dated reference to locate the publisher documentation for Subagents work, then compare it with the current ranked catalog before choosing a tool.",
+      "limitations": "Dated publisher-documentation check, not an independent runtime, security or performance test. No current rank or momentum score is assigned. Verify current availability, license and requirements.",
+      "last_catalog_snapshot": "2026-11-07T15:24:40.076432+00:00",
+      "reviewed_on": "2026-11-25",
+      "schema_type": "SoftwareSourceCode",
+      "last_successful_source_commit": "55df0225f209c20e26adb39ccae3f7ac0b50a165",
+      "decision": "Retain the published route as a dated unranked reference when absent from the current discovery snapshot.",
+      "primary_sources": [
+        {
+          "url": "https://github.com/phiat/claude-esp/blob/main/README.md",
+          "title": "Publisher README",
+          "evidence_sha256": "e86f7281f56ff6f6affe93b6a70c463c70dd30208d299c15c5626deb42bb1233",
+          "blob_sha": "46603be7e1447207979e0b5b3b741a8308aaba8b"
+        }
+      ]
+    },
+    {
+      "slug": "rehan-remade-universal-modder",
+      "entity": "rehan-remade/universal-modder",
+      "canonical_url": "https://skill.kymatalabs.com/p/rehan-remade-universal-modder/",
+      "repository": "https://github.com/rehan-remade/universal-modder",
+      "summary": "Publisher description of rehan-remade/universal-modder: Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos. The saved 2026-11-07 catalog classified it under MCP & Tools.",
+      "selection_context": "Use this dated reference to locate the publisher documentation for MCP & Tools work, then compare it with the current ranked catalog before choosing a tool.",
+      "limitations": "Dated publisher-documentation check, not an independent runtime, security or performance test. No current rank or momentum score is assigned. Verify current availability, license and requirements.",
+      "last_catalog_snapshot": "2026-11-07T15:24:40.076432+00:00",
+      "reviewed_on": "2026-11-25",
+      "schema_type": "SoftwareSourceCode",
+      "last_successful_source_commit": "55df0225f209c20e26adb39ccae3f7ac0b50a165",
+      "decision": "Retain the published route as a dated unranked reference when absent from the current discovery snapshot.",
+      "primary_sources": [
+        {
+          "url": "https://github.com/rehan-remade/universal-modder/blob/main/README.md",
+          "title": "Publisher README",
+          "evidence_sha256": "94cbc1b6c21621c9cd3bc4876eb30206c5a31dddd7ca5ca3cfe5f4deb852e07a",
+          "blob_sha": "7d762b1320094badc207b435548becbc2f85a276"
+        }
+      ]
+    },
+    {
+      "slug": "wulawulu-learn-claude-code-rs",
+      "entity": "wulawulu/learn-claude-code-rs",
+      "canonical_url": "https://skill.kymatalabs.com/p/wulawulu-learn-claude-code-rs/",
+      "repository": "https://github.com/wulawulu/learn-claude-code-rs",
+      "summary": "Publisher description of wulawulu/learn-claude-code-rs: Build an AI agent harness in Rust, from a minimal loop to tools, subagents, memory, teams, worktrees, MCP, and typed tool routing. The saved 2026-11-07 catalog classified it under MCP & Tools.",
+      "selection_context": "Use this dated reference to locate the publisher documentation for MCP & Tools work, then compare it with the current ranked catalog before choosing a tool.",
+      "limitations": "Dated publisher-documentation check, not an independent runtime, security or performance test. No current rank or momentum score is assigned. Verify current availability, license and requirements.",
+      "last_catalog_snapshot": "2026-11-07T15:24:40.076432+00:00",
+      "reviewed_on": "2026-11-25",
+      "schema_type": "SoftwareSourceCode",
+      "last_successful_source_commit": "55df0225f209c20e26adb39ccae3f7ac0b50a165",
+      "decision": "Retain the published route as a dated unranked reference when absent from the current discovery snapshot.",
+      "primary_sources": [
+        {
+          "url": "https://github.com/wulawulu/learn-claude-code-rs/blob/main/README.md",
+          "title": "Publisher README",
+          "evidence_sha256": "3cea0852a92e8df309c17336b38df151779eeed4fe91a9e023ec0be60b293a4f",
+          "blob_sha": "f909989f8c36eefea9e8503363b8ee302bd9c3cc"
+        }
+      ]
     }
   ],
   "retirements": [],
