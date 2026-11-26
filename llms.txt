@@ -2,7 +2,7 @@
 
 > The Skill Index: a source-backed catalog published by Kymata Labs.
 
-Snapshot collected: 2026-11-25T22:04:35.429320+00:00
+Snapshot collected: 2026-11-26T18:34:19.241276+00:00
 Current catalog records: 280
 
 ## Sources and interpretation
@@ -25,8 +25,8 @@ Momentum blends log-scaled GitHub stars (55%), push recency decaying over 180 da
 - [morluto/rea](https://skill.kymatalabs.com/p/morluto-rea/) — MCP & Tools
 - [affaan-m/ECC](https://skill.kymatalabs.com/p/affaan-m-ecc/) — MCP & Tools
 - [NousResearch/hermes-agent](https://skill.kymatalabs.com/p/nousresearch-hermes-agent/) — General Skills
-- [DietrichGebert/ponytail](https://skill.kymatalabs.com/p/dietrichgebert-ponytail/) — General Skills
 - [anthropics/skills](https://skill.kymatalabs.com/p/anthropics-skills/) — General Skills
+- [DietrichGebert/ponytail](https://skill.kymatalabs.com/p/dietrichgebert-ponytail/) — General Skills
 - [farion1231/cc-switch](https://skill.kymatalabs.com/p/farion1231-cc-switch/) — MCP & Tools
 - [nextlevelbuilder/ui-ux-pro-max-skill](https://skill.kymatalabs.com/p/nextlevelbuilder-ui-ux-pro-max-skill/) — Design & UI
 - [Graphify-Labs/graphify](https://skill.kymatalabs.com/p/graphify-labs-graphify/) — MCP & Tools
@@ -35,23 +35,23 @@ Momentum blends log-scaled GitHub stars (55%), push recency decaying over 180 da
 - [Leonxlnx/taste-skill](https://skill.kymatalabs.com/p/leonxlnx-taste-skill/) — Design & UI
 - [addyosmani/agent-skills](https://skill.kymatalabs.com/p/addyosmani-agent-skills/) — General Skills
 - [thedotmack/claude-mem](https://skill.kymatalabs.com/p/thedotmack-claude-mem/) — Memory & Context
-- [paperclipai/paperclip](https://skill.kymatalabs.com/p/paperclipai-paperclip/) — MCP & Tools
 - [pbakaus/impeccable](https://skill.kymatalabs.com/p/pbakaus-impeccable/) — Design & UI
+- [paperclipai/paperclip](https://skill.kymatalabs.com/p/paperclipai-paperclip/) — MCP & Tools
 - [Panniantong/Agent-Reach](https://skill.kymatalabs.com/p/panniantong-agent-reach/) — MCP & Tools
 - [nexu-io/open-design](https://skill.kymatalabs.com/p/nexu-io-open-design/) — Design & UI
 - [ruvnet/RuView](https://skill.kymatalabs.com/p/ruvnet-ruview/) — MCP & Tools
 - [tt-a1i/archify](https://skill.kymatalabs.com/p/tt-a1i-archify/) — Design & UI
 - [Egonex-AI/Understand-Anything](https://skill.kymatalabs.com/p/egonex-ai-understand-anything/) — Memory & Context
-- [cheaper-inference/OmniRoute](https://skill.kymatalabs.com/p/cheaper-inference-omniroute/) — MCP & Tools
 - [heygen-com/hyperframes](https://skill.kymatalabs.com/p/heygen-com-hyperframes/) — MCP & Tools
+- [cheaper-inference/OmniRoute](https://skill.kymatalabs.com/p/cheaper-inference-omniroute/) — MCP & Tools
 - [rtk-ai/rtk](https://skill.kymatalabs.com/p/rtk-ai-rtk/) — General Skills
 - [career-ops-hq/career-ops](https://skill.kymatalabs.com/p/career-ops-hq-career-ops/) — General Skills
 - [ruvnet/ruflo](https://skill.kymatalabs.com/p/ruvnet-ruflo/) — MCP & Tools
-- [headroomlabs-ai/headroom](https://skill.kymatalabs.com/p/headroomlabs-ai-headroom/) — MCP & Tools
 - [pingdotgg/t3code](https://skill.kymatalabs.com/p/pingdotgg-t3code/) — Subagents
+- [headroomlabs-ai/headroom](https://skill.kymatalabs.com/p/headroomlabs-ai-headroom/) — MCP & Tools
 - [mvanhorn/last30days-skill](https://skill.kymatalabs.com/p/mvanhorn-last30days-skill/) — General Skills
-- [ai-job-search-dev/ai-job-search](https://skill.kymatalabs.com/p/ai-job-search-dev-ai-job-search/) — Design & UI
 - [cathrynlavery/diagram-design](https://skill.kymatalabs.com/p/cathrynlavery-diagram-design/) — Design & UI
+- [ai-job-search-dev/ai-job-search](https://skill.kymatalabs.com/p/ai-job-search-dev-ai-job-search/) — Design & UI
 - [asgeirtj/system_prompts_leaks](https://skill.kymatalabs.com/p/asgeirtj-system-prompts-leaks/) — General Skills
 - [code-yeongyu/oh-my-openagent](https://skill.kymatalabs.com/p/code-yeongyu-oh-my-openagent/) — Subagents
 - [shanraisshan/claude-code-best-practice](https://skill.kymatalabs.com/p/shanraisshan-claude-code-best-practice/) — Commands & Hooks
