@@ -1081,6 +1081,52 @@
           "blob_sha": "f909989f8c36eefea9e8503363b8ee302bd9c3cc"
         }
       ]
+    },
+    {
+      "slug": "ark0n-codeman",
+      "entity": "Ark0N/Codeman",
+      "canonical_url": "https://skill.kymatalabs.com/p/ark0n-codeman/",
+      "repository": "https://github.com/Ark0N/Codeman",
+      "summary": "Publisher description of Ark0N/Codeman: Self-hosted mission control for AI coding agents: run Claude Code, OpenCode, Pi, Codex, and Antigravity & Gemini CLI 24/7, from any device, watch every subagent live. The saved 2026-11-26 catalog classified it under Subagents.",
+      "selection_context": "Use this dated reference to locate the publisher documentation for Subagents work, then compare it with the current ranked catalog before choosing a tool.",
+      "limitations": "Automated dated publisher-documentation check, not an independent runtime, security or performance test. No current rank or momentum score is assigned. Verify current availability, license and requirements.",
+      "last_catalog_snapshot": "2026-11-26T18:34:19.241276+00:00",
+      "reviewed_on": "2026-11-27",
+      "last_successful_source_commit": "9a8856f7026eb87b2ed8933de8133c6a88d97d0f",
+      "decision": "Retain the published route as a dated unranked reference when absent from the current discovery snapshot.",
+      "upstream_status": "publisher source reachable (HTTP 200) on the 2026-11-27 automated check",
+      "primary_sources": [
+        {
+          "url": "https://github.com/Ark0N/Codeman/blob/master/README.md",
+          "title": "Publisher README",
+          "evidence_sha256": "149916ca10aaaf9b11665e6dc69b44f45b9cbb9e0e1a6be6e29887676a3cefb8",
+          "blob_sha": "5e2837c86e8919f78c10b0eca18163a0481ee243"
+        }
+      ],
+      "evidence_sha256": "149916ca10aaaf9b11665e6dc69b44f45b9cbb9e0e1a6be6e29887676a3cefb8"
+    },
+    {
+      "slug": "littleben-awesomeagentskills",
+      "entity": "littleben/awesomeAgentskills",
+      "canonical_url": "https://skill.kymatalabs.com/p/littleben-awesomeagentskills/",
+      "repository": "https://github.com/littleben/awesomeAgentskills",
+      "summary": "The saved 2026-11-26 catalog classified littleben/awesomeAgentskills under Collections; the publisher description is not in English, so see the README for scope.",
+      "selection_context": "Use this dated reference to locate the publisher documentation for Collections work, then compare it with the current ranked catalog before choosing a tool.",
+      "limitations": "Automated dated publisher-documentation check, not an independent runtime, security or performance test. No current rank or momentum score is assigned. Verify current availability, license and requirements.",
+      "last_catalog_snapshot": "2026-11-26T18:34:19.241276+00:00",
+      "reviewed_on": "2026-11-27",
+      "last_successful_source_commit": "9a8856f7026eb87b2ed8933de8133c6a88d97d0f",
+      "decision": "Retain the published route as a dated unranked reference when absent from the current discovery snapshot.",
+      "upstream_status": "publisher source reachable (HTTP 200) on the 2026-11-27 automated check",
+      "primary_sources": [
+        {
+          "url": "https://github.com/littleben/awesomeAgentskills/blob/main/README.md",
+          "title": "Publisher README",
+          "evidence_sha256": "2ff236c67f1ac721ee67604def6eb8a997d0abfeb6fa1cbde84a846fb40d9e4e",
+          "blob_sha": "b9ac1865297cd76526897ee1b3a25c02f9c7c866"
+        }
+      ],
+      "evidence_sha256": "2ff236c67f1ac721ee67604def6eb8a997d0abfeb6fa1cbde84a846fb40d9e4e"
     }
   ],
   "retirements": [],
