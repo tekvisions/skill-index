@@ -2,7 +2,7 @@
 
 > The Skill Index: a source-backed catalog published by Kymata Labs.
 
-Snapshot collected: 2026-11-27T18:22:02.097150+00:00
+Snapshot collected: 2026-11-28T17:05:26.409288+00:00
 Current catalog records: 280
 
 ## Sources and interpretation
@@ -33,12 +33,12 @@ Momentum blends log-scaled GitHub stars (55%), push recency decaying over 180 da
 - [anthropics/skills](https://skill.kymatalabs.com/p/anthropics-skills/) — General Skills
 - [JuliusBrussee/caveman](https://skill.kymatalabs.com/p/juliusbrussee-caveman/) — General Skills
 - [Leonxlnx/taste-skill](https://skill.kymatalabs.com/p/leonxlnx-taste-skill/) — Design & UI
-- [addyosmani/agent-skills](https://skill.kymatalabs.com/p/addyosmani-agent-skills/) — General Skills
 - [thedotmack/claude-mem](https://skill.kymatalabs.com/p/thedotmack-claude-mem/) — Memory & Context
 - [pbakaus/impeccable](https://skill.kymatalabs.com/p/pbakaus-impeccable/) — Design & UI
 - [paperclipai/paperclip](https://skill.kymatalabs.com/p/paperclipai-paperclip/) — MCP & Tools
 - [nexu-io/open-design](https://skill.kymatalabs.com/p/nexu-io-open-design/) — Design & UI
 - [ruvnet/RuView](https://skill.kymatalabs.com/p/ruvnet-ruview/) — MCP & Tools
+- [addyosmani/agent-skills](https://skill.kymatalabs.com/p/addyosmani-agent-skills/) — General Skills
 - [Panniantong/Agent-Reach](https://skill.kymatalabs.com/p/panniantong-agent-reach/) — MCP & Tools
 - [tt-a1i/archify](https://skill.kymatalabs.com/p/tt-a1i-archify/) — Design & UI
 - [Egonex-AI/Understand-Anything](https://skill.kymatalabs.com/p/egonex-ai-understand-anything/) — Memory & Context
@@ -46,8 +46,8 @@ Momentum blends log-scaled GitHub stars (55%), push recency decaying over 180 da
 - [cheaper-inference/OmniRoute](https://skill.kymatalabs.com/p/cheaper-inference-omniroute/) — MCP & Tools
 - [rtk-ai/rtk](https://skill.kymatalabs.com/p/rtk-ai-rtk/) — General Skills
 - [career-ops-hq/career-ops](https://skill.kymatalabs.com/p/career-ops-hq-career-ops/) — General Skills
-- [ruvnet/ruflo](https://skill.kymatalabs.com/p/ruvnet-ruflo/) — MCP & Tools
 - [pingdotgg/t3code](https://skill.kymatalabs.com/p/pingdotgg-t3code/) — Subagents
+- [ruvnet/ruflo](https://skill.kymatalabs.com/p/ruvnet-ruflo/) — MCP & Tools
 - [headroomlabs-ai/headroom](https://skill.kymatalabs.com/p/headroomlabs-ai-headroom/) — MCP & Tools
 - [mvanhorn/last30days-skill](https://skill.kymatalabs.com/p/mvanhorn-last30days-skill/) — General Skills
 - [cathrynlavery/diagram-design](https://skill.kymatalabs.com/p/cathrynlavery-diagram-design/) — Design & UI
@@ -56,12 +56,12 @@ Momentum blends log-scaled GitHub stars (55%), push recency decaying over 180 da
 - [code-yeongyu/oh-my-openagent](https://skill.kymatalabs.com/p/code-yeongyu-oh-my-openagent/) — Subagents
 - [shanraisshan/claude-code-best-practice](https://skill.kymatalabs.com/p/shanraisshan-claude-code-best-practice/) — Commands & Hooks
 - [google/elephant-goldfish-model](https://skill.kymatalabs.com/p/google-elephant-goldfish-model/) — Subagents
-- [OpenMontageInc/OpenMontage](https://skill.kymatalabs.com/p/openmontageinc-openmontage/) — Design & UI
 - [blader/humanizer](https://skill.kymatalabs.com/p/blader-humanizer/) — Writing & Content
 - [coreyhaines31/marketingskills](https://skill.kymatalabs.com/p/coreyhaines31-marketingskills/) — Writing & Content
 - [ayghri/i-have-adhd](https://skill.kymatalabs.com/p/ayghri-i-have-adhd/) — General Skills
 - [router-for-me/CLIProxyAPI](https://skill.kymatalabs.com/p/router-for-me-cliproxyapi/) — Design & UI
 - [hesreallyhim/awesome-claude-code](https://skill.kymatalabs.com/p/hesreallyhim-awesome-claude-code/) — Collections
+- [Imbad0202/academic-research-skills](https://skill.kymatalabs.com/p/imbad0202-academic-research-skills/) — Quality & Review
 
 ## Unranked inclusion-review references
 
